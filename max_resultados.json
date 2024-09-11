@@ -1,0 +1,3698 @@
+[
+    {
+        "probe_id": 243,
+        "timestamp": 1725076808,
+        "quantidade_saltos": 9,
+        "latencia": 30.153
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725076817,
+        "quantidade_saltos": 9,
+        "latencia": 11.768
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725076818,
+        "quantidade_saltos": 11,
+        "latencia": 24.895
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725076914,
+        "quantidade_saltos": 12,
+        "latencia": 14.272
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725076919,
+        "quantidade_saltos": 7,
+        "latencia": 0.765
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725076912,
+        "quantidade_saltos": 6,
+        "latencia": 179.017
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725076914,
+        "quantidade_saltos": 16,
+        "latencia": 133.244
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725076914,
+        "quantidade_saltos": 10,
+        "latencia": 17.549
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725076884,
+        "quantidade_saltos": 12,
+        "latencia": 76.257
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725076915,
+        "quantidade_saltos": 8,
+        "latencia": 14.722
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725076919,
+        "quantidade_saltos": 12,
+        "latencia": 2.781
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725076918,
+        "quantidade_saltos": 24,
+        "latencia": 86.063
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725076965,
+        "quantidade_saltos": 27,
+        "latencia": 173.352
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725076970,
+        "quantidade_saltos": 9,
+        "latencia": 45.367
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725076920,
+        "quantidade_saltos": 13,
+        "latencia": 17.491
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725076920,
+        "quantidade_saltos": 6,
+        "latencia": 23.81
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725076922,
+        "quantidade_saltos": 13,
+        "latencia": 46.89
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725076998,
+        "quantidade_saltos": 12,
+        "latencia": 12.946
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725077089,
+        "quantidade_saltos": 10,
+        "latencia": 3.515
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725077044,
+        "quantidade_saltos": 10,
+        "latencia": 14.82
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725077044,
+        "quantidade_saltos": 8,
+        "latencia": 6.126
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725077046,
+        "quantidade_saltos": 5,
+        "latencia": 36.554
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725077074,
+        "quantidade_saltos": 17,
+        "latencia": 224.174
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725077151,
+        "quantidade_saltos": 14,
+        "latencia": 12.391
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725077158,
+        "quantidade_saltos": 13,
+        "latencia": 164.193
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725077170,
+        "quantidade_saltos": 10,
+        "latencia": 8.199
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725077165,
+        "quantidade_saltos": 8,
+        "latencia": 12.061
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725077186,
+        "quantidade_saltos": 9,
+        "latencia": 6.446
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725084008,
+        "quantidade_saltos": 9,
+        "latencia": 21.821
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725084018,
+        "quantidade_saltos": 7,
+        "latencia": 16.559
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725084008,
+        "quantidade_saltos": 12,
+        "latencia": 24.308
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725084112,
+        "quantidade_saltos": 13,
+        "latencia": 13.846
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725084116,
+        "quantidade_saltos": 6,
+        "latencia": 175.903
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725084115,
+        "quantidade_saltos": 26,
+        "latencia": 170.607
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725084118,
+        "quantidade_saltos": 10,
+        "latencia": 17.81
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725084094,
+        "quantidade_saltos": 12,
+        "latencia": 75.937
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725084118,
+        "quantidade_saltos": 8,
+        "latencia": 15.058
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725084113,
+        "quantidade_saltos": 24,
+        "latencia": 86.058
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725084120,
+        "quantidade_saltos": 7,
+        "latencia": 0.91
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725084168,
+        "quantidade_saltos": 27,
+        "latencia": 176.858
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725084166,
+        "quantidade_saltos": 9,
+        "latencia": 15.067
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725084126,
+        "quantidade_saltos": 13,
+        "latencia": 17.958
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725084121,
+        "quantidade_saltos": 12,
+        "latencia": 2.926
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725084123,
+        "quantidade_saltos": 6,
+        "latencia": 29.151
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725084120,
+        "quantidade_saltos": 13,
+        "latencia": 41.101
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725084231,
+        "quantidade_saltos": 8,
+        "latencia": 6.339
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725084187,
+        "quantidade_saltos": 12,
+        "latencia": 22.524
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725084286,
+        "quantidade_saltos": 10,
+        "latencia": 4.75
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725084246,
+        "quantidade_saltos": 10,
+        "latencia": 13.905
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725084247,
+        "quantidade_saltos": 6,
+        "latencia": 36.503
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725084286,
+        "quantidade_saltos": 17,
+        "latencia": 224.201
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725084358,
+        "quantidade_saltos": 14,
+        "latencia": 11.758
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725084361,
+        "quantidade_saltos": 13,
+        "latencia": 68.842
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725084364,
+        "quantidade_saltos": 10,
+        "latencia": 8.019
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725084370,
+        "quantidade_saltos": 6,
+        "latencia": 11.445
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725084381,
+        "quantidade_saltos": 9,
+        "latencia": 6.786
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725091206,
+        "quantidade_saltos": 9,
+        "latencia": 31.134
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725091215,
+        "quantidade_saltos": 7,
+        "latencia": 11.774
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725091210,
+        "quantidade_saltos": 11,
+        "latencia": 28.672
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725091316,
+        "quantidade_saltos": 12,
+        "latencia": 12.78
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725091319,
+        "quantidade_saltos": 6,
+        "latencia": 179.018
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725091316,
+        "quantidade_saltos": 26,
+        "latencia": 201.236
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725091296,
+        "quantidade_saltos": 12,
+        "latencia": 76.275
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725091316,
+        "quantidade_saltos": 13,
+        "latencia": 18.496
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725091312,
+        "quantidade_saltos": 8,
+        "latencia": 15.434
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725091314,
+        "quantidade_saltos": 15,
+        "latencia": 77.004
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725091313,
+        "quantidade_saltos": 24,
+        "latencia": 86.36
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725091314,
+        "quantidade_saltos": 13,
+        "latencia": 57.89
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725091324,
+        "quantidade_saltos": 7,
+        "latencia": 0.725
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725091370,
+        "quantidade_saltos": 27,
+        "latencia": 171.055
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725091365,
+        "quantidade_saltos": 9,
+        "latencia": 53.132
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725091324,
+        "quantidade_saltos": 10,
+        "latencia": 17.983
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725091333,
+        "quantidade_saltos": 1,
+        "latencia": null
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725091393,
+        "quantidade_saltos": 13,
+        "latencia": 13.273
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725091487,
+        "quantidade_saltos": 10,
+        "latencia": 4.747
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725091451,
+        "quantidade_saltos": 13,
+        "latencia": 16.903
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725091444,
+        "quantidade_saltos": 8,
+        "latencia": 6.336
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725091451,
+        "quantidade_saltos": 6,
+        "latencia": 35.927
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725091481,
+        "quantidade_saltos": 17,
+        "latencia": 229.313
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725091554,
+        "quantidade_saltos": 14,
+        "latencia": 12.186
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725091559,
+        "quantidade_saltos": 13,
+        "latencia": 75.363
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725091561,
+        "quantidade_saltos": 10,
+        "latencia": 8.709
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725091566,
+        "quantidade_saltos": 8,
+        "latencia": 8.252
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725091574,
+        "quantidade_saltos": 9,
+        "latencia": 6.89
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725098410,
+        "quantidade_saltos": 9,
+        "latencia": 25.362
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725098411,
+        "quantidade_saltos": 7,
+        "latencia": 11.812
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725098405,
+        "quantidade_saltos": 11,
+        "latencia": 25.161
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725098512,
+        "quantidade_saltos": 12,
+        "latencia": 12.959
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725098501,
+        "quantidade_saltos": 12,
+        "latencia": 76.871
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725098518,
+        "quantidade_saltos": 15,
+        "latencia": 76.737
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725098516,
+        "quantidade_saltos": 10,
+        "latencia": null
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725098521,
+        "quantidade_saltos": 7,
+        "latencia": 0.715
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725098524,
+        "quantidade_saltos": 6,
+        "latencia": 178.164
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725098520,
+        "quantidade_saltos": 26,
+        "latencia": 175.911
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725098562,
+        "quantidade_saltos": 27,
+        "latencia": 177.94
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725098573,
+        "quantidade_saltos": 9,
+        "latencia": 18.836
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725098523,
+        "quantidade_saltos": 10,
+        "latencia": 17.073
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725098526,
+        "quantidade_saltos": 13,
+        "latencia": 17.734
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725098520,
+        "quantidade_saltos": 8,
+        "latencia": 15.883
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725098520,
+        "quantidade_saltos": 24,
+        "latencia": 86.178
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725098524,
+        "quantidade_saltos": 13,
+        "latencia": 57.698
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725098633,
+        "quantidade_saltos": 8,
+        "latencia": 5.986
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725098595,
+        "quantidade_saltos": 13,
+        "latencia": 38.375
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725098682,
+        "quantidade_saltos": 10,
+        "latencia": 4.564
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725098646,
+        "quantidade_saltos": 10,
+        "latencia": 17.726
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725098650,
+        "quantidade_saltos": 10,
+        "latencia": 76.631
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725098677,
+        "quantidade_saltos": 17,
+        "latencia": 231.366
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725098759,
+        "quantidade_saltos": 14,
+        "latencia": 11.952
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725098763,
+        "quantidade_saltos": 13,
+        "latencia": 163.797
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725098761,
+        "quantidade_saltos": 10,
+        "latencia": 7.996
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725098760,
+        "quantidade_saltos": 8,
+        "latencia": 8.21
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725098779,
+        "quantidade_saltos": 9,
+        "latencia": 10.755
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725105606,
+        "quantidade_saltos": 4,
+        "latencia": null
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725105612,
+        "quantidade_saltos": 7,
+        "latencia": 11.707
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725105605,
+        "quantidade_saltos": 11,
+        "latencia": 27.46
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725105716,
+        "quantidade_saltos": 6,
+        "latencia": 176.112
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725105714,
+        "quantidade_saltos": 26,
+        "latencia": 185.015
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725105684,
+        "quantidade_saltos": 12,
+        "latencia": 76.081
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725105718,
+        "quantidade_saltos": 11,
+        "latencia": 15.93
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725105718,
+        "quantidade_saltos": 12,
+        "latencia": 2.992
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725105717,
+        "quantidade_saltos": 6,
+        "latencia": 28.255
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725105715,
+        "quantidade_saltos": 13,
+        "latencia": 56.973
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725105727,
+        "quantidade_saltos": 12,
+        "latencia": 12.776
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725105723,
+        "quantidade_saltos": 7,
+        "latencia": 0.801
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725105762,
+        "quantidade_saltos": 27,
+        "latencia": 178.267
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725105769,
+        "quantidade_saltos": 9,
+        "latencia": 71.104
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725105726,
+        "quantidade_saltos": 10,
+        "latencia": 17.74
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725105723,
+        "quantidade_saltos": 8,
+        "latencia": 15.747
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725105721,
+        "quantidade_saltos": 24,
+        "latencia": 98.395
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725105794,
+        "quantidade_saltos": 13,
+        "latencia": 16.101
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725105891,
+        "quantidade_saltos": 10,
+        "latencia": 4.726
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725105846,
+        "quantidade_saltos": 11,
+        "latencia": 15.75
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725105841,
+        "quantidade_saltos": 8,
+        "latencia": 6.34
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725105857,
+        "quantidade_saltos": 10,
+        "latencia": 69.595
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725105877,
+        "quantidade_saltos": 15,
+        "latencia": 120.1
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725105954,
+        "quantidade_saltos": 6,
+        "latencia": 12.66
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725105961,
+        "quantidade_saltos": 13,
+        "latencia": 69.247
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725105971,
+        "quantidade_saltos": 10,
+        "latencia": 8.346
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725105961,
+        "quantidade_saltos": 8,
+        "latencia": 11.531
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725105974,
+        "quantidade_saltos": 9,
+        "latencia": 6.657
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725112813,
+        "quantidade_saltos": 9,
+        "latencia": 25.299
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725112810,
+        "quantidade_saltos": 7,
+        "latencia": 20.873
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725112814,
+        "quantidade_saltos": 10,
+        "latencia": 25.264
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725112917,
+        "quantidade_saltos": 12,
+        "latencia": 12.924
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725112915,
+        "quantidade_saltos": 7,
+        "latencia": 0.794
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725112911,
+        "quantidade_saltos": 6,
+        "latencia": 179.029
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725112884,
+        "quantidade_saltos": 12,
+        "latencia": 77.946
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725112917,
+        "quantidade_saltos": 13,
+        "latencia": 17.577
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725112913,
+        "quantidade_saltos": 8,
+        "latencia": 15.131
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725112915,
+        "quantidade_saltos": 6,
+        "latencia": 23.975
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725112914,
+        "quantidade_saltos": 24,
+        "latencia": 91.464
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725112916,
+        "quantidade_saltos": 13,
+        "latencia": 33.721
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725112922,
+        "quantidade_saltos": 26,
+        "latencia": 187.53
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725112967,
+        "quantidade_saltos": 18,
+        "latencia": 136.692
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725112973,
+        "quantidade_saltos": 9,
+        "latencia": 30.221
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725112922,
+        "quantidade_saltos": 10,
+        "latencia": 17.034
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725112924,
+        "quantidade_saltos": 15,
+        "latencia": 76.772
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725113037,
+        "quantidade_saltos": 8,
+        "latencia": 6.688
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725112991,
+        "quantidade_saltos": 13,
+        "latencia": 13.593
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725113082,
+        "quantidade_saltos": 10,
+        "latencia": 5.07
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725113045,
+        "quantidade_saltos": 10,
+        "latencia": 15.713
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725113054,
+        "quantidade_saltos": 5,
+        "latencia": 36.486
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725113072,
+        "quantidade_saltos": 15,
+        "latencia": 122.592
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725113149,
+        "quantidade_saltos": 14,
+        "latencia": 12.944
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725113164,
+        "quantidade_saltos": 16,
+        "latencia": 69.209
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725113162,
+        "quantidade_saltos": 10,
+        "latencia": 13.697
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725113161,
+        "quantidade_saltos": 8,
+        "latencia": 8.23
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725113172,
+        "quantidade_saltos": 9,
+        "latencia": 6.843
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725120014,
+        "quantidade_saltos": 9,
+        "latencia": 23.704
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725120007,
+        "quantidade_saltos": 7,
+        "latencia": 11.7
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725120018,
+        "quantidade_saltos": 12,
+        "latencia": 33.995
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725120114,
+        "quantidade_saltos": 12,
+        "latencia": 12.895
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725120103,
+        "quantidade_saltos": 12,
+        "latencia": 77.685
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725120112,
+        "quantidade_saltos": 11,
+        "latencia": 15.684
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725120114,
+        "quantidade_saltos": 15,
+        "latencia": 76.784
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725120117,
+        "quantidade_saltos": 6,
+        "latencia": 38.006
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725120115,
+        "quantidade_saltos": 24,
+        "latencia": 98.452
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725120115,
+        "quantidade_saltos": 12,
+        "latencia": 16.59
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725120122,
+        "quantidade_saltos": 7,
+        "latencia": 0.824
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725120122,
+        "quantidade_saltos": 6,
+        "latencia": 179.231
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725120125,
+        "quantidade_saltos": 26,
+        "latencia": 175.893
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725120171,
+        "quantidade_saltos": 27,
+        "latencia": 177.897
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725120166,
+        "quantidade_saltos": 9,
+        "latencia": 14.371
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725120123,
+        "quantidade_saltos": 10,
+        "latencia": 17.976
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725120122,
+        "quantidade_saltos": 8,
+        "latencia": 14.737
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725120197,
+        "quantidade_saltos": 11,
+        "latencia": 11.178
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725120280,
+        "quantidade_saltos": 10,
+        "latencia": 4.841
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725120256,
+        "quantidade_saltos": 10,
+        "latencia": 16.568
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725120246,
+        "quantidade_saltos": 8,
+        "latencia": 6.629
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725120249,
+        "quantidade_saltos": 6,
+        "latencia": 34.484
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725120285,
+        "quantidade_saltos": 15,
+        "latencia": 119.335
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725120348,
+        "quantidade_saltos": 14,
+        "latencia": 11.974
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725120356,
+        "quantidade_saltos": 19,
+        "latencia": 171.97
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725120357,
+        "quantidade_saltos": 10,
+        "latencia": 8.819
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725120368,
+        "quantidade_saltos": 8,
+        "latencia": 12.049
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725120381,
+        "quantidade_saltos": 9,
+        "latencia": 6.723
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725127206,
+        "quantidade_saltos": 9,
+        "latencia": 23.912
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725127213,
+        "quantidade_saltos": 7,
+        "latencia": 11.716
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725127214,
+        "quantidade_saltos": 10,
+        "latencia": null
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725127314,
+        "quantidade_saltos": 12,
+        "latencia": 12.875
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725127315,
+        "quantidade_saltos": 26,
+        "latencia": 184.943
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725127291,
+        "quantidade_saltos": 12,
+        "latencia": 75.945
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725127313,
+        "quantidade_saltos": 8,
+        "latencia": 15.491
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725127314,
+        "quantidade_saltos": 6,
+        "latencia": 41.454
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725127325,
+        "quantidade_saltos": 7,
+        "latencia": 0.695
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725127320,
+        "quantidade_saltos": 6,
+        "latencia": 198.34
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725127370,
+        "quantidade_saltos": 27,
+        "latencia": 171.024
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725127363,
+        "quantidade_saltos": 9,
+        "latencia": 10.644
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725127326,
+        "quantidade_saltos": 10,
+        "latencia": 17.739
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725127325,
+        "quantidade_saltos": 11,
+        "latencia": 16.707
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725127321,
+        "quantidade_saltos": 15,
+        "latencia": 76.727
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725127326,
+        "quantidade_saltos": 24,
+        "latencia": 86.372
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725127325,
+        "quantidade_saltos": 12,
+        "latencia": 17.044
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725127433,
+        "quantidade_saltos": 8,
+        "latencia": 6.011
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725127395,
+        "quantidade_saltos": 13,
+        "latencia": 18.631
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725127493,
+        "quantidade_saltos": 10,
+        "latencia": 4.989
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725127450,
+        "quantidade_saltos": 13,
+        "latencia": 16.2
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725127447,
+        "quantidade_saltos": 5,
+        "latencia": 39.602
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725127474,
+        "quantidade_saltos": 15,
+        "latencia": 121.168
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725127548,
+        "quantidade_saltos": 14,
+        "latencia": 12.454
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725127558,
+        "quantidade_saltos": 8,
+        "latencia": 8.293
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725127561,
+        "quantidade_saltos": 13,
+        "latencia": 168.806
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725127566,
+        "quantidade_saltos": 10,
+        "latencia": 11.114
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725127583,
+        "quantidade_saltos": 9,
+        "latencia": 6.817
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725134413,
+        "quantidade_saltos": 9,
+        "latencia": 21.108
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725134415,
+        "quantidade_saltos": 7,
+        "latencia": 11.762
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725134416,
+        "quantidade_saltos": 10,
+        "latencia": 33.298
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725134516,
+        "quantidade_saltos": 12,
+        "latencia": 12.872
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725134518,
+        "quantidade_saltos": 26,
+        "latencia": 184.906
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725134515,
+        "quantidade_saltos": 10,
+        "latencia": 18.264
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725134488,
+        "quantidade_saltos": 12,
+        "latencia": 77.963
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725134518,
+        "quantidade_saltos": 13,
+        "latencia": 18.668
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725134517,
+        "quantidade_saltos": 15,
+        "latencia": 76.831
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725134523,
+        "quantidade_saltos": 7,
+        "latencia": 0.524
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725134520,
+        "quantidade_saltos": 6,
+        "latencia": 179.103
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725134567,
+        "quantidade_saltos": 27,
+        "latencia": 171.025
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725134568,
+        "quantidade_saltos": 9,
+        "latencia": 9.367
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725134524,
+        "quantidade_saltos": 8,
+        "latencia": 14.612
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725134522,
+        "quantidade_saltos": 6,
+        "latencia": 38.329
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725134520,
+        "quantidade_saltos": 24,
+        "latencia": 86.322
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725134526,
+        "quantidade_saltos": 12,
+        "latencia": 15.247
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725134635,
+        "quantidade_saltos": 8,
+        "latencia": 5.914
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725134584,
+        "quantidade_saltos": 11,
+        "latencia": 9.769
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725134691,
+        "quantidade_saltos": 10,
+        "latencia": 4.663
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725134647,
+        "quantidade_saltos": 13,
+        "latencia": 17.878
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725134649,
+        "quantidade_saltos": 6,
+        "latencia": 35.269
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725134684,
+        "quantidade_saltos": 15,
+        "latencia": 120.901
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725134760,
+        "quantidade_saltos": 14,
+        "latencia": 14.794
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725134770,
+        "quantidade_saltos": 16,
+        "latencia": 69.215
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725134767,
+        "quantidade_saltos": 10,
+        "latencia": 8.588
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725134766,
+        "quantidade_saltos": 8,
+        "latencia": 11.448
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725134785,
+        "quantidade_saltos": 9,
+        "latencia": 6.605
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725141614,
+        "quantidade_saltos": 9,
+        "latencia": 25.49
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725141613,
+        "quantidade_saltos": 7,
+        "latencia": 11.658
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725141607,
+        "quantidade_saltos": 10,
+        "latencia": 21.485
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725141715,
+        "quantidade_saltos": 12,
+        "latencia": 12.912
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725141718,
+        "quantidade_saltos": 7,
+        "latencia": 0.585
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725141719,
+        "quantidade_saltos": 10,
+        "latencia": 16.558
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725141694,
+        "quantidade_saltos": 15,
+        "latencia": 80.995
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725141719,
+        "quantidade_saltos": 8,
+        "latencia": 15.237
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725141714,
+        "quantidade_saltos": 15,
+        "latencia": 76.648
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725141718,
+        "quantidade_saltos": 12,
+        "latencia": 19.927
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725141720,
+        "quantidade_saltos": 6,
+        "latencia": 179.177
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725141722,
+        "quantidade_saltos": 26,
+        "latencia": 184.943
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725141774,
+        "quantidade_saltos": 27,
+        "latencia": 177.859
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725141774,
+        "quantidade_saltos": 9,
+        "latencia": 11.043
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725141724,
+        "quantidade_saltos": 11,
+        "latencia": 15.816
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725141722,
+        "quantidade_saltos": 6,
+        "latencia": 41.469
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725141721,
+        "quantidade_saltos": 24,
+        "latencia": 86.117
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725141836,
+        "quantidade_saltos": 8,
+        "latencia": 6.069
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725141788,
+        "quantidade_saltos": 13,
+        "latencia": 25.137
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725141892,
+        "quantidade_saltos": 10,
+        "latencia": 5.085
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725141847,
+        "quantidade_saltos": 10,
+        "latencia": 15.255
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725141852,
+        "quantidade_saltos": 6,
+        "latencia": 36.584
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725141872,
+        "quantidade_saltos": 15,
+        "latencia": 120.833
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725141950,
+        "quantidade_saltos": 6,
+        "latencia": 6.298
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725141967,
+        "quantidade_saltos": 15,
+        "latencia": 73.223
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725141966,
+        "quantidade_saltos": 10,
+        "latencia": 9.517
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725141966,
+        "quantidade_saltos": 8,
+        "latencia": 12.058
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725141981,
+        "quantidade_saltos": 9,
+        "latencia": 6.688
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725148815,
+        "quantidade_saltos": 9,
+        "latencia": 23.71
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725148808,
+        "quantidade_saltos": 9,
+        "latencia": 11.76
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725148808,
+        "quantidade_saltos": 10,
+        "latencia": 19.38
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725148914,
+        "quantidade_saltos": 7,
+        "latencia": 0.705
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725148889,
+        "quantidade_saltos": 15,
+        "latencia": 81.236
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725148918,
+        "quantidade_saltos": 8,
+        "latencia": 15.237
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725148917,
+        "quantidade_saltos": 15,
+        "latencia": 76.862
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725148916,
+        "quantidade_saltos": 24,
+        "latencia": 86.099
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725148923,
+        "quantidade_saltos": 12,
+        "latencia": 13.826
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725148924,
+        "quantidade_saltos": 6,
+        "latencia": 179.085
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725148925,
+        "quantidade_saltos": 26,
+        "latencia": 179.599
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725148977,
+        "quantidade_saltos": 23,
+        "latencia": 167.572
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725148976,
+        "quantidade_saltos": 9,
+        "latencia": 12.669
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725148925,
+        "quantidade_saltos": 10,
+        "latencia": 16.625
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725148921,
+        "quantidade_saltos": 13,
+        "latencia": 17.795
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725148926,
+        "quantidade_saltos": 6,
+        "latencia": 37.897
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725148921,
+        "quantidade_saltos": 12,
+        "latencia": 20.089
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725148988,
+        "quantidade_saltos": 13,
+        "latencia": 16.036
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725149080,
+        "quantidade_saltos": 10,
+        "latencia": 4.779
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725149043,
+        "quantidade_saltos": 10,
+        "latencia": 16.31
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725149046,
+        "quantidade_saltos": 8,
+        "latencia": 7.043
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725149044,
+        "quantidade_saltos": 6,
+        "latencia": 31.554
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725149075,
+        "quantidade_saltos": 15,
+        "latencia": 121.398
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725149154,
+        "quantidade_saltos": 6,
+        "latencia": 6.185
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725149167,
+        "quantidade_saltos": 13,
+        "latencia": 73.614
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725149171,
+        "quantidade_saltos": 10,
+        "latencia": 7.928
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725149167,
+        "quantidade_saltos": 8,
+        "latencia": 8.26
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725149178,
+        "quantidade_saltos": 9,
+        "latencia": 7
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725156017,
+        "quantidade_saltos": 4,
+        "latencia": null
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725156012,
+        "quantidade_saltos": 9,
+        "latencia": 11.779
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725156008,
+        "quantidade_saltos": 10,
+        "latencia": 24.594
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725156119,
+        "quantidade_saltos": 12,
+        "latencia": 13.885
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725156111,
+        "quantidade_saltos": 7,
+        "latencia": 0.728
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725156119,
+        "quantidade_saltos": 22,
+        "latencia": 168.996
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725156115,
+        "quantidade_saltos": 10,
+        "latencia": 16.844
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725156088,
+        "quantidade_saltos": 15,
+        "latencia": 81.147
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725156116,
+        "quantidade_saltos": 12,
+        "latencia": 17.41
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725156123,
+        "quantidade_saltos": 6,
+        "latencia": 178.212
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725156172,
+        "quantidade_saltos": 23,
+        "latencia": 174.387
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725156163,
+        "quantidade_saltos": 9,
+        "latencia": 11.785
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725156122,
+        "quantidade_saltos": 13,
+        "latencia": 17.699
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725156125,
+        "quantidade_saltos": 8,
+        "latencia": 14.931
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725156121,
+        "quantidade_saltos": 15,
+        "latencia": 76.668
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725156122,
+        "quantidade_saltos": 6,
+        "latencia": 37.901
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725156123,
+        "quantidade_saltos": 24,
+        "latencia": 86.157
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725156183,
+        "quantidade_saltos": 13,
+        "latencia": 12.996
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725156286,
+        "quantidade_saltos": 10,
+        "latencia": 4.76
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725156257,
+        "quantidade_saltos": 16,
+        "latencia": 17.942
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725156240,
+        "quantidade_saltos": 8,
+        "latencia": 6.478
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725156249,
+        "quantidade_saltos": 6,
+        "latencia": 34.191
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725156280,
+        "quantidade_saltos": 17,
+        "latencia": 227.486
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725156354,
+        "quantidade_saltos": 6,
+        "latencia": 9.763
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725156363,
+        "quantidade_saltos": 19,
+        "latencia": 179.878
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725156361,
+        "quantidade_saltos": 10,
+        "latencia": 8.143
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725156360,
+        "quantidade_saltos": 8,
+        "latencia": 11.551
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725156374,
+        "quantidade_saltos": 9,
+        "latencia": 6.869
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725163210,
+        "quantidade_saltos": 9,
+        "latencia": 23.597
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725163217,
+        "quantidade_saltos": 9,
+        "latencia": 11.842
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725163211,
+        "quantidade_saltos": 10,
+        "latencia": 20.532
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725163293,
+        "quantidade_saltos": 15,
+        "latencia": 81.383
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725163318,
+        "quantidade_saltos": 13,
+        "latencia": 17.666
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725163319,
+        "quantidade_saltos": 12,
+        "latencia": 16.48
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725163320,
+        "quantidade_saltos": 12,
+        "latencia": 13.869
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725163323,
+        "quantidade_saltos": 7,
+        "latencia": 0.791
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725163320,
+        "quantidade_saltos": 6,
+        "latencia": 176.094
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725163325,
+        "quantidade_saltos": 22,
+        "latencia": 174.864
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725163372,
+        "quantidade_saltos": 27,
+        "latencia": 173.462
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725163374,
+        "quantidade_saltos": 9,
+        "latencia": 14.65
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725163322,
+        "quantidade_saltos": 10,
+        "latencia": 17.722
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725163321,
+        "quantidade_saltos": 8,
+        "latencia": 15.437
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725163323,
+        "quantidade_saltos": 15,
+        "latencia": 76.73
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725163325,
+        "quantidade_saltos": 6,
+        "latencia": 41.409
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725163326,
+        "quantidade_saltos": 24,
+        "latencia": 86.179
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725163387,
+        "quantidade_saltos": 12,
+        "latencia": 13.644
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725163494,
+        "quantidade_saltos": 10,
+        "latencia": 4.892
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725163445,
+        "quantidade_saltos": 10,
+        "latencia": 15.105
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725163446,
+        "quantidade_saltos": 8,
+        "latencia": 6.386
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725163450,
+        "quantidade_saltos": 5,
+        "latencia": 32.976
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725163476,
+        "quantidade_saltos": 13,
+        "latencia": 230.362
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725163548,
+        "quantidade_saltos": 14,
+        "latencia": 12.632
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725163566,
+        "quantidade_saltos": 15,
+        "latencia": 73.186
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725163569,
+        "quantidade_saltos": 10,
+        "latencia": 8.608
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725163571,
+        "quantidade_saltos": 8,
+        "latencia": 8.25
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725163576,
+        "quantidade_saltos": 9,
+        "latencia": 10.593
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725170410,
+        "quantidade_saltos": 9,
+        "latencia": 23.873
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725170402,
+        "quantidade_saltos": 7,
+        "latencia": 11.713
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725170404,
+        "quantidade_saltos": 10,
+        "latencia": 20.932
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725170513,
+        "quantidade_saltos": 12,
+        "latencia": 12.731
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725170511,
+        "quantidade_saltos": 6,
+        "latencia": 179.416
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725170513,
+        "quantidade_saltos": 10,
+        "latencia": 17.947
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725170490,
+        "quantidade_saltos": 15,
+        "latencia": 83.205
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725170514,
+        "quantidade_saltos": 13,
+        "latencia": 18.421
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725170512,
+        "quantidade_saltos": 24,
+        "latencia": 86.417
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725170522,
+        "quantidade_saltos": 7,
+        "latencia": 0.664
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725170521,
+        "quantidade_saltos": 26,
+        "latencia": 170.57
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725170565,
+        "quantidade_saltos": 17,
+        "latencia": 175.765
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725170568,
+        "quantidade_saltos": 9,
+        "latencia": 10.728
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725170523,
+        "quantidade_saltos": 8,
+        "latencia": 14.971
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725170523,
+        "quantidade_saltos": 15,
+        "latencia": 76.724
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725170523,
+        "quantidade_saltos": 6,
+        "latencia": 31.708
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725170524,
+        "quantidade_saltos": 12,
+        "latencia": 15.034
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725170584,
+        "quantidade_saltos": 13,
+        "latencia": 11.704
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725170681,
+        "quantidade_saltos": 10,
+        "latencia": 5.221
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725170651,
+        "quantidade_saltos": 16,
+        "latencia": 15.725
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725170643,
+        "quantidade_saltos": 8,
+        "latencia": 6.571
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725170648,
+        "quantidade_saltos": 10,
+        "latencia": 66.07
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725170686,
+        "quantidade_saltos": 17,
+        "latencia": 224.614
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725170759,
+        "quantidade_saltos": 10,
+        "latencia": 8.659
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725170760,
+        "quantidade_saltos": 6,
+        "latencia": 6.541
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725170760,
+        "quantidade_saltos": 13,
+        "latencia": 69.209
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725170760,
+        "quantidade_saltos": 8,
+        "latencia": 8.25
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725170782,
+        "quantidade_saltos": 9,
+        "latencia": 6.787
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725177607,
+        "quantidade_saltos": 9,
+        "latencia": 23.293
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725177610,
+        "quantidade_saltos": 7,
+        "latencia": 11.704
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725177611,
+        "quantidade_saltos": 10,
+        "latencia": 19.662
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725177712,
+        "quantidade_saltos": 12,
+        "latencia": 13.929
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725177716,
+        "quantidade_saltos": 8,
+        "latencia": 9.801
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725177712,
+        "quantidade_saltos": 6,
+        "latencia": 179.25
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725177694,
+        "quantidade_saltos": 12,
+        "latencia": 76.044
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725177717,
+        "quantidade_saltos": 13,
+        "latencia": 17.857
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725177712,
+        "quantidade_saltos": 8,
+        "latencia": 14.427
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725177713,
+        "quantidade_saltos": 15,
+        "latencia": 76.656
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725177717,
+        "quantidade_saltos": 6,
+        "latencia": 32.156
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725177713,
+        "quantidade_saltos": 24,
+        "latencia": 98.204
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725177724,
+        "quantidade_saltos": 16,
+        "latencia": 193.472
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725177769,
+        "quantidade_saltos": 27,
+        "latencia": 171.039
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725177771,
+        "quantidade_saltos": 9,
+        "latencia": 40.717
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725177726,
+        "quantidade_saltos": 10,
+        "latencia": 16.779
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725177723,
+        "quantidade_saltos": 12,
+        "latencia": 15.903
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725177834,
+        "quantidade_saltos": 8,
+        "latencia": 6.15
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725177795,
+        "quantidade_saltos": 12,
+        "latencia": 14.233
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725177891,
+        "quantidade_saltos": 10,
+        "latencia": 4.989
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725177855,
+        "quantidade_saltos": 13,
+        "latencia": 15.563
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725177848,
+        "quantidade_saltos": 6,
+        "latencia": 33.32
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725177878,
+        "quantidade_saltos": 17,
+        "latencia": 233.193
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725177957,
+        "quantidade_saltos": 14,
+        "latencia": 12.145
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725177963,
+        "quantidade_saltos": 16,
+        "latencia": 73.399
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725177966,
+        "quantidade_saltos": 10,
+        "latencia": 8.493
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725177963,
+        "quantidade_saltos": 8,
+        "latencia": 12.034
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725177972,
+        "quantidade_saltos": 9,
+        "latencia": 6.865
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725184817,
+        "quantidade_saltos": 9,
+        "latencia": 23.312
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725184806,
+        "quantidade_saltos": 7,
+        "latencia": 11.731
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725184817,
+        "quantidade_saltos": 10,
+        "latencia": 20.042
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725184917,
+        "quantidade_saltos": 6,
+        "latencia": 3.84
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725184912,
+        "quantidade_saltos": 7,
+        "latencia": 0.806
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725184919,
+        "quantidade_saltos": 6,
+        "latencia": 179.859
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725184917,
+        "quantidade_saltos": 10,
+        "latencia": 17.99
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725184898,
+        "quantidade_saltos": 12,
+        "latencia": 77.293
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725184917,
+        "quantidade_saltos": 13,
+        "latencia": 17.791
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725184913,
+        "quantidade_saltos": 8,
+        "latencia": 14.938
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725184918,
+        "quantidade_saltos": 24,
+        "latencia": 94.526
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725184919,
+        "quantidade_saltos": 12,
+        "latencia": 12.763
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725184924,
+        "quantidade_saltos": 26,
+        "latencia": 175.356
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725184969,
+        "quantidade_saltos": 27,
+        "latencia": 184.828
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725184976,
+        "quantidade_saltos": 9,
+        "latencia": 10.53
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725184924,
+        "quantidade_saltos": 15,
+        "latencia": 76.783
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725184925,
+        "quantidade_saltos": 6,
+        "latencia": 23.871
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725185034,
+        "quantidade_saltos": 8,
+        "latencia": 6.247
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725184998,
+        "quantidade_saltos": 11,
+        "latencia": 23.04
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725185092,
+        "quantidade_saltos": 10,
+        "latencia": 4.53
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725185050,
+        "quantidade_saltos": 10,
+        "latencia": 14.364
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725185043,
+        "quantidade_saltos": 5,
+        "latencia": 31.033
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725185072,
+        "quantidade_saltos": 15,
+        "latencia": 121.359
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725185154,
+        "quantidade_saltos": 14,
+        "latencia": 11.686
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725185157,
+        "quantidade_saltos": 15,
+        "latencia": 73.219
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725185169,
+        "quantidade_saltos": 10,
+        "latencia": 8.217
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725185160,
+        "quantidade_saltos": 6,
+        "latencia": 11.488
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725185176,
+        "quantidade_saltos": 9,
+        "latencia": 6.704
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725192013,
+        "quantidade_saltos": 9,
+        "latencia": 21.101
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725192004,
+        "quantidade_saltos": 9,
+        "latencia": 11.778
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725192015,
+        "quantidade_saltos": 10,
+        "latencia": 21.416
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725192112,
+        "quantidade_saltos": 12,
+        "latencia": 12.806
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725192117,
+        "quantidade_saltos": 7,
+        "latencia": 0.509
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725192116,
+        "quantidade_saltos": 26,
+        "latencia": 181.558
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725192088,
+        "quantidade_saltos": 12,
+        "latencia": 76.776
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725192114,
+        "quantidade_saltos": 13,
+        "latencia": 22.527
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725192113,
+        "quantidade_saltos": 15,
+        "latencia": 76.766
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725192119,
+        "quantidade_saltos": 24,
+        "latencia": 96.248
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725192119,
+        "quantidade_saltos": 13,
+        "latencia": 25.656
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725192124,
+        "quantidade_saltos": 6,
+        "latencia": 179.086
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725192171,
+        "quantidade_saltos": 27,
+        "latencia": 178.194
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725192174,
+        "quantidade_saltos": 9,
+        "latencia": 31.982
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725192123,
+        "quantidade_saltos": 10,
+        "latencia": 17.747
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725192125,
+        "quantidade_saltos": 8,
+        "latencia": 15.361
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725192121,
+        "quantidade_saltos": 6,
+        "latencia": 29.053
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725192193,
+        "quantidade_saltos": 13,
+        "latencia": 11.397
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725192282,
+        "quantidade_saltos": 10,
+        "latencia": 5.11
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725192243,
+        "quantidade_saltos": 10,
+        "latencia": 15.672
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725192243,
+        "quantidade_saltos": 8,
+        "latencia": 6.154
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725192244,
+        "quantidade_saltos": 10,
+        "latencia": 67.96
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725192275,
+        "quantidade_saltos": 17,
+        "latencia": 231.534
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725192352,
+        "quantidade_saltos": 14,
+        "latencia": 11.741
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725192357,
+        "quantidade_saltos": 10,
+        "latencia": 8.017
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725192358,
+        "quantidade_saltos": 8,
+        "latencia": 8.239
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725192361,
+        "quantidade_saltos": 13,
+        "latencia": 184.368
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725192378,
+        "quantidade_saltos": 12,
+        "latencia": 17.648
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725199204,
+        "quantidade_saltos": 9,
+        "latencia": 25.714
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725199209,
+        "quantidade_saltos": 7,
+        "latencia": 11.721
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725199210,
+        "quantidade_saltos": 10,
+        "latencia": 21.801
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725199318,
+        "quantidade_saltos": 6,
+        "latencia": 3.849
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725199316,
+        "quantidade_saltos": 7,
+        "latencia": 0.609
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725199318,
+        "quantidade_saltos": 6,
+        "latencia": 179.341
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725199317,
+        "quantidade_saltos": 26,
+        "latencia": 179.611
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725199317,
+        "quantidade_saltos": 10,
+        "latencia": 17.921
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725199285,
+        "quantidade_saltos": 12,
+        "latencia": 76.608
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725199315,
+        "quantidade_saltos": 13,
+        "latencia": 17.684
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725199318,
+        "quantidade_saltos": 15,
+        "latencia": 76.732
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725199319,
+        "quantidade_saltos": 6,
+        "latencia": 24.059
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725199318,
+        "quantidade_saltos": 24,
+        "latencia": 98.928
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725199319,
+        "quantidade_saltos": 13,
+        "latencia": 28.041
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725199373,
+        "quantidade_saltos": 27,
+        "latencia": 182.92
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725199365,
+        "quantidade_saltos": 9,
+        "latencia": 27.33
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725199320,
+        "quantidade_saltos": 8,
+        "latencia": 16.288
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725199394,
+        "quantidade_saltos": 11,
+        "latencia": 13.213
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725199483,
+        "quantidade_saltos": 10,
+        "latencia": 4.678
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725199456,
+        "quantidade_saltos": 13,
+        "latencia": 15.406
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725199445,
+        "quantidade_saltos": 8,
+        "latencia": 6.727
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725199455,
+        "quantidade_saltos": 5,
+        "latencia": 29.013
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725199482,
+        "quantidade_saltos": 15,
+        "latencia": 120.352
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725199548,
+        "quantidade_saltos": 6,
+        "latencia": 12.61
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725199558,
+        "quantidade_saltos": 13,
+        "latencia": null
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725199571,
+        "quantidade_saltos": 10,
+        "latencia": 8.498
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725199569,
+        "quantidade_saltos": 6,
+        "latencia": 11.636
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725199575,
+        "quantidade_saltos": 9,
+        "latencia": 6.572
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725206410,
+        "quantidade_saltos": 11,
+        "latencia": 27.176
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725206406,
+        "quantidade_saltos": 7,
+        "latencia": 11.67
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725206411,
+        "quantidade_saltos": 10,
+        "latencia": 18.11
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725206513,
+        "quantidade_saltos": 12,
+        "latencia": 11.91
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725206519,
+        "quantidade_saltos": 7,
+        "latencia": 0.787
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725206517,
+        "quantidade_saltos": 6,
+        "latencia": 179.07
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725206511,
+        "quantidade_saltos": 26,
+        "latencia": 184.928
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725206517,
+        "quantidade_saltos": 10,
+        "latencia": 17.73
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725206486,
+        "quantidade_saltos": 12,
+        "latencia": 76.383
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725206515,
+        "quantidade_saltos": 12,
+        "latencia": 15.56
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725206572,
+        "quantidade_saltos": 27,
+        "latencia": 178.395
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725206567,
+        "quantidade_saltos": 9,
+        "latencia": 8.926
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725206523,
+        "quantidade_saltos": 13,
+        "latencia": 17.476
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725206522,
+        "quantidade_saltos": 8,
+        "latencia": 16.33
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725206527,
+        "quantidade_saltos": 15,
+        "latencia": 77.249
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725206521,
+        "quantidade_saltos": 6,
+        "latencia": 23.927
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725206522,
+        "quantidade_saltos": 24,
+        "latencia": 98.498
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725206633,
+        "quantidade_saltos": 8,
+        "latencia": 6.197
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725206589,
+        "quantidade_saltos": 13,
+        "latencia": 11.639
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725206693,
+        "quantidade_saltos": 10,
+        "latencia": 4.675
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725206644,
+        "quantidade_saltos": 13,
+        "latencia": 15.865
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725206650,
+        "quantidade_saltos": 10,
+        "latencia": 78.829
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725206673,
+        "quantidade_saltos": 15,
+        "latencia": 122.006
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725206757,
+        "quantidade_saltos": 6,
+        "latencia": 11.472
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725206761,
+        "quantidade_saltos": 14,
+        "latencia": 12.414
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725206762,
+        "quantidade_saltos": 18,
+        "latencia": 124.333
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725206760,
+        "quantidade_saltos": 10,
+        "latencia": 8.77
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725206784,
+        "quantidade_saltos": 9,
+        "latencia": 6.749
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725213615,
+        "quantidade_saltos": 9,
+        "latencia": 22.057
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725213616,
+        "quantidade_saltos": 7,
+        "latencia": 11.757
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725213606,
+        "quantidade_saltos": 10,
+        "latencia": 21.196
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725213712,
+        "quantidade_saltos": 12,
+        "latencia": 14.239
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725213715,
+        "quantidade_saltos": 7,
+        "latencia": 0.705
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725213712,
+        "quantidade_saltos": 26,
+        "latencia": 184.92
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725213715,
+        "quantidade_saltos": 10,
+        "latencia": 17.967
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725213696,
+        "quantidade_saltos": 12,
+        "latencia": 76.112
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725213716,
+        "quantidade_saltos": 24,
+        "latencia": 86.364
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725213721,
+        "quantidade_saltos": 6,
+        "latencia": 179.08
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725213769,
+        "quantidade_saltos": 27,
+        "latencia": 177.876
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725213768,
+        "quantidade_saltos": 9,
+        "latencia": 8.765
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725213721,
+        "quantidade_saltos": 13,
+        "latencia": 17.475
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725213721,
+        "quantidade_saltos": 8,
+        "latencia": 15.172
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725213720,
+        "quantidade_saltos": 15,
+        "latencia": 76.698
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725213720,
+        "quantidade_saltos": 6,
+        "latencia": 29.63
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725213723,
+        "quantidade_saltos": 12,
+        "latencia": 15.174
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725213797,
+        "quantidade_saltos": 11,
+        "latencia": 11.358
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725213893,
+        "quantidade_saltos": 10,
+        "latencia": 5.084
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725213851,
+        "quantidade_saltos": 10,
+        "latencia": 16.853
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725213843,
+        "quantidade_saltos": 8,
+        "latencia": 6.124
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725213856,
+        "quantidade_saltos": 6,
+        "latencia": 30.666
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725213873,
+        "quantidade_saltos": 17,
+        "latencia": 225.904
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725213956,
+        "quantidade_saltos": 11,
+        "latencia": 10.878
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725213962,
+        "quantidade_saltos": 13,
+        "latencia": 162.68
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725213962,
+        "quantidade_saltos": 10,
+        "latencia": 8.036
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725213960,
+        "quantidade_saltos": 6,
+        "latencia": 11.445
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725213981,
+        "quantidade_saltos": 9,
+        "latencia": 7.351
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725220816,
+        "quantidade_saltos": 9,
+        "latencia": 25.502
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725220813,
+        "quantidade_saltos": 7,
+        "latencia": 16.454
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725220808,
+        "quantidade_saltos": 10,
+        "latencia": 20.316
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725220919,
+        "quantidade_saltos": 7,
+        "latencia": 0.73
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725220919,
+        "quantidade_saltos": 26,
+        "latencia": 167.996
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725220903,
+        "quantidade_saltos": 15,
+        "latencia": 80.67
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725220922,
+        "quantidade_saltos": 12,
+        "latencia": 12.954
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725220925,
+        "quantidade_saltos": 6,
+        "latencia": 179.155
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725220962,
+        "quantidade_saltos": 17,
+        "latencia": 127.718
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725220972,
+        "quantidade_saltos": 9,
+        "latencia": 8.638
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725220926,
+        "quantidade_saltos": 10,
+        "latencia": 17.066
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725220925,
+        "quantidade_saltos": 11,
+        "latencia": 17.186
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725220920,
+        "quantidade_saltos": 8,
+        "latencia": 14.824
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725220921,
+        "quantidade_saltos": 15,
+        "latencia": 78.134
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725220926,
+        "quantidade_saltos": 6,
+        "latencia": 29.088
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725220923,
+        "quantidade_saltos": 24,
+        "latencia": 86.248
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725220923,
+        "quantidade_saltos": 12,
+        "latencia": 18.233
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725221033,
+        "quantidade_saltos": 8,
+        "latencia": 6.218
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725220993,
+        "quantidade_saltos": 11,
+        "latencia": 10.854
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725221083,
+        "quantidade_saltos": 10,
+        "latencia": 4.704
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725221055,
+        "quantidade_saltos": 10,
+        "latencia": 17.207
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725221051,
+        "quantidade_saltos": 5,
+        "latencia": 36.636
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725221075,
+        "quantidade_saltos": 15,
+        "latencia": 126.452
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725221154,
+        "quantidade_saltos": 14,
+        "latencia": 12.57
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725221158,
+        "quantidade_saltos": 8,
+        "latencia": 12.017
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725221170,
+        "quantidade_saltos": 14,
+        "latencia": 56.335
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725221171,
+        "quantidade_saltos": 10,
+        "latencia": 7.986
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725221176,
+        "quantidade_saltos": 9,
+        "latencia": 6.722
+    },
+    {
+        "probe_id": 243,
+        "timestamp": 1725228017,
+        "quantidade_saltos": 9,
+        "latencia": 20.056
+    },
+    {
+        "probe_id": 31403,
+        "timestamp": 1725228018,
+        "quantidade_saltos": 7,
+        "latencia": 16.411
+    },
+    {
+        "probe_id": 32670,
+        "timestamp": 1725228004,
+        "quantidade_saltos": 10,
+        "latencia": 23.325
+    },
+    {
+        "probe_id": 1005475,
+        "timestamp": 1725228117,
+        "quantidade_saltos": 6,
+        "latencia": 179.18
+    },
+    {
+        "probe_id": 12234,
+        "timestamp": 1725228115,
+        "quantidade_saltos": 10,
+        "latencia": 17.752
+    },
+    {
+        "probe_id": 18641,
+        "timestamp": 1725228092,
+        "quantidade_saltos": 15,
+        "latencia": 80.701
+    },
+    {
+        "probe_id": 21536,
+        "timestamp": 1725228117,
+        "quantidade_saltos": 13,
+        "latencia": 17.846
+    },
+    {
+        "probe_id": 51756,
+        "timestamp": 1725228112,
+        "quantidade_saltos": 15,
+        "latencia": 76.676
+    },
+    {
+        "probe_id": 53099,
+        "timestamp": 1725228118,
+        "quantidade_saltos": 6,
+        "latencia": 33.583
+    },
+    {
+        "probe_id": 55584,
+        "timestamp": 1725228119,
+        "quantidade_saltos": 24,
+        "latencia": 86.139
+    },
+    {
+        "probe_id": 1004969,
+        "timestamp": 1725228123,
+        "quantidade_saltos": 12,
+        "latencia": 12.825
+    },
+    {
+        "probe_id": 1004982,
+        "timestamp": 1725228120,
+        "quantidade_saltos": 7,
+        "latencia": 0.793
+    },
+    {
+        "probe_id": 1005478,
+        "timestamp": 1725228122,
+        "quantidade_saltos": 16,
+        "latencia": 180.049
+    },
+    {
+        "probe_id": 1005738,
+        "timestamp": 1725228168,
+        "quantidade_saltos": 17,
+        "latencia": 136.519
+    },
+    {
+        "probe_id": 1005800,
+        "timestamp": 1725228174,
+        "quantidade_saltos": 9,
+        "latencia": 8.744
+    },
+    {
+        "probe_id": 32052,
+        "timestamp": 1725228125,
+        "quantidade_saltos": 8,
+        "latencia": 14.715
+    },
+    {
+        "probe_id": 64718,
+        "timestamp": 1725228124,
+        "quantidade_saltos": 12,
+        "latencia": 17.822
+    },
+    {
+        "probe_id": 28310,
+        "timestamp": 1725228234,
+        "quantidade_saltos": 8,
+        "latencia": 6.124
+    },
+    {
+        "probe_id": 7147,
+        "timestamp": 1725228191,
+        "quantidade_saltos": 13,
+        "latencia": 11.077
+    },
+    {
+        "probe_id": 1008770,
+        "timestamp": 1725228283,
+        "quantidade_saltos": 10,
+        "latencia": 4.857
+    },
+    {
+        "probe_id": 17958,
+        "timestamp": 1725228251,
+        "quantidade_saltos": 13,
+        "latencia": 15.835
+    },
+    {
+        "probe_id": 51924,
+        "timestamp": 1725228257,
+        "quantidade_saltos": 6,
+        "latencia": 37.023
+    },
+    {
+        "probe_id": 6349,
+        "timestamp": 1725228277,
+        "quantidade_saltos": 15,
+        "latencia": 120.352
+    },
+    {
+        "probe_id": 1008493,
+        "timestamp": 1725228352,
+        "quantidade_saltos": 6,
+        "latencia": 6.432
+    },
+    {
+        "probe_id": 33508,
+        "timestamp": 1725228357,
+        "quantidade_saltos": 8,
+        "latencia": 12.031
+    },
+    {
+        "probe_id": 14584,
+        "timestamp": 1725228363,
+        "quantidade_saltos": 13,
+        "latencia": 159.784
+    },
+    {
+        "probe_id": 19503,
+        "timestamp": 1725228369,
+        "quantidade_saltos": 10,
+        "latencia": 8.512
+    },
+    {
+        "probe_id": 61985,
+        "timestamp": 1725228372,
+        "quantidade_saltos": 9,
+        "latencia": 6.519
+    }
+]
