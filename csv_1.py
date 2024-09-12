@@ -16,4 +16,4 @@ def json_to_csv(json_file, csv_file):
     print(f'Arquivo CSV gerado: {csv_file}')
 
 # Exemplo de uso
-json_to_csv('max_resultados.json', 'max_resultados.csv')
+json_to_csv('prime_resultados.json', 'prime_resultados.csv')
