@@ -56,7 +56,8 @@ def extrair_informacoes(probe):
         "pais": pais,
         "timestamp": timestamp,
         "quantidade_saltos": quantidade_saltos,
-        "latencia": latencia
+        "latencia": latencia,
+        "destino": 'PRIME'
     }
 
 # Função principal para processar múltiplos arquivos JSON

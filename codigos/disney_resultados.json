@@ -4,4542 +4,5191 @@
         "pais": "franca",
         "timestamp": 1725062434,
         "quantidade_saltos": 12,
-        "latencia": 16.702
+        "latencia": 16.702,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725062491,
         "quantidade_saltos": 11,
-        "latencia": 12.325
+        "latencia": 12.325,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725062491,
         "quantidade_saltos": 13,
-        "latencia": 148.159
+        "latencia": 148.159,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725062467,
         "quantidade_saltos": 13,
-        "latencia": 102.596
+        "latencia": 102.596,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725062492,
         "quantidade_saltos": 10,
-        "latencia": 8.361
+        "latencia": 8.361,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725062517,
         "quantidade_saltos": 13,
-        "latencia": 17.763
+        "latencia": 17.763,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725062516,
         "quantidade_saltos": 8,
-        "latencia": 15.993
+        "latencia": 15.993,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725062501,
         "quantidade_saltos": 6,
-        "latencia": 11.353
+        "latencia": 11.353,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725062527,
         "quantidade_saltos": 10,
-        "latencia": 16.616
+        "latencia": 16.616,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725062525,
         "quantidade_saltos": 12,
-        "latencia": 2.792
+        "latencia": 2.792,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725062523,
         "quantidade_saltos": 6,
-        "latencia": 24.595
+        "latencia": 24.595,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725062520,
         "quantidade_saltos": 19,
-        "latencia": 85.975
+        "latencia": 85.975,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725062521,
         "quantidade_saltos": 13,
-        "latencia": 46.892
+        "latencia": 46.892,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725062551,
         "quantidade_saltos": 12,
-        "latencia": 12.353
+        "latencia": 12.353,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725062656,
         "quantidade_saltos": 12,
-        "latencia": 14.758
+        "latencia": 14.758,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725062653,
         "quantidade_saltos": 7,
-        "latencia": 0.548
+        "latencia": 0.548,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725062646,
         "quantidade_saltos": 6,
-        "latencia": 68.124
+        "latencia": 68.124,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725062647,
         "quantidade_saltos": 26,
-        "latencia": 189.16
+        "latencia": 189.16,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725062722,
         "quantidade_saltos": 27,
-        "latencia": 176.634
+        "latencia": 176.634,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725062717,
         "quantidade_saltos": 15,
-        "latencia": 11.212
+        "latencia": 11.212,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725062715,
         "quantidade_saltos": 10,
-        "latencia": 4.668
+        "latencia": 4.668,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725062748,
         "quantidade_saltos": 16,
-        "latencia": 14.805
+        "latencia": 14.805,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725062741,
         "quantidade_saltos": 11,
-        "latencia": 27.497
+        "latencia": 27.497,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725062735,
         "quantidade_saltos": 8,
-        "latencia": 6.13
+        "latencia": 6.13,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725062741,
         "quantidade_saltos": 11,
-        "latencia": 37.14
+        "latencia": 37.14,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725062754,
         "quantidade_saltos": 6,
-        "latencia": 28.629
+        "latencia": 28.629,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725062754,
         "quantidade_saltos": 15,
-        "latencia": 120.268
+        "latencia": 120.268,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725069633,
         "quantidade_saltos": 9,
-        "latencia": 6.709
+        "latencia": 6.709,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725069692,
         "quantidade_saltos": 11,
-        "latencia": 12.607
+        "latencia": 12.607,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725069713,
         "quantidade_saltos": 10,
-        "latencia": 16.83
+        "latencia": 16.83,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725069697,
         "quantidade_saltos": 13,
-        "latencia": 147.94
+        "latencia": 147.94,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725069662,
         "quantidade_saltos": 13,
-        "latencia": 99.888
+        "latencia": 99.888,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725069700,
         "quantidade_saltos": 10,
-        "latencia": 8.088
+        "latencia": 8.088,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725069715,
         "quantidade_saltos": 8,
-        "latencia": 16.429
+        "latencia": 16.429,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725069689,
         "quantidade_saltos": 8,
-        "latencia": 11.645
+        "latencia": 11.645,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725069724,
         "quantidade_saltos": 10,
-        "latencia": 17.629
+        "latencia": 17.629,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725069722,
         "quantidade_saltos": 12,
-        "latencia": 2.777
+        "latencia": 2.777,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725069724,
         "quantidade_saltos": 6,
-        "latencia": 23.931
+        "latencia": 23.931,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725069723,
         "quantidade_saltos": 19,
-        "latencia": 85.931
+        "latencia": 85.931,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725069722,
         "quantidade_saltos": 13,
-        "latencia": 46.233
+        "latencia": 46.233,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725069756,
         "quantidade_saltos": 12,
-        "latencia": 11.676
+        "latencia": 11.676,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725069847,
         "quantidade_saltos": 12,
-        "latencia": 14.458
+        "latencia": 14.458,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725069856,
         "quantidade_saltos": 7,
-        "latencia": 0.575
+        "latencia": 0.575,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725069845,
         "quantidade_saltos": 6,
-        "latencia": 68.099
+        "latencia": 68.099,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725069844,
         "quantidade_saltos": 26,
-        "latencia": 189.206
+        "latencia": 189.206,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725069922,
         "quantidade_saltos": 27,
-        "latencia": 176.604
+        "latencia": 176.604,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725069917,
         "quantidade_saltos": 15,
-        "latencia": 33.68
+        "latencia": 33.68,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725069915,
         "quantidade_saltos": 10,
-        "latencia": 4.904
+        "latencia": 4.904,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725069950,
         "quantidade_saltos": 16,
-        "latencia": 14.556
+        "latencia": 14.556,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725069933,
         "quantidade_saltos": 11,
-        "latencia": 21.875
+        "latencia": 21.875,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725069942,
         "quantidade_saltos": 8,
-        "latencia": 6.981
+        "latencia": 6.981,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725069945,
         "quantidade_saltos": 11,
-        "latencia": 28.731
+        "latencia": 28.731,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725069949,
         "quantidade_saltos": 7,
-        "latencia": 35.148
+        "latencia": 35.148,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725069955,
         "quantidade_saltos": 15,
-        "latencia": 119.687
+        "latencia": 119.687,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725076830,
         "quantidade_saltos": 9,
-        "latencia": 6.935
+        "latencia": 6.935,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725076889,
         "quantidade_saltos": 11,
-        "latencia": 12.352
+        "latencia": 12.352,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725076913,
         "quantidade_saltos": 10,
-        "latencia": 17.292
+        "latencia": 17.292,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725076896,
         "quantidade_saltos": 13,
-        "latencia": 148.224
+        "latencia": 148.224,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725076863,
         "quantidade_saltos": 13,
-        "latencia": 100.391
+        "latencia": 100.391,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725076902,
         "quantidade_saltos": 10,
-        "latencia": 8.082
+        "latencia": 8.082,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725076918,
         "quantidade_saltos": 8,
-        "latencia": 16.202
+        "latencia": 16.202,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725076900,
         "quantidade_saltos": 6,
-        "latencia": 11.498
+        "latencia": 11.498,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725076920,
         "quantidade_saltos": 10,
-        "latencia": 15.906
+        "latencia": 15.906,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725076922,
         "quantidade_saltos": 12,
-        "latencia": 2.723
+        "latencia": 2.723,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725076926,
         "quantidade_saltos": 6,
-        "latencia": 23.981
+        "latencia": 23.981,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725076920,
         "quantidade_saltos": 19,
-        "latencia": 85.992
+        "latencia": 85.992,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725076920,
         "quantidade_saltos": 13,
-        "latencia": 45.797
+        "latencia": 45.797,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725076957,
         "quantidade_saltos": 12,
-        "latencia": 11.898
+        "latencia": 11.898,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725077054,
         "quantidade_saltos": 12,
-        "latencia": 13.895
+        "latencia": 13.895,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725077043,
         "quantidade_saltos": 7,
-        "latencia": 0.684
+        "latencia": 0.684,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725077053,
         "quantidade_saltos": 6,
-        "latencia": 68.116
+        "latencia": 68.116,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725077054,
         "quantidade_saltos": 26,
-        "latencia": 189.238
+        "latencia": 189.238,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725077112,
         "quantidade_saltos": 27,
-        "latencia": 176.601
+        "latencia": 176.601,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725077123,
         "quantidade_saltos": 15,
-        "latencia": 12.521
+        "latencia": 12.521,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725077116,
         "quantidade_saltos": 10,
-        "latencia": 5.037
+        "latencia": 5.037,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725077154,
         "quantidade_saltos": 17,
-        "latencia": 18.24
+        "latencia": 18.24,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725077142,
         "quantidade_saltos": 9,
-        "latencia": 23.049
+        "latencia": 23.049,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725077135,
         "quantidade_saltos": 8,
-        "latencia": 7.03
+        "latencia": 7.03,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725077131,
         "quantidade_saltos": 11,
-        "latencia": 25.843
+        "latencia": 25.843,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725077155,
         "quantidade_saltos": 7,
-        "latencia": 35.096
+        "latencia": 35.096,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725077153,
         "quantidade_saltos": 9,
-        "latencia": 15.587
+        "latencia": 15.587,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725084033,
         "quantidade_saltos": 12,
-        "latencia": 16.686
+        "latencia": 16.686,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725084091,
         "quantidade_saltos": 11,
-        "latencia": 12.945
+        "latencia": 12.945,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725084090,
         "quantidade_saltos": 13,
-        "latencia": 148.328
+        "latencia": 148.328,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725084074,
         "quantidade_saltos": 13,
-        "latencia": 100.031
+        "latencia": 100.031,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725084097,
         "quantidade_saltos": 9,
-        "latencia": 8.016
+        "latencia": 8.016,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725084117,
         "quantidade_saltos": 13,
-        "latencia": 17.777
+        "latencia": 17.777,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725084103,
         "quantidade_saltos": 6,
-        "latencia": 11.498
+        "latencia": 11.498,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725084115,
         "quantidade_saltos": 12,
-        "latencia": 2.836
+        "latencia": 2.836,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725084117,
         "quantidade_saltos": 6,
-        "latencia": 23.986
+        "latencia": 23.986,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725084113,
         "quantidade_saltos": 13,
-        "latencia": 41.354
+        "latencia": 41.354,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725084123,
         "quantidade_saltos": 10,
-        "latencia": 16.842
+        "latencia": 16.842,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725084121,
         "quantidade_saltos": 8,
-        "latencia": 16.065
+        "latencia": 16.065,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725084127,
         "quantidade_saltos": 19,
-        "latencia": 86.021
+        "latencia": 86.021,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725084150,
         "quantidade_saltos": 12,
-        "latencia": 11.909
+        "latencia": 11.909,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725084248,
         "quantidade_saltos": 12,
-        "latencia": 13.895
+        "latencia": 13.895,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725084248,
         "quantidade_saltos": 7,
-        "latencia": 0.514
+        "latencia": 0.514,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725084254,
         "quantidade_saltos": 6,
-        "latencia": 177.234
+        "latencia": 177.234,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725084256,
         "quantidade_saltos": 26,
-        "latencia": 189.26
+        "latencia": 189.26,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725084316,
         "quantidade_saltos": 27,
-        "latencia": 176.625
+        "latencia": 176.625,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725084323,
         "quantidade_saltos": 15,
-        "latencia": 55.601
+        "latencia": 55.601,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725084310,
         "quantidade_saltos": 10,
-        "latencia": 4.914
+        "latencia": 4.914,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725084356,
         "quantidade_saltos": 17,
-        "latencia": 18.219
+        "latencia": 18.219,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725084337,
         "quantidade_saltos": 11,
-        "latencia": 24.512
+        "latencia": 24.512,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725084345,
         "quantidade_saltos": 8,
-        "latencia": 6.661
+        "latencia": 6.661,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725084341,
         "quantidade_saltos": 11,
-        "latencia": 26.009
+        "latencia": 26.009,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725084345,
         "quantidade_saltos": 6,
-        "latencia": 33.643
+        "latencia": 33.643,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725084354,
         "quantidade_saltos": 15,
-        "latencia": 119.239
+        "latencia": 119.239,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725091236,
         "quantidade_saltos": 12,
-        "latencia": 16.808
+        "latencia": 16.808,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725091296,
         "quantidade_saltos": 11,
-        "latencia": 12.425
+        "latencia": 12.425,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725091300,
         "quantidade_saltos": 13,
-        "latencia": 148.15
+        "latencia": 148.15,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725091271,
         "quantidade_saltos": 13,
-        "latencia": 100.398
+        "latencia": 100.398,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725091290,
         "quantidade_saltos": 10,
-        "latencia": 7.893
+        "latencia": 7.893,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725091317,
         "quantidade_saltos": 10,
-        "latencia": 14.819
+        "latencia": 14.819,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725091298,
         "quantidade_saltos": 6,
-        "latencia": 11.555
+        "latencia": 11.555,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725091317,
         "quantidade_saltos": 9,
-        "latencia": null
+        "latencia": null,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725091317,
         "quantidade_saltos": 13,
-        "latencia": 44.883
+        "latencia": 44.883,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725091326,
         "quantidade_saltos": 10,
-        "latencia": 17.217
+        "latencia": 17.217,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725091321,
         "quantidade_saltos": 8,
-        "latencia": 16.328
+        "latencia": 16.328,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725091327,
         "quantidade_saltos": 12,
-        "latencia": 2.388
+        "latencia": 2.388,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725091321,
         "quantidade_saltos": 19,
-        "latencia": 86.086
+        "latencia": 86.086,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725091352,
         "quantidade_saltos": 12,
-        "latencia": 12.336
+        "latencia": 12.336,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725091447,
         "quantidade_saltos": 12,
-        "latencia": 13.834
+        "latencia": 13.834,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725091456,
         "quantidade_saltos": 7,
-        "latencia": 0.477
+        "latencia": 0.477,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725091443,
         "quantidade_saltos": 6,
-        "latencia": 67.571
+        "latencia": 67.571,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725091444,
         "quantidade_saltos": 26,
-        "latencia": 189.242
+        "latencia": 189.242,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725091520,
         "quantidade_saltos": 27,
-        "latencia": 176.601
+        "latencia": 176.601,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725091525,
         "quantidade_saltos": 15,
-        "latencia": 55.46
+        "latencia": 55.46,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725091507,
         "quantidade_saltos": 10,
-        "latencia": 4.745
+        "latencia": 4.745,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725091554,
         "quantidade_saltos": 17,
-        "latencia": 17.093
+        "latencia": 17.093,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725091541,
         "quantidade_saltos": 11,
-        "latencia": 23.568
+        "latencia": 23.568,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725091544,
         "quantidade_saltos": 8,
-        "latencia": 7.09
+        "latencia": 7.09,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725091532,
         "quantidade_saltos": 11,
-        "latencia": 27.321
+        "latencia": 27.321,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725091556,
         "quantidade_saltos": 7,
-        "latencia": 35.155
+        "latencia": 35.155,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725091552,
         "quantidade_saltos": 15,
-        "latencia": 119.257
+        "latencia": 119.257,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725098436,
         "quantidade_saltos": 12,
-        "latencia": 21.917
+        "latencia": 21.917,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725098484,
         "quantidade_saltos": 11,
-        "latencia": 12.256
+        "latencia": 12.256,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725098516,
         "quantidade_saltos": 10,
-        "latencia": 17.098
+        "latencia": 17.098,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725098493,
         "quantidade_saltos": 13,
-        "latencia": 148.142
+        "latencia": 148.142,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725098466,
         "quantidade_saltos": 13,
-        "latencia": 97.014
+        "latencia": 97.014,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725098493,
         "quantidade_saltos": 10,
-        "latencia": 8.051
+        "latencia": 8.051,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725098514,
         "quantidade_saltos": 8,
-        "latencia": 15.836
+        "latencia": 15.836,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725098498,
         "quantidade_saltos": 6,
-        "latencia": 11.347
+        "latencia": 11.347,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725098523,
         "quantidade_saltos": 10,
-        "latencia": 15.682
+        "latencia": 15.682,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725098524,
         "quantidade_saltos": 12,
-        "latencia": 2.385
+        "latencia": 2.385,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725098525,
         "quantidade_saltos": 6,
-        "latencia": 24.241
+        "latencia": 24.241,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725098520,
         "quantidade_saltos": 19,
-        "latencia": 86.237
+        "latencia": 86.237,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725098527,
         "quantidade_saltos": 13,
-        "latencia": 44.001
+        "latencia": 44.001,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725098551,
         "quantidade_saltos": 13,
-        "latencia": 10.696
+        "latencia": 10.696,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725098654,
         "quantidade_saltos": 12,
-        "latencia": 13.893
+        "latencia": 13.893,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725098654,
         "quantidade_saltos": 7,
-        "latencia": 0.75
+        "latencia": 0.75,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725098645,
         "quantidade_saltos": 6,
-        "latencia": 68.151
+        "latencia": 68.151,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725098647,
         "quantidade_saltos": 26,
-        "latencia": 189.252
+        "latencia": 189.252,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725098723,
         "quantidade_saltos": 27,
-        "latencia": 176.602
+        "latencia": 176.602,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725098716,
         "quantidade_saltos": 15,
-        "latencia": 17.577
+        "latencia": 17.577,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725098710,
         "quantidade_saltos": 10,
-        "latencia": 5.067
+        "latencia": 5.067,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725098748,
         "quantidade_saltos": 17,
-        "latencia": 17.987
+        "latencia": 17.987,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725098733,
         "quantidade_saltos": 11,
-        "latencia": 22.958
+        "latencia": 22.958,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725098738,
         "quantidade_saltos": 8,
-        "latencia": 7.143
+        "latencia": 7.143,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725098736,
         "quantidade_saltos": 11,
-        "latencia": 29.597
+        "latencia": 29.597,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725098748,
         "quantidade_saltos": 7,
-        "latencia": 35.542
+        "latencia": 35.542,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725098759,
         "quantidade_saltos": 15,
-        "latencia": 120.091
+        "latencia": 120.091,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725105639,
         "quantidade_saltos": 12,
-        "latencia": 17.353
+        "latencia": 17.353,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725105694,
         "quantidade_saltos": 11,
-        "latencia": 12.517
+        "latencia": 12.517,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725105694,
         "quantidade_saltos": 13,
-        "latencia": 148.529
+        "latencia": 148.529,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725105667,
         "quantidade_saltos": 13,
-        "latencia": 97.171
+        "latencia": 97.171,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725105690,
         "quantidade_saltos": 10,
-        "latencia": 8.157
+        "latencia": 8.157,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725105714,
         "quantidade_saltos": 13,
-        "latencia": 17.874
+        "latencia": 17.874,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725105719,
         "quantidade_saltos": 8,
-        "latencia": 16.264
+        "latencia": 16.264,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725105707,
         "quantidade_saltos": 6,
-        "latencia": 11.482
+        "latencia": 11.482,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725105714,
         "quantidade_saltos": 19,
-        "latencia": 94.433
+        "latencia": 94.433,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725105718,
         "quantidade_saltos": 13,
-        "latencia": 54.464
+        "latencia": 54.464,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725105720,
         "quantidade_saltos": 10,
-        "latencia": 17.102
+        "latencia": 17.102,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725105724,
         "quantidade_saltos": 12,
-        "latencia": 2.794
+        "latencia": 2.794,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725105723,
         "quantidade_saltos": 6,
-        "latencia": 23.96
+        "latencia": 23.96,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725105744,
         "quantidade_saltos": 12,
-        "latencia": 12.222
+        "latencia": 12.222,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725105852,
         "quantidade_saltos": 12,
-        "latencia": 13.876
+        "latencia": 13.876,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725105858,
         "quantidade_saltos": 7,
-        "latencia": 0.589
+        "latencia": 0.589,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725105858,
         "quantidade_saltos": 6,
-        "latencia": 68.162
+        "latencia": 68.162,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725105845,
         "quantidade_saltos": 26,
-        "latencia": 189.187
+        "latencia": 189.187,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725105911,
         "quantidade_saltos": 27,
-        "latencia": 176.631
+        "latencia": 176.631,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725105914,
         "quantidade_saltos": 15,
-        "latencia": 30.945
+        "latencia": 30.945,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725105914,
         "quantidade_saltos": 10,
-        "latencia": 4.578
+        "latencia": 4.578,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725105958,
         "quantidade_saltos": 17,
-        "latencia": 17.212
+        "latencia": 17.212,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725105935,
         "quantidade_saltos": 11,
-        "latencia": 24.058
+        "latencia": 24.058,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725105937,
         "quantidade_saltos": 8,
-        "latencia": 6.171
+        "latencia": 6.171,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725105939,
         "quantidade_saltos": 11,
-        "latencia": 25.414
+        "latencia": 25.414,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725105955,
         "quantidade_saltos": 6,
-        "latencia": 28.56
+        "latencia": 28.56,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725105957,
         "quantidade_saltos": 15,
-        "latencia": 119.227
+        "latencia": 119.227,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725112826,
         "quantidade_saltos": 12,
-        "latencia": 16.608
+        "latencia": 16.608,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725112893,
         "quantidade_saltos": 11,
-        "latencia": 12.43
+        "latencia": 12.43,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725112899,
         "quantidade_saltos": 13,
-        "latencia": 177.614
+        "latencia": 177.614,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725112866,
         "quantidade_saltos": 13,
-        "latencia": 97.25
+        "latencia": 97.25,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725112896,
         "quantidade_saltos": 10,
-        "latencia": 8.158
+        "latencia": 8.158,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725112889,
         "quantidade_saltos": 6,
-        "latencia": 11.533
+        "latencia": 11.533,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725112921,
         "quantidade_saltos": 10,
-        "latencia": 17.033
+        "latencia": 17.033,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725112925,
         "quantidade_saltos": 10,
-        "latencia": 14.783
+        "latencia": 14.783,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725112924,
         "quantidade_saltos": 8,
-        "latencia": 15.959
+        "latencia": 15.959,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725112920,
         "quantidade_saltos": 12,
-        "latencia": 2.514
+        "latencia": 2.514,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725112923,
         "quantidade_saltos": 6,
-        "latencia": 23.863
+        "latencia": 23.863,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725112920,
         "quantidade_saltos": 19,
-        "latencia": 94.921
+        "latencia": 94.921,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725112925,
         "quantidade_saltos": 13,
-        "latencia": 17.018
+        "latencia": 17.018,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725112956,
         "quantidade_saltos": 12,
-        "latencia": 11.899
+        "latencia": 11.899,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725113049,
         "quantidade_saltos": 14,
-        "latencia": 13.805
+        "latencia": 13.805,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725113054,
         "quantidade_saltos": 7,
-        "latencia": 0.697
+        "latencia": 0.697,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725113052,
         "quantidade_saltos": 6,
-        "latencia": 57.57
+        "latencia": 57.57,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725113044,
         "quantidade_saltos": 26,
-        "latencia": 189.167
+        "latencia": 189.167,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725113111,
         "quantidade_saltos": 17,
-        "latencia": 169.02
+        "latencia": 169.02,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725113123,
         "quantidade_saltos": 15,
-        "latencia": 56.991
+        "latencia": 56.991,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725113104,
         "quantidade_saltos": 10,
-        "latencia": 5.009
+        "latencia": 5.009,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725113149,
         "quantidade_saltos": 16,
-        "latencia": 15.085
+        "latencia": 15.085,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725113140,
         "quantidade_saltos": 11,
-        "latencia": 23.276
+        "latencia": 23.276,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725113147,
         "quantidade_saltos": 8,
-        "latencia": 7.128
+        "latencia": 7.128,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725113133,
         "quantidade_saltos": 10,
-        "latencia": 19.967
+        "latencia": 19.967,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725113145,
         "quantidade_saltos": 6,
-        "latencia": 28.657
+        "latencia": 28.657,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725113148,
         "quantidade_saltos": 15,
-        "latencia": 119.266
+        "latencia": 119.266,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725120055,
         "quantidade_saltos": 13,
-        "latencia": 96.712
+        "latencia": 96.712,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725120034,
         "quantidade_saltos": 12,
-        "latencia": 15.977
+        "latencia": 15.977,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725120089,
         "quantidade_saltos": 11,
-        "latencia": 12.563
+        "latencia": 12.563,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725120102,
         "quantidade_saltos": 13,
-        "latencia": 148.263
+        "latencia": 148.263,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725120098,
         "quantidade_saltos": 9,
-        "latencia": 8.268
+        "latencia": 8.268,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725120117,
         "quantidade_saltos": 13,
-        "latencia": 17.708
+        "latencia": 17.708,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725120117,
         "quantidade_saltos": 8,
-        "latencia": 16.11
+        "latencia": 16.11,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725120103,
         "quantidade_saltos": 8,
-        "latencia": 11.471
+        "latencia": 11.471,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725120126,
         "quantidade_saltos": 10,
-        "latencia": 17.298
+        "latencia": 17.298,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725120120,
         "quantidade_saltos": 12,
-        "latencia": 2.497
+        "latencia": 2.497,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725120121,
         "quantidade_saltos": 6,
-        "latencia": 41.145
+        "latencia": 41.145,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725120125,
         "quantidade_saltos": 19,
-        "latencia": null
+        "latencia": null,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725120124,
         "quantidade_saltos": 12,
-        "latencia": 22.631
+        "latencia": 22.631,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725120149,
         "quantidade_saltos": 12,
-        "latencia": 16.8
+        "latencia": 16.8,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725120243,
         "quantidade_saltos": 14,
-        "latencia": 13.906
+        "latencia": 13.906,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725120253,
         "quantidade_saltos": 7,
-        "latencia": 0.615
+        "latencia": 0.615,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725120255,
         "quantidade_saltos": 6,
-        "latencia": 68.31
+        "latencia": 68.31,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725120248,
         "quantidade_saltos": 16,
-        "latencia": 189.574
+        "latencia": 189.574,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725120317,
         "quantidade_saltos": 27,
-        "latencia": 178.697
+        "latencia": 178.697,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725120315,
         "quantidade_saltos": 15,
-        "latencia": 10.961
+        "latencia": 10.961,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725120309,
         "quantidade_saltos": 10,
-        "latencia": 4.906
+        "latencia": 4.906,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725120356,
         "quantidade_saltos": 16,
-        "latencia": 13.201
+        "latencia": 13.201,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725120331,
         "quantidade_saltos": 9,
-        "latencia": 24.615
+        "latencia": 24.615,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725120347,
         "quantidade_saltos": 8,
-        "latencia": 7.079
+        "latencia": 7.079,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725120337,
         "quantidade_saltos": 10,
-        "latencia": 18.285
+        "latencia": 18.285,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725120356,
         "quantidade_saltos": 6,
-        "latencia": 37.623
+        "latencia": 37.623,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725120350,
         "quantidade_saltos": 15,
-        "latencia": 119.323
+        "latencia": 119.323,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725127238,
         "quantidade_saltos": 12,
-        "latencia": 21.277
+        "latencia": 21.277,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725127288,
         "quantidade_saltos": 11,
-        "latencia": 12.223
+        "latencia": 12.223,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725127313,
         "quantidade_saltos": 10,
-        "latencia": 17.606
+        "latencia": 17.606,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725127299,
         "quantidade_saltos": 13,
-        "latencia": 148.278
+        "latencia": 148.278,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725127268,
         "quantidade_saltos": 13,
-        "latencia": 97.338
+        "latencia": 97.338,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725127295,
         "quantidade_saltos": 10,
-        "latencia": 8.082
+        "latencia": 8.082,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725127307,
         "quantidade_saltos": 6,
-        "latencia": 11.291
+        "latencia": 11.291,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725127319,
         "quantidade_saltos": 12,
-        "latencia": 2.442
+        "latencia": 2.442,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725127318,
         "quantidade_saltos": 6,
-        "latencia": 41.074
+        "latencia": 41.074,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725127320,
         "quantidade_saltos": 13,
-        "latencia": 17.621
+        "latencia": 17.621,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725127325,
         "quantidade_saltos": 8,
-        "latencia": 15.954
+        "latencia": 15.954,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725127322,
         "quantidade_saltos": 19,
-        "latencia": 86.538
+        "latencia": 86.538,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725127325,
         "quantidade_saltos": 12,
-        "latencia": 22.178
+        "latencia": 22.178,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725127344,
         "quantidade_saltos": 12,
-        "latencia": 11.246
+        "latencia": 11.246,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725127448,
         "quantidade_saltos": 12,
-        "latencia": 13.865
+        "latencia": 13.865,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725127445,
         "quantidade_saltos": 7,
-        "latencia": 0.516
+        "latencia": 0.516,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725127453,
         "quantidade_saltos": 6,
-        "latencia": 68.302
+        "latencia": 68.302,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725127445,
         "quantidade_saltos": 26,
-        "latencia": 189.207
+        "latencia": 189.207,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725127517,
         "quantidade_saltos": 27,
-        "latencia": 178.669
+        "latencia": 178.669,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725127524,
         "quantidade_saltos": 15,
-        "latencia": 11.071
+        "latencia": 11.071,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725127505,
         "quantidade_saltos": 10,
-        "latencia": 4.632
+        "latencia": 4.632,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725127555,
         "quantidade_saltos": 17,
-        "latencia": 18.002
+        "latencia": 18.002,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725127541,
         "quantidade_saltos": 9,
-        "latencia": 22.319
+        "latencia": 22.319,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725127542,
         "quantidade_saltos": 8,
-        "latencia": 7.11
+        "latencia": 7.11,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725127543,
         "quantidade_saltos": 10,
-        "latencia": 18.582
+        "latencia": 18.582,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725127556,
         "quantidade_saltos": 10,
-        "latencia": 68.59
+        "latencia": 68.59,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725127553,
         "quantidade_saltos": 15,
-        "latencia": 119.263
+        "latencia": 119.263,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725134436,
         "quantidade_saltos": 12,
-        "latencia": 16.295
+        "latencia": 16.295,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725134495,
         "quantidade_saltos": 11,
-        "latencia": 12.353
+        "latencia": 12.353,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725134494,
         "quantidade_saltos": 13,
-        "latencia": 154.639
+        "latencia": 154.639,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725134463,
         "quantidade_saltos": 13,
-        "latencia": 104.142
+        "latencia": 104.142,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725134492,
         "quantidade_saltos": 10,
-        "latencia": 7.874
+        "latencia": 7.874,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725134496,
         "quantidade_saltos": 6,
-        "latencia": 11.506
+        "latencia": 11.506,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725134519,
         "quantidade_saltos": 12,
-        "latencia": 2.353
+        "latencia": 2.353,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725134516,
         "quantidade_saltos": 6,
-        "latencia": 41.18
+        "latencia": 41.18,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725134524,
         "quantidade_saltos": 10,
-        "latencia": 16.73
+        "latencia": 16.73,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725134526,
         "quantidade_saltos": 10,
-        "latencia": 15.889
+        "latencia": 15.889,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725134521,
         "quantidade_saltos": 8,
-        "latencia": 16.143
+        "latencia": 16.143,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725134523,
         "quantidade_saltos": 19,
-        "latencia": 86.132
+        "latencia": 86.132,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725134524,
         "quantidade_saltos": 12,
-        "latencia": 15.213
+        "latencia": 15.213,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725134551,
         "quantidade_saltos": 12,
-        "latencia": 49.039
+        "latencia": 49.039,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725134655,
         "quantidade_saltos": 12,
-        "latencia": 13.845
+        "latencia": 13.845,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725134658,
         "quantidade_saltos": 7,
-        "latencia": 0.501
+        "latencia": 0.501,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725134656,
         "quantidade_saltos": 6,
-        "latencia": 68.18
+        "latencia": 68.18,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725134657,
         "quantidade_saltos": 26,
-        "latencia": 189.204
+        "latencia": 189.204,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725134723,
         "quantidade_saltos": 27,
-        "latencia": 178.666
+        "latencia": 178.666,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725134717,
         "quantidade_saltos": 15,
-        "latencia": 12.323
+        "latencia": 12.323,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725134713,
         "quantidade_saltos": 10,
-        "latencia": 4.944
+        "latencia": 4.944,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725134755,
         "quantidade_saltos": 16,
-        "latencia": 14.847
+        "latencia": 14.847,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725134736,
         "quantidade_saltos": 9,
-        "latencia": 23.23
+        "latencia": 23.23,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725134744,
         "quantidade_saltos": 8,
-        "latencia": 7.122
+        "latencia": 7.122,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725134737,
         "quantidade_saltos": 10,
-        "latencia": 19.948
+        "latencia": 19.948,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725134748,
         "quantidade_saltos": 9,
-        "latencia": 62.615
+        "latencia": 62.615,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725134757,
         "quantidade_saltos": 15,
-        "latencia": 120.274
+        "latencia": 120.274,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725141659,
         "quantidade_saltos": 13,
-        "latencia": 97.833
+        "latencia": 97.833,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725141639,
         "quantidade_saltos": 12,
-        "latencia": 16.345
+        "latencia": 16.345,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725141693,
         "quantidade_saltos": 11,
-        "latencia": 12.314
+        "latencia": 12.314,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725141700,
         "quantidade_saltos": 13,
-        "latencia": 163.694
+        "latencia": 163.694,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725141702,
         "quantidade_saltos": 10,
-        "latencia": 8.076
+        "latencia": 8.076,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725141702,
         "quantidade_saltos": 6,
-        "latencia": 11.562
+        "latencia": 11.562,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725141716,
         "quantidade_saltos": 19,
-        "latencia": 86.019
+        "latencia": 86.019,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725141720,
         "quantidade_saltos": 10,
-        "latencia": 17.063
+        "latencia": 17.063,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725141725,
         "quantidade_saltos": 13,
-        "latencia": 17.563
+        "latencia": 17.563,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725141721,
         "quantidade_saltos": 8,
-        "latencia": 15.559
+        "latencia": 15.559,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725141720,
         "quantidade_saltos": 12,
-        "latencia": 2.269
+        "latencia": 2.269,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725141727,
         "quantidade_saltos": 6,
-        "latencia": 41.438
+        "latencia": 41.438,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725141725,
         "quantidade_saltos": 12,
-        "latencia": 15.24
+        "latencia": 15.24,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725141751,
         "quantidade_saltos": 13,
-        "latencia": 9.96
+        "latencia": 9.96,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725141853,
         "quantidade_saltos": 12,
-        "latencia": 13.872
+        "latencia": 13.872,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725141849,
         "quantidade_saltos": 7,
-        "latencia": 0.73
+        "latencia": 0.73,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725141849,
         "quantidade_saltos": 6,
-        "latencia": 68.046
+        "latencia": 68.046,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725141853,
         "quantidade_saltos": 26,
-        "latencia": 189.21
+        "latencia": 189.21,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725141913,
         "quantidade_saltos": 27,
-        "latencia": 178.657
+        "latencia": 178.657,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725141915,
         "quantidade_saltos": 15,
-        "latencia": 11.009
+        "latencia": 11.009,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725141907,
         "quantidade_saltos": 10,
-        "latencia": 5.23
+        "latencia": 5.23,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725141955,
         "quantidade_saltos": 16,
-        "latencia": 14.155
+        "latencia": 14.155,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725141932,
         "quantidade_saltos": 11,
-        "latencia": 25.34
+        "latencia": 25.34,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725141933,
         "quantidade_saltos": 8,
-        "latencia": 7.14
+        "latencia": 7.14,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725141933,
         "quantidade_saltos": 10,
-        "latencia": 23.901
+        "latencia": 23.901,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725141950,
         "quantidade_saltos": 10,
-        "latencia": 69.668
+        "latencia": 69.668,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725141961,
         "quantidade_saltos": 15,
-        "latencia": 119.848
+        "latencia": 119.848,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725148827,
         "quantidade_saltos": 12,
-        "latencia": 17.166
+        "latencia": 17.166,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725148882,
         "quantidade_saltos": 11,
-        "latencia": 12.393
+        "latencia": 12.393,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725148899,
         "quantidade_saltos": 13,
-        "latencia": 163.318
+        "latencia": 163.318,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725148863,
         "quantidade_saltos": 13,
-        "latencia": 99.631
+        "latencia": 99.631,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725148889,
         "quantidade_saltos": 10,
-        "latencia": 8.256
+        "latencia": 8.256,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725148914,
         "quantidade_saltos": 13,
-        "latencia": 18.688
+        "latencia": 18.688,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725148917,
         "quantidade_saltos": 8,
-        "latencia": 16.283
+        "latencia": 16.283,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725148903,
         "quantidade_saltos": 6,
-        "latencia": 11.443
+        "latencia": 11.443,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725148919,
         "quantidade_saltos": 12,
-        "latencia": 2.34
+        "latencia": 2.34,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725148918,
         "quantidade_saltos": 19,
-        "latencia": 85.908
+        "latencia": 85.908,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725148926,
         "quantidade_saltos": 10,
-        "latencia": 17.747
+        "latencia": 17.747,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725148921,
         "quantidade_saltos": 6,
-        "latencia": 41.399
+        "latencia": 41.399,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725148927,
         "quantidade_saltos": 12,
-        "latencia": 15.259
+        "latencia": 15.259,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725148943,
         "quantidade_saltos": 12,
-        "latencia": 11.373
+        "latencia": 11.373,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725149048,
         "quantidade_saltos": 12,
-        "latencia": 16.107
+        "latencia": 16.107,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725149043,
         "quantidade_saltos": 7,
-        "latencia": 0.627
+        "latencia": 0.627,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725149044,
         "quantidade_saltos": 6,
-        "latencia": 68.032
+        "latencia": 68.032,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725149054,
         "quantidade_saltos": 26,
-        "latencia": 174.744
+        "latencia": 174.744,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725149118,
         "quantidade_saltos": 27,
-        "latencia": 176.61
+        "latencia": 176.61,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725149123,
         "quantidade_saltos": 15,
-        "latencia": 13.336
+        "latencia": 13.336,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725149113,
         "quantidade_saltos": 10,
-        "latencia": 4.743
+        "latencia": 4.743,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725149145,
         "quantidade_saltos": 17,
-        "latencia": 16.977
+        "latencia": 16.977,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725149138,
         "quantidade_saltos": 11,
-        "latencia": 22.259
+        "latencia": 22.259,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725149134,
         "quantidade_saltos": 8,
-        "latencia": 6.193
+        "latencia": 6.193,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725149135,
         "quantidade_saltos": 10,
-        "latencia": 19.753
+        "latencia": 19.753,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725149151,
         "quantidade_saltos": 6,
-        "latencia": 29.415
+        "latencia": 29.415,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725149161,
         "quantidade_saltos": 15,
-        "latencia": 120.086
+        "latencia": 120.086,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725156037,
         "quantidade_saltos": 9,
-        "latencia": 6.767
+        "latencia": 6.767,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725156095,
         "quantidade_saltos": 11,
-        "latencia": 12.448
+        "latencia": 12.448,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725156119,
         "quantidade_saltos": 10,
-        "latencia": 16.836
+        "latencia": 16.836,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725156095,
         "quantidade_saltos": 13,
-        "latencia": 163.842
+        "latencia": 163.842,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725156062,
         "quantidade_saltos": 13,
-        "latencia": 99.94
+        "latencia": 99.94,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725156092,
         "quantidade_saltos": 9,
-        "latencia": 8.28
+        "latencia": 8.28,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725156099,
         "quantidade_saltos": 6,
-        "latencia": 11.557
+        "latencia": 11.557,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725156116,
         "quantidade_saltos": 12,
-        "latencia": 15.486
+        "latencia": 15.486,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725156127,
         "quantidade_saltos": 10,
-        "latencia": 15.78
+        "latencia": 15.78,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725156126,
         "quantidade_saltos": 8,
-        "latencia": 16.356
+        "latencia": 16.356,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725156120,
         "quantidade_saltos": 12,
-        "latencia": 2.445
+        "latencia": 2.445,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725156121,
         "quantidade_saltos": 6,
-        "latencia": 41.229
+        "latencia": 41.229,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725156123,
         "quantidade_saltos": 19,
-        "latencia": 86.017
+        "latencia": 86.017,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725156157,
         "quantidade_saltos": 12,
-        "latencia": 9.949
+        "latencia": 9.949,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725156256,
         "quantidade_saltos": 12,
-        "latencia": 13.924
+        "latencia": 13.924,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725156251,
         "quantidade_saltos": 7,
-        "latencia": 0.625
+        "latencia": 0.625,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725156252,
         "quantidade_saltos": 6,
-        "latencia": 68.315
+        "latencia": 68.315,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725156252,
         "quantidade_saltos": 26,
-        "latencia": 189.25
+        "latencia": 189.25,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725156325,
         "quantidade_saltos": 27,
-        "latencia": 178.68
+        "latencia": 178.68,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725156323,
         "quantidade_saltos": 15,
-        "latencia": 32.404
+        "latencia": 32.404,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725156312,
         "quantidade_saltos": 10,
-        "latencia": 4.728
+        "latencia": 4.728,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725156353,
         "quantidade_saltos": 16,
-        "latencia": 14.888
+        "latencia": 14.888,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725156344,
         "quantidade_saltos": 9,
-        "latencia": 25.729
+        "latencia": 25.729,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725156347,
         "quantidade_saltos": 8,
-        "latencia": 6.954
+        "latencia": 6.954,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725156334,
         "quantidade_saltos": 10,
-        "latencia": 19.16
+        "latencia": 19.16,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725156347,
         "quantidade_saltos": 10,
-        "latencia": 67.967
+        "latencia": 67.967,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725156357,
         "quantidade_saltos": 15,
-        "latencia": 120.259
+        "latencia": 120.259,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725163227,
         "quantidade_saltos": 12,
-        "latencia": 16.753
+        "latencia": 16.753,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725163291,
         "quantidade_saltos": 11,
-        "latencia": 12.511
+        "latencia": 12.511,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725163319,
         "quantidade_saltos": 10,
-        "latencia": 17.071
+        "latencia": 17.071,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725163302,
         "quantidade_saltos": 13,
-        "latencia": 154.542
+        "latencia": 154.542,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725163263,
         "quantidade_saltos": 13,
-        "latencia": 97.09
+        "latencia": 97.09,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725163293,
         "quantidade_saltos": 10,
-        "latencia": 7.94
+        "latencia": 7.94,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725163319,
         "quantidade_saltos": 13,
-        "latencia": 17.819
+        "latencia": 17.819,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725163292,
         "quantidade_saltos": 6,
-        "latencia": 11.507
+        "latencia": 11.507,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725163315,
         "quantidade_saltos": 12,
-        "latencia": 2.33
+        "latencia": 2.33,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725163319,
         "quantidade_saltos": 19,
-        "latencia": 86.022
+        "latencia": 86.022,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725163327,
         "quantidade_saltos": 8,
-        "latencia": 15.797
+        "latencia": 15.797,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725163320,
         "quantidade_saltos": 6,
-        "latencia": 41.4
+        "latencia": 41.4,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725163320,
         "quantidade_saltos": 12,
-        "latencia": 17.808
+        "latencia": 17.808,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725163346,
         "quantidade_saltos": 12,
-        "latencia": 9.864
+        "latencia": 9.864,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725163443,
         "quantidade_saltos": 12,
-        "latencia": 14.756
+        "latencia": 14.756,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725163454,
         "quantidade_saltos": 7,
-        "latencia": 0.714
+        "latencia": 0.714,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725163451,
         "quantidade_saltos": 6,
-        "latencia": 68.146
+        "latencia": 68.146,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725163443,
         "quantidade_saltos": 26,
-        "latencia": 189.192
+        "latencia": 189.192,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725163524,
         "quantidade_saltos": 27,
-        "latencia": 178.813
+        "latencia": 178.813,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725163525,
         "quantidade_saltos": 15,
-        "latencia": 11.987
+        "latencia": 11.987,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725163506,
         "quantidade_saltos": 10,
-        "latencia": 4.809
+        "latencia": 4.809,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725163545,
         "quantidade_saltos": 16,
-        "latencia": 14.502
+        "latencia": 14.502,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725163543,
         "quantidade_saltos": 9,
-        "latencia": 22.629
+        "latencia": 22.629,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725163544,
         "quantidade_saltos": 8,
-        "latencia": 7.482
+        "latencia": 7.482,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725163544,
         "quantidade_saltos": 10,
-        "latencia": 22.811
+        "latencia": 22.811,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725163550,
         "quantidade_saltos": 7,
-        "latencia": 33.885
+        "latencia": 33.885,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725163559,
         "quantidade_saltos": 15,
-        "latencia": 119.342
+        "latencia": 119.342,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725170428,
         "quantidade_saltos": 12,
-        "latencia": 16.794
+        "latencia": 16.794,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725170491,
         "quantidade_saltos": 11,
-        "latencia": 12.279
+        "latencia": 12.279,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725170516,
         "quantidade_saltos": 10,
-        "latencia": 16.833
+        "latencia": 16.833,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725170492,
         "quantidade_saltos": 13,
-        "latencia": 148.492
+        "latencia": 148.492,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725170463,
         "quantidade_saltos": 13,
-        "latencia": 96.504
+        "latencia": 96.504,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725170489,
         "quantidade_saltos": 9,
-        "latencia": 7.945
+        "latencia": 7.945,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725170514,
         "quantidade_saltos": 8,
-        "latencia": 16.365
+        "latencia": 16.365,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725170505,
         "quantidade_saltos": 6,
-        "latencia": 11.286
+        "latencia": 11.286,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725170513,
         "quantidade_saltos": 12,
-        "latencia": 2.312
+        "latencia": 2.312,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725170519,
         "quantidade_saltos": 19,
-        "latencia": 89.541
+        "latencia": 89.541,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725170520,
         "quantidade_saltos": 10,
-        "latencia": 15.939
+        "latencia": 15.939,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725170527,
         "quantidade_saltos": 6,
-        "latencia": 23.828
+        "latencia": 23.828,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725170525,
         "quantidade_saltos": 13,
-        "latencia": 15.778
+        "latencia": 15.778,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725170551,
         "quantidade_saltos": 12,
-        "latencia": 10.251
+        "latencia": 10.251,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725170649,
         "quantidade_saltos": 12,
-        "latencia": 14.525
+        "latencia": 14.525,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725170649,
         "quantidade_saltos": 7,
-        "latencia": 0.649
+        "latencia": 0.649,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725170652,
         "quantidade_saltos": 6,
-        "latencia": 177.339
+        "latencia": 177.339,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725170650,
         "quantidade_saltos": 26,
-        "latencia": 189.233
+        "latencia": 189.233,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725170718,
         "quantidade_saltos": 17,
-        "latencia": 169.01
+        "latencia": 169.01,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725170715,
         "quantidade_saltos": 15,
-        "latencia": 28.548
+        "latencia": 28.548,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725170714,
         "quantidade_saltos": 10,
-        "latencia": 4.982
+        "latencia": 4.982,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725170755,
         "quantidade_saltos": 16,
-        "latencia": 15.195
+        "latencia": 15.195,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725170734,
         "quantidade_saltos": 9,
-        "latencia": 22.251
+        "latencia": 22.251,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725170739,
         "quantidade_saltos": 8,
-        "latencia": 7.311
+        "latencia": 7.311,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725170742,
         "quantidade_saltos": 10,
-        "latencia": 22.581
+        "latencia": 22.581,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725170748,
         "quantidade_saltos": 10,
-        "latencia": 65.623
+        "latencia": 65.623,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725170757,
         "quantidade_saltos": 15,
-        "latencia": 120.057
+        "latencia": 120.057,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725177635,
         "quantidade_saltos": 12,
-        "latencia": 16.545
+        "latencia": 16.545,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725177686,
         "quantidade_saltos": 11,
-        "latencia": 12.175
+        "latencia": 12.175,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725177699,
         "quantidade_saltos": 13,
-        "latencia": 150.448
+        "latencia": 150.448,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725177665,
         "quantidade_saltos": 13,
-        "latencia": 99.739
+        "latencia": 99.739,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725177691,
         "quantidade_saltos": 9,
-        "latencia": 8.068
+        "latencia": 8.068,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725177704,
         "quantidade_saltos": 6,
-        "latencia": 11.486
+        "latencia": 11.486,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725177719,
         "quantidade_saltos": 12,
-        "latencia": 2.222
+        "latencia": 2.222,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725177713,
         "quantidade_saltos": 6,
-        "latencia": 23.904
+        "latencia": 23.904,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725177714,
         "quantidade_saltos": 13,
-        "latencia": 15.406
+        "latencia": 15.406,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725177723,
         "quantidade_saltos": 10,
-        "latencia": 16.858
+        "latencia": 16.858,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725177727,
         "quantidade_saltos": 10,
-        "latencia": 16.433
+        "latencia": 16.433,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725177724,
         "quantidade_saltos": 8,
-        "latencia": 16.081
+        "latencia": 16.081,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725177722,
         "quantidade_saltos": 19,
-        "latencia": 93.12
+        "latencia": 93.12,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725177756,
         "quantidade_saltos": 13,
-        "latencia": 9.942
+        "latencia": 9.942,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725177856,
         "quantidade_saltos": 12,
-        "latencia": 13.877
+        "latencia": 13.877,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725177845,
         "quantidade_saltos": 8,
-        "latencia": 9.935
+        "latencia": 9.935,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725177851,
         "quantidade_saltos": 6,
-        "latencia": 68.195
+        "latencia": 68.195,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725177844,
         "quantidade_saltos": 16,
-        "latencia": 190.998
+        "latencia": 190.998,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725177926,
         "quantidade_saltos": 27,
-        "latencia": 178.675
+        "latencia": 178.675,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725177916,
         "quantidade_saltos": 15,
-        "latencia": 52.505
+        "latencia": 52.505,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725177909,
         "quantidade_saltos": 10,
-        "latencia": 5.057
+        "latencia": 5.057,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725177954,
         "quantidade_saltos": 16,
-        "latencia": 14.206
+        "latencia": 14.206,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725177945,
         "quantidade_saltos": 9,
-        "latencia": 22.818
+        "latencia": 22.818,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725177940,
         "quantidade_saltos": 8,
-        "latencia": 7.275
+        "latencia": 7.275,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725177944,
         "quantidade_saltos": 10,
-        "latencia": 21.36
+        "latencia": 21.36,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725177953,
         "quantidade_saltos": 7,
-        "latencia": 33.074
+        "latencia": 33.074,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725177961,
         "quantidade_saltos": 15,
-        "latencia": 119.556
+        "latencia": 119.556,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725184831,
         "quantidade_saltos": 8,
-        "latencia": 16.023
+        "latencia": 16.023,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725184885,
         "quantidade_saltos": 11,
-        "latencia": 12.328
+        "latencia": 12.328,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725184890,
         "quantidade_saltos": 13,
-        "latencia": 145.481
+        "latencia": 145.481,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725184868,
         "quantidade_saltos": 13,
-        "latencia": 99.94
+        "latencia": 99.94,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725184890,
         "quantidade_saltos": 10,
-        "latencia": 8.261
+        "latencia": 8.261,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725184917,
         "quantidade_saltos": 10,
-        "latencia": 15.721
+        "latencia": 15.721,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725184890,
         "quantidade_saltos": 6,
-        "latencia": 11.508
+        "latencia": 11.508,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725184914,
         "quantidade_saltos": 12,
-        "latencia": 2.349
+        "latencia": 2.349,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725184925,
         "quantidade_saltos": 10,
-        "latencia": 16.634
+        "latencia": 16.634,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725184926,
         "quantidade_saltos": 8,
-        "latencia": 15.661
+        "latencia": 15.661,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725184926,
         "quantidade_saltos": 6,
-        "latencia": 23.953
+        "latencia": 23.953,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725184923,
         "quantidade_saltos": 19,
-        "latencia": 97.418
+        "latencia": 97.418,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725184923,
         "quantidade_saltos": 12,
-        "latencia": 32.602
+        "latencia": 32.602,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725184955,
         "quantidade_saltos": 12,
-        "latencia": 9.838
+        "latencia": 9.838,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725185051,
         "quantidade_saltos": 12,
-        "latencia": 13.867
+        "latencia": 13.867,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725185054,
         "quantidade_saltos": 7,
-        "latencia": 0.632
+        "latencia": 0.632,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725185046,
         "quantidade_saltos": 6,
-        "latencia": 177.257
+        "latencia": 177.257,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725185053,
         "quantidade_saltos": 26,
-        "latencia": 170.535
+        "latencia": 170.535,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725185124,
         "quantidade_saltos": 27,
-        "latencia": 176.005
+        "latencia": 176.005,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725185119,
         "quantidade_saltos": 15,
-        "latencia": 11.451
+        "latencia": 11.451,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725185108,
         "quantidade_saltos": 10,
-        "latencia": 4.42
+        "latencia": 4.42,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725185151,
         "quantidade_saltos": 16,
-        "latencia": 14.644
+        "latencia": 14.644,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725185131,
         "quantidade_saltos": 11,
-        "latencia": 25.202
+        "latencia": 25.202,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725185139,
         "quantidade_saltos": 8,
-        "latencia": 7.352
+        "latencia": 7.352,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725185137,
         "quantidade_saltos": 10,
-        "latencia": 18.397
+        "latencia": 18.397,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725185150,
         "quantidade_saltos": 10,
-        "latencia": 83.636
+        "latencia": 83.636,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725185151,
         "quantidade_saltos": 15,
-        "latencia": 120.585
+        "latencia": 120.585,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725192026,
         "quantidade_saltos": 12,
-        "latencia": 16.032
+        "latencia": 16.032,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725192094,
         "quantidade_saltos": 11,
-        "latencia": 12.695
+        "latencia": 12.695,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725192089,
         "quantidade_saltos": 13,
-        "latencia": 170.483
+        "latencia": 170.483,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725192060,
         "quantidade_saltos": 13,
-        "latencia": 97.439
+        "latencia": 97.439,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725192102,
         "quantidade_saltos": 10,
-        "latencia": 8.357
+        "latencia": 8.357,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725192119,
         "quantidade_saltos": 13,
-        "latencia": 17.777
+        "latencia": 17.777,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725192113,
         "quantidade_saltos": 8,
-        "latencia": 16.024
+        "latencia": 16.024,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725192099,
         "quantidade_saltos": 6,
-        "latencia": 11.48
+        "latencia": 11.48,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725192115,
         "quantidade_saltos": 12,
-        "latencia": 2.454
+        "latencia": 2.454,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725192125,
         "quantidade_saltos": 10,
-        "latencia": 16.867
+        "latencia": 16.867,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725192127,
         "quantidade_saltos": 6,
-        "latencia": 23.835
+        "latencia": 23.835,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725192122,
         "quantidade_saltos": 19,
-        "latencia": 97.831
+        "latencia": 97.831,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725192126,
         "quantidade_saltos": 12,
-        "latencia": 30.958
+        "latencia": 30.958,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725192157,
         "quantidade_saltos": 12,
-        "latencia": 10.155
+        "latencia": 10.155,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725192252,
         "quantidade_saltos": 12,
-        "latencia": 13.879
+        "latencia": 13.879,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725192243,
         "quantidade_saltos": 7,
-        "latencia": 0.656
+        "latencia": 0.656,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725192244,
         "quantidade_saltos": 6,
-        "latencia": 68.25
+        "latencia": 68.25,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725192256,
         "quantidade_saltos": 26,
-        "latencia": 167.392
+        "latencia": 167.392,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725192319,
         "quantidade_saltos": 27,
-        "latencia": 169.078
+        "latencia": 169.078,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725192329,
         "quantidade_saltos": 15,
-        "latencia": 41.065
+        "latencia": 41.065,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725192312,
         "quantidade_saltos": 10,
-        "latencia": 4.719
+        "latencia": 4.719,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725192345,
         "quantidade_saltos": 17,
-        "latencia": 17.095
+        "latencia": 17.095,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725192330,
         "quantidade_saltos": 11,
-        "latencia": 24.098
+        "latencia": 24.098,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725192338,
         "quantidade_saltos": 8,
-        "latencia": 6.67
+        "latencia": 6.67,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725192338,
         "quantidade_saltos": 10,
-        "latencia": 21.107
+        "latencia": 21.107,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725192354,
         "quantidade_saltos": 6,
-        "latencia": 28.527
+        "latencia": 28.527,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725192357,
         "quantidade_saltos": 15,
-        "latencia": 120.355
+        "latencia": 120.355,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725199229,
         "quantidade_saltos": 12,
-        "latencia": 17.953
+        "latencia": 17.953,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725199289,
         "quantidade_saltos": 11,
-        "latencia": 12.529
+        "latencia": 12.529,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725199293,
         "quantidade_saltos": 13,
-        "latencia": 141.74
+        "latencia": 141.74,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725199265,
         "quantidade_saltos": 13,
-        "latencia": 97.299
+        "latencia": 97.299,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725199299,
         "quantidade_saltos": 9,
-        "latencia": 7.971
+        "latencia": 7.971,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725199316,
         "quantidade_saltos": 10,
-        "latencia": 15.717
+        "latencia": 15.717,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725199319,
         "quantidade_saltos": 8,
-        "latencia": 16.302
+        "latencia": 16.302,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725199302,
         "quantidade_saltos": 6,
-        "latencia": 11.524
+        "latencia": 11.524,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725199326,
         "quantidade_saltos": 10,
-        "latencia": 17.08
+        "latencia": 17.08,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725199328,
         "quantidade_saltos": 12,
-        "latencia": 2.357
+        "latencia": 2.357,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725199326,
         "quantidade_saltos": 6,
-        "latencia": 23.902
+        "latencia": 23.902,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725199327,
         "quantidade_saltos": 19,
-        "latencia": 118.768
+        "latencia": 118.768,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725199320,
         "quantidade_saltos": 12,
-        "latencia": 23.083
+        "latencia": 23.083,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725199358,
         "quantidade_saltos": 12,
-        "latencia": 10.735
+        "latencia": 10.735,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725199457,
         "quantidade_saltos": 12,
-        "latencia": 14.8
+        "latencia": 14.8,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725199452,
         "quantidade_saltos": 7,
-        "latencia": 0.699
+        "latencia": 0.699,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725199448,
         "quantidade_saltos": 6,
-        "latencia": 68.108
+        "latencia": 68.108,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725199451,
         "quantidade_saltos": 26,
-        "latencia": 169.485
+        "latencia": 169.485,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725199525,
         "quantidade_saltos": 27,
-        "latencia": 174.007
+        "latencia": 174.007,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725199511,
         "quantidade_saltos": 15,
-        "latencia": 51.404
+        "latencia": 51.404,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725199511,
         "quantidade_saltos": 10,
-        "latencia": 4.794
+        "latencia": 4.794,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725199548,
         "quantidade_saltos": 16,
-        "latencia": 17.101
+        "latencia": 17.101,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725199541,
         "quantidade_saltos": 9,
-        "latencia": 22.591
+        "latencia": 22.591,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725199541,
         "quantidade_saltos": 8,
-        "latencia": 7.49
+        "latencia": 7.49,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725199535,
         "quantidade_saltos": 10,
-        "latencia": 22.413
+        "latencia": 22.413,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725199549,
         "quantidade_saltos": 6,
-        "latencia": 28.855
+        "latencia": 28.855,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725199550,
         "quantidade_saltos": 15,
-        "latencia": 119.364
+        "latencia": 119.364,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725206455,
         "quantidade_saltos": 13,
-        "latencia": 97.748
+        "latencia": 97.748,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725206429,
         "quantidade_saltos": 12,
-        "latencia": 16.735
+        "latencia": 16.735,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725206489,
         "quantidade_saltos": 11,
-        "latencia": 12.655
+        "latencia": 12.655,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725206514,
         "quantidade_saltos": 10,
-        "latencia": 17.068
+        "latencia": 17.068,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725206490,
         "quantidade_saltos": 13,
-        "latencia": 141.759
+        "latencia": 141.759,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725206496,
         "quantidade_saltos": 10,
-        "latencia": 7.991
+        "latencia": 7.991,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725206518,
         "quantidade_saltos": 13,
-        "latencia": 17.872
+        "latencia": 17.872,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725206515,
         "quantidade_saltos": 8,
-        "latencia": 16.476
+        "latencia": 16.476,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725206503,
         "quantidade_saltos": 6,
-        "latencia": 11.502
+        "latencia": 11.502,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725206513,
         "quantidade_saltos": 12,
-        "latencia": 2.202
+        "latencia": 2.202,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725206516,
         "quantidade_saltos": 6,
-        "latencia": 23.975
+        "latencia": 23.975,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725206513,
         "quantidade_saltos": 19,
-        "latencia": 98.47
+        "latencia": 98.47,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725206517,
         "quantidade_saltos": 12,
-        "latencia": 25.633
+        "latencia": 25.633,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725206556,
         "quantidade_saltos": 14,
-        "latencia": 10.155
+        "latencia": 10.155,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725206655,
         "quantidade_saltos": 12,
-        "latencia": 14.803
+        "latencia": 14.803,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725206654,
         "quantidade_saltos": 7,
-        "latencia": 0.587
+        "latencia": 0.587,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725206648,
         "quantidade_saltos": 6,
-        "latencia": 68.28
+        "latencia": 68.28,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725206655,
         "quantidade_saltos": 26,
-        "latencia": 183.01
+        "latencia": 183.01,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725206711,
         "quantidade_saltos": 27,
-        "latencia": 176.037
+        "latencia": 176.037,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725206720,
         "quantidade_saltos": 15,
-        "latencia": 10.81
+        "latencia": 10.81,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725206713,
         "quantidade_saltos": 10,
-        "latencia": 4.983
+        "latencia": 4.983,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725206751,
         "quantidade_saltos": 16,
-        "latencia": 15.443
+        "latencia": 15.443,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725206739,
         "quantidade_saltos": 9,
-        "latencia": 22.84
+        "latencia": 22.84,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725206745,
         "quantidade_saltos": 8,
-        "latencia": 7.497
+        "latencia": 7.497,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725206738,
         "quantidade_saltos": 10,
-        "latencia": null
+        "latencia": null,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725206747,
         "quantidade_saltos": 7,
-        "latencia": 33.137
+        "latencia": 33.137,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725206757,
         "quantidade_saltos": 15,
-        "latencia": 120.41
+        "latencia": 120.41,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725213631,
         "quantidade_saltos": 12,
-        "latencia": 16.156
+        "latencia": 16.156,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725213686,
         "quantidade_saltos": 11,
-        "latencia": 12.383
+        "latencia": 12.383,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725213719,
         "quantidade_saltos": 10,
-        "latencia": 17.09
+        "latencia": 17.09,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725213697,
         "quantidade_saltos": 13,
-        "latencia": 141.307
+        "latencia": 141.307,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725213673,
         "quantidade_saltos": 13,
-        "latencia": 97.185
+        "latencia": 97.185,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725213702,
         "quantidade_saltos": 9,
-        "latencia": 8.514
+        "latencia": 8.514,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725213714,
         "quantidade_saltos": 8,
-        "latencia": 16.587
+        "latencia": 16.587,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725213690,
         "quantidade_saltos": 6,
-        "latencia": 11.522
+        "latencia": 11.522,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725213713,
         "quantidade_saltos": 12,
-        "latencia": 2.507
+        "latencia": 2.507,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725213719,
         "quantidade_saltos": 12,
-        "latencia": 17.527
+        "latencia": 17.527,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725213725,
         "quantidade_saltos": 10,
-        "latencia": 15.652
+        "latencia": 15.652,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725213724,
         "quantidade_saltos": 6,
-        "latencia": 23.853
+        "latencia": 23.853,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725213726,
         "quantidade_saltos": 19,
-        "latencia": 86.021
+        "latencia": 86.021,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725213749,
         "quantidade_saltos": 12,
-        "latencia": 10.739
+        "latencia": 10.739,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725213850,
         "quantidade_saltos": 12,
-        "latencia": 13.87
+        "latencia": 13.87,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725213845,
         "quantidade_saltos": 7,
-        "latencia": 0.718
+        "latencia": 0.718,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725213846,
         "quantidade_saltos": 6,
-        "latencia": 68.034
+        "latencia": 68.034,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725213852,
         "quantidade_saltos": 26,
-        "latencia": 182.974
+        "latencia": 182.974,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725213912,
         "quantidade_saltos": 27,
-        "latencia": 176.045
+        "latencia": 176.045,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725213923,
         "quantidade_saltos": 15,
-        "latencia": 10.974
+        "latencia": 10.974,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725213906,
         "quantidade_saltos": 10,
-        "latencia": 5.188
+        "latencia": 5.188,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725213949,
         "quantidade_saltos": 16,
-        "latencia": 14.394
+        "latencia": 14.394,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725213939,
         "quantidade_saltos": 9,
-        "latencia": 23.515
+        "latencia": 23.515,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725213934,
         "quantidade_saltos": 8,
-        "latencia": 7.125
+        "latencia": 7.125,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725213947,
         "quantidade_saltos": 7,
-        "latencia": 11.891
+        "latencia": 11.891,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725213932,
         "quantidade_saltos": 10,
-        "latencia": 20.016
+        "latencia": 20.016,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725213957,
         "quantidade_saltos": 7,
-        "latencia": 32.918
+        "latencia": 32.918,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725213950,
         "quantidade_saltos": 15,
-        "latencia": 119.465
+        "latencia": 119.465,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725220828,
         "quantidade_saltos": 12,
-        "latencia": 16.704
+        "latencia": 16.704,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725220887,
         "quantidade_saltos": 11,
-        "latencia": 12.704
+        "latencia": 12.704,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725220915,
         "quantidade_saltos": 10,
-        "latencia": 17.107
+        "latencia": 17.107,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725220888,
         "quantidade_saltos": 13,
-        "latencia": 141.313
+        "latencia": 141.313,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725220868,
         "quantidade_saltos": 13,
-        "latencia": 103.233
+        "latencia": 103.233,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725220902,
         "quantidade_saltos": 10,
-        "latencia": 8.311
+        "latencia": 8.311,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725220906,
         "quantidade_saltos": 6,
-        "latencia": 11.508
+        "latencia": 11.508,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725220918,
         "quantidade_saltos": 12,
-        "latencia": 2.405
+        "latencia": 2.405,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725220914,
         "quantidade_saltos": 19,
-        "latencia": 85.966
+        "latencia": 85.966,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725220920,
         "quantidade_saltos": 13,
-        "latencia": 17.433
+        "latencia": 17.433,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725220926,
         "quantidade_saltos": 8,
-        "latencia": 16.431
+        "latencia": 16.431,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725220921,
         "quantidade_saltos": 6,
-        "latencia": 23.844
+        "latencia": 23.844,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725220926,
         "quantidade_saltos": 12,
-        "latencia": 18.128
+        "latencia": 18.128,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725220951,
         "quantidade_saltos": 14,
-        "latencia": 11.359
+        "latencia": 11.359,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725221044,
         "quantidade_saltos": 12,
-        "latencia": 13.849
+        "latencia": 13.849,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725221057,
         "quantidade_saltos": 7,
-        "latencia": 0.548
+        "latencia": 0.548,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725221043,
         "quantidade_saltos": 6,
-        "latencia": 67.904
+        "latencia": 67.904,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725221043,
         "quantidade_saltos": 26,
-        "latencia": 182.979
+        "latencia": 182.979,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725221118,
         "quantidade_saltos": 27,
-        "latencia": 176.023
+        "latencia": 176.023,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725221115,
         "quantidade_saltos": 15,
-        "latencia": 11.725
+        "latencia": 11.725,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725221104,
         "quantidade_saltos": 10,
-        "latencia": 4.873
+        "latencia": 4.873,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725221148,
         "quantidade_saltos": 17,
-        "latencia": 17.015
+        "latencia": 17.015,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725221143,
         "quantidade_saltos": 9,
-        "latencia": 23.442
+        "latencia": 23.442,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725221146,
         "quantidade_saltos": 8,
-        "latencia": 6.727
+        "latencia": 6.727,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725221135,
         "quantidade_saltos": 10,
-        "latencia": 21.729
+        "latencia": 21.729,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725221145,
         "quantidade_saltos": 6,
-        "latencia": 28.555
+        "latencia": 28.555,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725221156,
         "quantidade_saltos": 15,
-        "latencia": 120.175
+        "latencia": 120.175,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725228058,
         "quantidade_saltos": 13,
-        "latencia": 96.914
+        "latencia": 96.914,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725228027,
         "quantidade_saltos": 8,
-        "latencia": 16.453
+        "latencia": 16.453,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725228093,
         "quantidade_saltos": 11,
-        "latencia": 12.308
+        "latencia": 12.308,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725228117,
         "quantidade_saltos": 10,
-        "latencia": 17.982
+        "latencia": 17.982,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725228100,
         "quantidade_saltos": 13,
-        "latencia": 141.711
+        "latencia": 141.711,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725228094,
         "quantidade_saltos": 9,
-        "latencia": 8.851
+        "latencia": 8.851,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725228114,
         "quantidade_saltos": 10,
-        "latencia": 15.336
+        "latencia": 15.336,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725228119,
         "quantidade_saltos": 8,
-        "latencia": 15.71
+        "latencia": 15.71,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725228107,
         "quantidade_saltos": 6,
-        "latencia": 11.515
+        "latencia": 11.515,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725228118,
         "quantidade_saltos": 12,
-        "latencia": 18.696
+        "latencia": 18.696,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725228121,
         "quantidade_saltos": 12,
-        "latencia": 2.355
+        "latencia": 2.355,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725228123,
         "quantidade_saltos": 6,
-        "latencia": 32.567
+        "latencia": 32.567,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725228121,
         "quantidade_saltos": 19,
-        "latencia": 86.005
+        "latencia": 86.005,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725228157,
         "quantidade_saltos": 12,
-        "latencia": 10.576
+        "latencia": 10.576,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725228248,
         "quantidade_saltos": 12,
-        "latencia": 13.833
+        "latencia": 13.833,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725228254,
         "quantidade_saltos": 7,
-        "latencia": 0.649
+        "latencia": 0.649,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725228253,
         "quantidade_saltos": 6,
-        "latencia": 67.911
+        "latencia": 67.911,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725228243,
         "quantidade_saltos": 26,
-        "latencia": 182.954
+        "latencia": 182.954,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725228316,
         "quantidade_saltos": 27,
-        "latencia": 176.009
+        "latencia": 176.009,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725228325,
         "quantidade_saltos": 15,
-        "latencia": 10.732
+        "latencia": 10.732,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725228307,
         "quantidade_saltos": 10,
-        "latencia": 4.729
+        "latencia": 4.729,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725228349,
         "quantidade_saltos": 17,
-        "latencia": 17.262
+        "latencia": 17.262,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725228334,
         "quantidade_saltos": 11,
-        "latencia": 24.272
+        "latencia": 24.272,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725228337,
         "quantidade_saltos": 8,
-        "latencia": 5.914
+        "latencia": 5.914,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725228345,
         "quantidade_saltos": 10,
-        "latencia": 20.774
+        "latencia": 20.774,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725228354,
         "quantidade_saltos": 7,
-        "latencia": 33.615
+        "latencia": 33.615,
+        "destino": "DISNEY"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725228349,
         "quantidade_saltos": 15,
-        "latencia": 119.192
+        "latencia": 119.192,
+        "destino": "DISNEY"
     }
 ]

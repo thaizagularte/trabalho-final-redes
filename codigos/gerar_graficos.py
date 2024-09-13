@@ -3,6 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+#GERA GRAFICOS DE CADA MEDIÇÃO
+
+
 # Função para ler múltiplos arquivos JSON e combinar em um DataFrame
 def ler_e_combinar_jsons(lista_arquivos_json):
     dfs = []
@@ -28,7 +31,7 @@ def grafico_latencia(df, salvar=False):
     plt.xticks(rotation=45)
     plt.grid(True)
     if salvar:
-        plt.savefig('grafico_latencia1.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../graficos/max/grafico_latencia_max.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 # Função para gerar gráficos de quantidade de saltos ao longo do tempo por país e destino
@@ -41,19 +44,33 @@ def grafico_saltos(df, salvar=False):
     plt.xticks(rotation=45)
     plt.grid(True)
     if salvar:
-        plt.savefig('grafico_saltos1.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../graficos/max/grafico_saltos_max.png', dpi=300, bbox_inches='tight')
     plt.show()
 
-# Função para gerar gráficos de correlação entre latência e quantidade de saltos
-def grafico_correlacao(df, salvar=False):
+# Função para gerar gráficos de correlação entre latência e quantidade de saltos para países
+def grafico_correlacao_paises(df, salvar=False):
     plt.figure(figsize=(10, 6))
-    sns.scatterplot(x='quantidade_saltos', y='latencia', hue='pais', data=df)
+    sns.lineplot(x='quantidade_saltos', y='latencia', hue='pais', data=df, marker='o')  # Trocar para quantidade de saltos no eixo X
     plt.title('Correlação entre Latência e Quantidade de Saltos por País')
     plt.xlabel('Quantidade de Saltos')
     plt.ylabel('Latência (ms)')
     plt.grid(True)
     if salvar:
-        plt.savefig('grafico_correlacao1.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../graficos/max/grafico_correlacao_paises_max.png', dpi=300, bbox_inches='tight')  # Nome diferente para salvar
+    plt.show()
+
+# Função para gerar gráficos de correlação entre latência e quantidade de saltos para continentes
+def grafico_correlacao_continentes(df, salvar=False):
+    df['continente'] = df['pais'].map(continentes)
+
+    plt.figure(figsize=(10, 6))
+    sns.lineplot(x='quantidade_saltos', y='latencia', hue='continente', data=df, marker='o')  # Trocar para quantidade de saltos no eixo X
+    plt.title('Correlação entre Latência e Quantidade de Saltos por Continente')  # Título ajustado
+    plt.xlabel('Quantidade de Saltos')
+    plt.ylabel('Latência (ms)')
+    plt.grid(True)
+    if salvar:
+        plt.savefig('../graficos/max/grafico_correlacao_continentes_max.png', dpi=300, bbox_inches='tight')  # Nome diferente para salvar
     plt.show()
 
 # Função para gerar gráficos por continente (necessita de um mapeamento de país -> continente)
@@ -69,7 +86,7 @@ def grafico_por_continente(df, continentes, salvar=False):
     plt.xticks(rotation=45)
     plt.grid(True)
     if salvar:
-        plt.savefig('grafico_latencia_continente1.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../graficos/max/grafico_latencia_continente_max.png', dpi=300, bbox_inches='tight')
     plt.show()
 
     # Gráfico de saltos por continente
@@ -81,11 +98,11 @@ def grafico_por_continente(df, continentes, salvar=False):
     plt.xticks(rotation=45)
     plt.grid(True)
     if salvar:
-        plt.savefig('grafico_saltos_continente1.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../graficos/max/grafico_saltos_continente_max.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 # Exemplo de uso:
-lista_arquivos_json = ['disney_resultados.json', 'max_resultados.json', 'prime_resultados.json']  # Substituir pelos nomes dos seus arquivos
+lista_arquivos_json = ['.json']  # Substituir pelos nomes dos seus arquivos
 dados = ler_e_combinar_jsons(lista_arquivos_json)
 
 # Ajustar timestamps para horas
@@ -107,5 +124,6 @@ continentes = {
 # Gerando gráficos e salvando como PNG
 grafico_latencia(dados, salvar=True)
 grafico_saltos(dados, salvar=True)
-grafico_correlacao(dados, salvar=True)
+grafico_correlacao_paises(dados, salvar=True)
+grafico_correlacao_continentes(dados, salvar=True)
 grafico_por_continente(dados, continentes, salvar=True)

@@ -4,4311 +4,4927 @@
         "pais": "argentina",
         "timestamp": 1725076808,
         "quantidade_saltos": 9,
-        "latencia": 30.153
+        "latencia": 30.153,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725076817,
         "quantidade_saltos": 9,
-        "latencia": 11.768
+        "latencia": 11.768,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725076818,
         "quantidade_saltos": 11,
-        "latencia": 24.895
+        "latencia": 24.895,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725076914,
         "quantidade_saltos": 12,
-        "latencia": 14.272
+        "latencia": 14.272,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725076919,
         "quantidade_saltos": 7,
-        "latencia": 0.765
+        "latencia": 0.765,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725076912,
         "quantidade_saltos": 6,
-        "latencia": 179.017
+        "latencia": 179.017,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725076914,
         "quantidade_saltos": 16,
-        "latencia": 133.244
+        "latencia": 133.244,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725076914,
         "quantidade_saltos": 10,
-        "latencia": 17.549
+        "latencia": 17.549,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725076884,
         "quantidade_saltos": 12,
-        "latencia": 76.257
+        "latencia": 76.257,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725076915,
         "quantidade_saltos": 8,
-        "latencia": 14.722
+        "latencia": 14.722,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725076919,
         "quantidade_saltos": 12,
-        "latencia": 2.781
+        "latencia": 2.781,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725076918,
         "quantidade_saltos": 24,
-        "latencia": 86.063
+        "latencia": 86.063,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725076965,
         "quantidade_saltos": 27,
-        "latencia": 173.352
+        "latencia": 173.352,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725076970,
         "quantidade_saltos": 9,
-        "latencia": 45.367
+        "latencia": 45.367,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725076920,
         "quantidade_saltos": 13,
-        "latencia": 17.491
+        "latencia": 17.491,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725076920,
         "quantidade_saltos": 6,
-        "latencia": 23.81
+        "latencia": 23.81,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725076922,
         "quantidade_saltos": 13,
-        "latencia": 46.89
+        "latencia": 46.89,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725076998,
         "quantidade_saltos": 12,
-        "latencia": 12.946
+        "latencia": 12.946,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725077089,
         "quantidade_saltos": 10,
-        "latencia": 3.515
+        "latencia": 3.515,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725077044,
         "quantidade_saltos": 10,
-        "latencia": 14.82
+        "latencia": 14.82,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725077044,
         "quantidade_saltos": 8,
-        "latencia": 6.126
+        "latencia": 6.126,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725077046,
         "quantidade_saltos": 5,
-        "latencia": 36.554
+        "latencia": 36.554,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725077074,
         "quantidade_saltos": 17,
-        "latencia": 224.174
+        "latencia": 224.174,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725077151,
         "quantidade_saltos": 14,
-        "latencia": 12.391
+        "latencia": 12.391,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725077158,
         "quantidade_saltos": 13,
-        "latencia": 164.193
+        "latencia": 164.193,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725077170,
         "quantidade_saltos": 10,
-        "latencia": 8.199
+        "latencia": 8.199,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725077165,
         "quantidade_saltos": 8,
-        "latencia": 12.061
+        "latencia": 12.061,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725077186,
         "quantidade_saltos": 9,
-        "latencia": 6.446
+        "latencia": 6.446,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725084008,
         "quantidade_saltos": 9,
-        "latencia": 21.821
+        "latencia": 21.821,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725084018,
         "quantidade_saltos": 7,
-        "latencia": 16.559
+        "latencia": 16.559,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725084008,
         "quantidade_saltos": 12,
-        "latencia": 24.308
+        "latencia": 24.308,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725084112,
         "quantidade_saltos": 13,
-        "latencia": 13.846
+        "latencia": 13.846,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725084116,
         "quantidade_saltos": 6,
-        "latencia": 175.903
+        "latencia": 175.903,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725084115,
         "quantidade_saltos": 26,
-        "latencia": 170.607
+        "latencia": 170.607,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725084118,
         "quantidade_saltos": 10,
-        "latencia": 17.81
+        "latencia": 17.81,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725084094,
         "quantidade_saltos": 12,
-        "latencia": 75.937
+        "latencia": 75.937,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725084118,
         "quantidade_saltos": 8,
-        "latencia": 15.058
+        "latencia": 15.058,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725084113,
         "quantidade_saltos": 24,
-        "latencia": 86.058
+        "latencia": 86.058,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725084120,
         "quantidade_saltos": 7,
-        "latencia": 0.91
+        "latencia": 0.91,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725084168,
         "quantidade_saltos": 27,
-        "latencia": 176.858
+        "latencia": 176.858,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725084166,
         "quantidade_saltos": 9,
-        "latencia": 15.067
+        "latencia": 15.067,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725084126,
         "quantidade_saltos": 13,
-        "latencia": 17.958
+        "latencia": 17.958,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725084121,
         "quantidade_saltos": 12,
-        "latencia": 2.926
+        "latencia": 2.926,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725084123,
         "quantidade_saltos": 6,
-        "latencia": 29.151
+        "latencia": 29.151,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725084120,
         "quantidade_saltos": 13,
-        "latencia": 41.101
+        "latencia": 41.101,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725084231,
         "quantidade_saltos": 8,
-        "latencia": 6.339
+        "latencia": 6.339,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725084187,
         "quantidade_saltos": 12,
-        "latencia": 22.524
+        "latencia": 22.524,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725084286,
         "quantidade_saltos": 10,
-        "latencia": 4.75
+        "latencia": 4.75,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725084246,
         "quantidade_saltos": 10,
-        "latencia": 13.905
+        "latencia": 13.905,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725084247,
         "quantidade_saltos": 6,
-        "latencia": 36.503
+        "latencia": 36.503,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725084286,
         "quantidade_saltos": 17,
-        "latencia": 224.201
+        "latencia": 224.201,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725084358,
         "quantidade_saltos": 14,
-        "latencia": 11.758
+        "latencia": 11.758,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725084361,
         "quantidade_saltos": 13,
-        "latencia": 68.842
+        "latencia": 68.842,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725084364,
         "quantidade_saltos": 10,
-        "latencia": 8.019
+        "latencia": 8.019,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725084370,
         "quantidade_saltos": 6,
-        "latencia": 11.445
+        "latencia": 11.445,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725084381,
         "quantidade_saltos": 9,
-        "latencia": 6.786
+        "latencia": 6.786,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725091206,
         "quantidade_saltos": 9,
-        "latencia": 31.134
+        "latencia": 31.134,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725091215,
         "quantidade_saltos": 7,
-        "latencia": 11.774
+        "latencia": 11.774,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725091210,
         "quantidade_saltos": 11,
-        "latencia": 28.672
+        "latencia": 28.672,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725091316,
         "quantidade_saltos": 12,
-        "latencia": 12.78
+        "latencia": 12.78,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725091319,
         "quantidade_saltos": 6,
-        "latencia": 179.018
+        "latencia": 179.018,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725091316,
         "quantidade_saltos": 26,
-        "latencia": 201.236
+        "latencia": 201.236,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725091296,
         "quantidade_saltos": 12,
-        "latencia": 76.275
+        "latencia": 76.275,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725091316,
         "quantidade_saltos": 13,
-        "latencia": 18.496
+        "latencia": 18.496,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725091312,
         "quantidade_saltos": 8,
-        "latencia": 15.434
+        "latencia": 15.434,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725091314,
         "quantidade_saltos": 15,
-        "latencia": 77.004
+        "latencia": 77.004,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725091313,
         "quantidade_saltos": 24,
-        "latencia": 86.36
+        "latencia": 86.36,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725091314,
         "quantidade_saltos": 13,
-        "latencia": 57.89
+        "latencia": 57.89,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725091324,
         "quantidade_saltos": 7,
-        "latencia": 0.725
+        "latencia": 0.725,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725091370,
         "quantidade_saltos": 27,
-        "latencia": 171.055
+        "latencia": 171.055,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725091365,
         "quantidade_saltos": 9,
-        "latencia": 53.132
+        "latencia": 53.132,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725091324,
         "quantidade_saltos": 10,
-        "latencia": 17.983
+        "latencia": 17.983,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725091333,
         "quantidade_saltos": 1,
-        "latencia": null
+        "latencia": null,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725091393,
         "quantidade_saltos": 13,
-        "latencia": 13.273
+        "latencia": 13.273,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725091487,
         "quantidade_saltos": 10,
-        "latencia": 4.747
+        "latencia": 4.747,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725091451,
         "quantidade_saltos": 13,
-        "latencia": 16.903
+        "latencia": 16.903,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725091444,
         "quantidade_saltos": 8,
-        "latencia": 6.336
+        "latencia": 6.336,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725091451,
         "quantidade_saltos": 6,
-        "latencia": 35.927
+        "latencia": 35.927,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725091481,
         "quantidade_saltos": 17,
-        "latencia": 229.313
+        "latencia": 229.313,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725091554,
         "quantidade_saltos": 14,
-        "latencia": 12.186
+        "latencia": 12.186,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725091559,
         "quantidade_saltos": 13,
-        "latencia": 75.363
+        "latencia": 75.363,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725091561,
         "quantidade_saltos": 10,
-        "latencia": 8.709
+        "latencia": 8.709,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725091566,
         "quantidade_saltos": 8,
-        "latencia": 8.252
+        "latencia": 8.252,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725091574,
         "quantidade_saltos": 9,
-        "latencia": 6.89
+        "latencia": 6.89,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725098410,
         "quantidade_saltos": 9,
-        "latencia": 25.362
+        "latencia": 25.362,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725098411,
         "quantidade_saltos": 7,
-        "latencia": 11.812
+        "latencia": 11.812,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725098405,
         "quantidade_saltos": 11,
-        "latencia": 25.161
+        "latencia": 25.161,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725098512,
         "quantidade_saltos": 12,
-        "latencia": 12.959
+        "latencia": 12.959,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725098501,
         "quantidade_saltos": 12,
-        "latencia": 76.871
+        "latencia": 76.871,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725098518,
         "quantidade_saltos": 15,
-        "latencia": 76.737
+        "latencia": 76.737,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725098516,
         "quantidade_saltos": 10,
-        "latencia": null
+        "latencia": null,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725098521,
         "quantidade_saltos": 7,
-        "latencia": 0.715
+        "latencia": 0.715,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725098524,
         "quantidade_saltos": 6,
-        "latencia": 178.164
+        "latencia": 178.164,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725098520,
         "quantidade_saltos": 26,
-        "latencia": 175.911
+        "latencia": 175.911,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725098562,
         "quantidade_saltos": 27,
-        "latencia": 177.94
+        "latencia": 177.94,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725098573,
         "quantidade_saltos": 9,
-        "latencia": 18.836
+        "latencia": 18.836,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725098523,
         "quantidade_saltos": 10,
-        "latencia": 17.073
+        "latencia": 17.073,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725098526,
         "quantidade_saltos": 13,
-        "latencia": 17.734
+        "latencia": 17.734,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725098520,
         "quantidade_saltos": 8,
-        "latencia": 15.883
+        "latencia": 15.883,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725098520,
         "quantidade_saltos": 24,
-        "latencia": 86.178
+        "latencia": 86.178,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725098524,
         "quantidade_saltos": 13,
-        "latencia": 57.698
+        "latencia": 57.698,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725098633,
         "quantidade_saltos": 8,
-        "latencia": 5.986
+        "latencia": 5.986,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725098595,
         "quantidade_saltos": 13,
-        "latencia": 38.375
+        "latencia": 38.375,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725098682,
         "quantidade_saltos": 10,
-        "latencia": 4.564
+        "latencia": 4.564,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725098646,
         "quantidade_saltos": 10,
-        "latencia": 17.726
+        "latencia": 17.726,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725098650,
         "quantidade_saltos": 10,
-        "latencia": 76.631
+        "latencia": 76.631,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725098677,
         "quantidade_saltos": 17,
-        "latencia": 231.366
+        "latencia": 231.366,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725098759,
         "quantidade_saltos": 14,
-        "latencia": 11.952
+        "latencia": 11.952,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725098763,
         "quantidade_saltos": 13,
-        "latencia": 163.797
+        "latencia": 163.797,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725098761,
         "quantidade_saltos": 10,
-        "latencia": 7.996
+        "latencia": 7.996,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725098760,
         "quantidade_saltos": 8,
-        "latencia": 8.21
+        "latencia": 8.21,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725098779,
         "quantidade_saltos": 9,
-        "latencia": 10.755
+        "latencia": 10.755,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725105606,
         "quantidade_saltos": 4,
-        "latencia": null
+        "latencia": null,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725105612,
         "quantidade_saltos": 7,
-        "latencia": 11.707
+        "latencia": 11.707,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725105605,
         "quantidade_saltos": 11,
-        "latencia": 27.46
+        "latencia": 27.46,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725105716,
         "quantidade_saltos": 6,
-        "latencia": 176.112
+        "latencia": 176.112,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725105714,
         "quantidade_saltos": 26,
-        "latencia": 185.015
+        "latencia": 185.015,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725105684,
         "quantidade_saltos": 12,
-        "latencia": 76.081
+        "latencia": 76.081,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725105718,
         "quantidade_saltos": 11,
-        "latencia": 15.93
+        "latencia": 15.93,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725105718,
         "quantidade_saltos": 12,
-        "latencia": 2.992
+        "latencia": 2.992,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725105717,
         "quantidade_saltos": 6,
-        "latencia": 28.255
+        "latencia": 28.255,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725105715,
         "quantidade_saltos": 13,
-        "latencia": 56.973
+        "latencia": 56.973,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725105727,
         "quantidade_saltos": 12,
-        "latencia": 12.776
+        "latencia": 12.776,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725105723,
         "quantidade_saltos": 7,
-        "latencia": 0.801
+        "latencia": 0.801,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725105762,
         "quantidade_saltos": 27,
-        "latencia": 178.267
+        "latencia": 178.267,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725105769,
         "quantidade_saltos": 9,
-        "latencia": 71.104
+        "latencia": 71.104,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725105726,
         "quantidade_saltos": 10,
-        "latencia": 17.74
+        "latencia": 17.74,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725105723,
         "quantidade_saltos": 8,
-        "latencia": 15.747
+        "latencia": 15.747,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725105721,
         "quantidade_saltos": 24,
-        "latencia": 98.395
+        "latencia": 98.395,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725105794,
         "quantidade_saltos": 13,
-        "latencia": 16.101
+        "latencia": 16.101,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725105891,
         "quantidade_saltos": 10,
-        "latencia": 4.726
+        "latencia": 4.726,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725105846,
         "quantidade_saltos": 11,
-        "latencia": 15.75
+        "latencia": 15.75,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725105841,
         "quantidade_saltos": 8,
-        "latencia": 6.34
+        "latencia": 6.34,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725105857,
         "quantidade_saltos": 10,
-        "latencia": 69.595
+        "latencia": 69.595,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725105877,
         "quantidade_saltos": 15,
-        "latencia": 120.1
+        "latencia": 120.1,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725105954,
         "quantidade_saltos": 6,
-        "latencia": 12.66
+        "latencia": 12.66,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725105961,
         "quantidade_saltos": 13,
-        "latencia": 69.247
+        "latencia": 69.247,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725105971,
         "quantidade_saltos": 10,
-        "latencia": 8.346
+        "latencia": 8.346,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725105961,
         "quantidade_saltos": 8,
-        "latencia": 11.531
+        "latencia": 11.531,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725105974,
         "quantidade_saltos": 9,
-        "latencia": 6.657
+        "latencia": 6.657,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725112813,
         "quantidade_saltos": 9,
-        "latencia": 25.299
+        "latencia": 25.299,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725112810,
         "quantidade_saltos": 7,
-        "latencia": 20.873
+        "latencia": 20.873,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725112814,
         "quantidade_saltos": 10,
-        "latencia": 25.264
+        "latencia": 25.264,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725112917,
         "quantidade_saltos": 12,
-        "latencia": 12.924
+        "latencia": 12.924,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725112915,
         "quantidade_saltos": 7,
-        "latencia": 0.794
+        "latencia": 0.794,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725112911,
         "quantidade_saltos": 6,
-        "latencia": 179.029
+        "latencia": 179.029,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725112884,
         "quantidade_saltos": 12,
-        "latencia": 77.946
+        "latencia": 77.946,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725112917,
         "quantidade_saltos": 13,
-        "latencia": 17.577
+        "latencia": 17.577,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725112913,
         "quantidade_saltos": 8,
-        "latencia": 15.131
+        "latencia": 15.131,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725112915,
         "quantidade_saltos": 6,
-        "latencia": 23.975
+        "latencia": 23.975,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725112914,
         "quantidade_saltos": 24,
-        "latencia": 91.464
+        "latencia": 91.464,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725112916,
         "quantidade_saltos": 13,
-        "latencia": 33.721
+        "latencia": 33.721,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725112922,
         "quantidade_saltos": 26,
-        "latencia": 187.53
+        "latencia": 187.53,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725112967,
         "quantidade_saltos": 18,
-        "latencia": 136.692
+        "latencia": 136.692,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725112973,
         "quantidade_saltos": 9,
-        "latencia": 30.221
+        "latencia": 30.221,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725112922,
         "quantidade_saltos": 10,
-        "latencia": 17.034
+        "latencia": 17.034,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725112924,
         "quantidade_saltos": 15,
-        "latencia": 76.772
+        "latencia": 76.772,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725113037,
         "quantidade_saltos": 8,
-        "latencia": 6.688
+        "latencia": 6.688,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725112991,
         "quantidade_saltos": 13,
-        "latencia": 13.593
+        "latencia": 13.593,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725113082,
         "quantidade_saltos": 10,
-        "latencia": 5.07
+        "latencia": 5.07,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725113045,
         "quantidade_saltos": 10,
-        "latencia": 15.713
+        "latencia": 15.713,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725113054,
         "quantidade_saltos": 5,
-        "latencia": 36.486
+        "latencia": 36.486,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725113072,
         "quantidade_saltos": 15,
-        "latencia": 122.592
+        "latencia": 122.592,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725113149,
         "quantidade_saltos": 14,
-        "latencia": 12.944
+        "latencia": 12.944,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725113164,
         "quantidade_saltos": 16,
-        "latencia": 69.209
+        "latencia": 69.209,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725113162,
         "quantidade_saltos": 10,
-        "latencia": 13.697
+        "latencia": 13.697,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725113161,
         "quantidade_saltos": 8,
-        "latencia": 8.23
+        "latencia": 8.23,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725113172,
         "quantidade_saltos": 9,
-        "latencia": 6.843
+        "latencia": 6.843,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725120014,
         "quantidade_saltos": 9,
-        "latencia": 23.704
+        "latencia": 23.704,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725120007,
         "quantidade_saltos": 7,
-        "latencia": 11.7
+        "latencia": 11.7,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725120018,
         "quantidade_saltos": 12,
-        "latencia": 33.995
+        "latencia": 33.995,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725120114,
         "quantidade_saltos": 12,
-        "latencia": 12.895
+        "latencia": 12.895,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725120103,
         "quantidade_saltos": 12,
-        "latencia": 77.685
+        "latencia": 77.685,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725120112,
         "quantidade_saltos": 11,
-        "latencia": 15.684
+        "latencia": 15.684,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725120114,
         "quantidade_saltos": 15,
-        "latencia": 76.784
+        "latencia": 76.784,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725120117,
         "quantidade_saltos": 6,
-        "latencia": 38.006
+        "latencia": 38.006,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725120115,
         "quantidade_saltos": 24,
-        "latencia": 98.452
+        "latencia": 98.452,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725120115,
         "quantidade_saltos": 12,
-        "latencia": 16.59
+        "latencia": 16.59,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725120122,
         "quantidade_saltos": 7,
-        "latencia": 0.824
+        "latencia": 0.824,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725120122,
         "quantidade_saltos": 6,
-        "latencia": 179.231
+        "latencia": 179.231,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725120125,
         "quantidade_saltos": 26,
-        "latencia": 175.893
+        "latencia": 175.893,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725120171,
         "quantidade_saltos": 27,
-        "latencia": 177.897
+        "latencia": 177.897,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725120166,
         "quantidade_saltos": 9,
-        "latencia": 14.371
+        "latencia": 14.371,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725120123,
         "quantidade_saltos": 10,
-        "latencia": 17.976
+        "latencia": 17.976,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725120122,
         "quantidade_saltos": 8,
-        "latencia": 14.737
+        "latencia": 14.737,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725120197,
         "quantidade_saltos": 11,
-        "latencia": 11.178
+        "latencia": 11.178,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725120280,
         "quantidade_saltos": 10,
-        "latencia": 4.841
+        "latencia": 4.841,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725120256,
         "quantidade_saltos": 10,
-        "latencia": 16.568
+        "latencia": 16.568,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725120246,
         "quantidade_saltos": 8,
-        "latencia": 6.629
+        "latencia": 6.629,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725120249,
         "quantidade_saltos": 6,
-        "latencia": 34.484
+        "latencia": 34.484,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725120285,
         "quantidade_saltos": 15,
-        "latencia": 119.335
+        "latencia": 119.335,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725120348,
         "quantidade_saltos": 14,
-        "latencia": 11.974
+        "latencia": 11.974,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725120356,
         "quantidade_saltos": 19,
-        "latencia": 171.97
+        "latencia": 171.97,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725120357,
         "quantidade_saltos": 10,
-        "latencia": 8.819
+        "latencia": 8.819,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725120368,
         "quantidade_saltos": 8,
-        "latencia": 12.049
+        "latencia": 12.049,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725120381,
         "quantidade_saltos": 9,
-        "latencia": 6.723
+        "latencia": 6.723,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725127206,
         "quantidade_saltos": 9,
-        "latencia": 23.912
+        "latencia": 23.912,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725127213,
         "quantidade_saltos": 7,
-        "latencia": 11.716
+        "latencia": 11.716,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725127214,
         "quantidade_saltos": 10,
-        "latencia": null
+        "latencia": null,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725127314,
         "quantidade_saltos": 12,
-        "latencia": 12.875
+        "latencia": 12.875,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725127315,
         "quantidade_saltos": 26,
-        "latencia": 184.943
+        "latencia": 184.943,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725127291,
         "quantidade_saltos": 12,
-        "latencia": 75.945
+        "latencia": 75.945,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725127313,
         "quantidade_saltos": 8,
-        "latencia": 15.491
+        "latencia": 15.491,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725127314,
         "quantidade_saltos": 6,
-        "latencia": 41.454
+        "latencia": 41.454,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725127325,
         "quantidade_saltos": 7,
-        "latencia": 0.695
+        "latencia": 0.695,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725127320,
         "quantidade_saltos": 6,
-        "latencia": 198.34
+        "latencia": 198.34,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725127370,
         "quantidade_saltos": 27,
-        "latencia": 171.024
+        "latencia": 171.024,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725127363,
         "quantidade_saltos": 9,
-        "latencia": 10.644
+        "latencia": 10.644,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725127326,
         "quantidade_saltos": 10,
-        "latencia": 17.739
+        "latencia": 17.739,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725127325,
         "quantidade_saltos": 11,
-        "latencia": 16.707
+        "latencia": 16.707,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725127321,
         "quantidade_saltos": 15,
-        "latencia": 76.727
+        "latencia": 76.727,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725127326,
         "quantidade_saltos": 24,
-        "latencia": 86.372
+        "latencia": 86.372,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725127325,
         "quantidade_saltos": 12,
-        "latencia": 17.044
+        "latencia": 17.044,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725127433,
         "quantidade_saltos": 8,
-        "latencia": 6.011
+        "latencia": 6.011,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725127395,
         "quantidade_saltos": 13,
-        "latencia": 18.631
+        "latencia": 18.631,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725127493,
         "quantidade_saltos": 10,
-        "latencia": 4.989
+        "latencia": 4.989,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725127450,
         "quantidade_saltos": 13,
-        "latencia": 16.2
+        "latencia": 16.2,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725127447,
         "quantidade_saltos": 5,
-        "latencia": 39.602
+        "latencia": 39.602,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725127474,
         "quantidade_saltos": 15,
-        "latencia": 121.168
+        "latencia": 121.168,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725127548,
         "quantidade_saltos": 14,
-        "latencia": 12.454
+        "latencia": 12.454,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725127558,
         "quantidade_saltos": 8,
-        "latencia": 8.293
+        "latencia": 8.293,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725127561,
         "quantidade_saltos": 13,
-        "latencia": 168.806
+        "latencia": 168.806,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725127566,
         "quantidade_saltos": 10,
-        "latencia": 11.114
+        "latencia": 11.114,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725127583,
         "quantidade_saltos": 9,
-        "latencia": 6.817
+        "latencia": 6.817,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725134413,
         "quantidade_saltos": 9,
-        "latencia": 21.108
+        "latencia": 21.108,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725134415,
         "quantidade_saltos": 7,
-        "latencia": 11.762
+        "latencia": 11.762,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725134416,
         "quantidade_saltos": 10,
-        "latencia": 33.298
+        "latencia": 33.298,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725134516,
         "quantidade_saltos": 12,
-        "latencia": 12.872
+        "latencia": 12.872,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725134518,
         "quantidade_saltos": 26,
-        "latencia": 184.906
+        "latencia": 184.906,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725134515,
         "quantidade_saltos": 10,
-        "latencia": 18.264
+        "latencia": 18.264,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725134488,
         "quantidade_saltos": 12,
-        "latencia": 77.963
+        "latencia": 77.963,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725134518,
         "quantidade_saltos": 13,
-        "latencia": 18.668
+        "latencia": 18.668,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725134517,
         "quantidade_saltos": 15,
-        "latencia": 76.831
+        "latencia": 76.831,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725134523,
         "quantidade_saltos": 7,
-        "latencia": 0.524
+        "latencia": 0.524,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725134520,
         "quantidade_saltos": 6,
-        "latencia": 179.103
+        "latencia": 179.103,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725134567,
         "quantidade_saltos": 27,
-        "latencia": 171.025
+        "latencia": 171.025,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725134568,
         "quantidade_saltos": 9,
-        "latencia": 9.367
+        "latencia": 9.367,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725134524,
         "quantidade_saltos": 8,
-        "latencia": 14.612
+        "latencia": 14.612,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725134522,
         "quantidade_saltos": 6,
-        "latencia": 38.329
+        "latencia": 38.329,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725134520,
         "quantidade_saltos": 24,
-        "latencia": 86.322
+        "latencia": 86.322,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725134526,
         "quantidade_saltos": 12,
-        "latencia": 15.247
+        "latencia": 15.247,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725134635,
         "quantidade_saltos": 8,
-        "latencia": 5.914
+        "latencia": 5.914,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725134584,
         "quantidade_saltos": 11,
-        "latencia": 9.769
+        "latencia": 9.769,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725134691,
         "quantidade_saltos": 10,
-        "latencia": 4.663
+        "latencia": 4.663,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725134647,
         "quantidade_saltos": 13,
-        "latencia": 17.878
+        "latencia": 17.878,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725134649,
         "quantidade_saltos": 6,
-        "latencia": 35.269
+        "latencia": 35.269,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725134684,
         "quantidade_saltos": 15,
-        "latencia": 120.901
+        "latencia": 120.901,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725134760,
         "quantidade_saltos": 14,
-        "latencia": 14.794
+        "latencia": 14.794,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725134770,
         "quantidade_saltos": 16,
-        "latencia": 69.215
+        "latencia": 69.215,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725134767,
         "quantidade_saltos": 10,
-        "latencia": 8.588
+        "latencia": 8.588,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725134766,
         "quantidade_saltos": 8,
-        "latencia": 11.448
+        "latencia": 11.448,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725134785,
         "quantidade_saltos": 9,
-        "latencia": 6.605
+        "latencia": 6.605,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725141614,
         "quantidade_saltos": 9,
-        "latencia": 25.49
+        "latencia": 25.49,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725141613,
         "quantidade_saltos": 7,
-        "latencia": 11.658
+        "latencia": 11.658,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725141607,
         "quantidade_saltos": 10,
-        "latencia": 21.485
+        "latencia": 21.485,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725141715,
         "quantidade_saltos": 12,
-        "latencia": 12.912
+        "latencia": 12.912,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725141718,
         "quantidade_saltos": 7,
-        "latencia": 0.585
+        "latencia": 0.585,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725141719,
         "quantidade_saltos": 10,
-        "latencia": 16.558
+        "latencia": 16.558,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725141694,
         "quantidade_saltos": 15,
-        "latencia": 80.995
+        "latencia": 80.995,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725141719,
         "quantidade_saltos": 8,
-        "latencia": 15.237
+        "latencia": 15.237,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725141714,
         "quantidade_saltos": 15,
-        "latencia": 76.648
+        "latencia": 76.648,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725141718,
         "quantidade_saltos": 12,
-        "latencia": 19.927
+        "latencia": 19.927,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725141720,
         "quantidade_saltos": 6,
-        "latencia": 179.177
+        "latencia": 179.177,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725141722,
         "quantidade_saltos": 26,
-        "latencia": 184.943
+        "latencia": 184.943,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725141774,
         "quantidade_saltos": 27,
-        "latencia": 177.859
+        "latencia": 177.859,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725141774,
         "quantidade_saltos": 9,
-        "latencia": 11.043
+        "latencia": 11.043,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725141724,
         "quantidade_saltos": 11,
-        "latencia": 15.816
+        "latencia": 15.816,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725141722,
         "quantidade_saltos": 6,
-        "latencia": 41.469
+        "latencia": 41.469,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725141721,
         "quantidade_saltos": 24,
-        "latencia": 86.117
+        "latencia": 86.117,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725141836,
         "quantidade_saltos": 8,
-        "latencia": 6.069
+        "latencia": 6.069,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725141788,
         "quantidade_saltos": 13,
-        "latencia": 25.137
+        "latencia": 25.137,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725141892,
         "quantidade_saltos": 10,
-        "latencia": 5.085
+        "latencia": 5.085,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725141847,
         "quantidade_saltos": 10,
-        "latencia": 15.255
+        "latencia": 15.255,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725141852,
         "quantidade_saltos": 6,
-        "latencia": 36.584
+        "latencia": 36.584,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725141872,
         "quantidade_saltos": 15,
-        "latencia": 120.833
+        "latencia": 120.833,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725141950,
         "quantidade_saltos": 6,
-        "latencia": 6.298
+        "latencia": 6.298,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725141967,
         "quantidade_saltos": 15,
-        "latencia": 73.223
+        "latencia": 73.223,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725141966,
         "quantidade_saltos": 10,
-        "latencia": 9.517
+        "latencia": 9.517,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725141966,
         "quantidade_saltos": 8,
-        "latencia": 12.058
+        "latencia": 12.058,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725141981,
         "quantidade_saltos": 9,
-        "latencia": 6.688
+        "latencia": 6.688,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725148815,
         "quantidade_saltos": 9,
-        "latencia": 23.71
+        "latencia": 23.71,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725148808,
         "quantidade_saltos": 9,
-        "latencia": 11.76
+        "latencia": 11.76,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725148808,
         "quantidade_saltos": 10,
-        "latencia": 19.38
+        "latencia": 19.38,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725148914,
         "quantidade_saltos": 7,
-        "latencia": 0.705
+        "latencia": 0.705,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725148889,
         "quantidade_saltos": 15,
-        "latencia": 81.236
+        "latencia": 81.236,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725148918,
         "quantidade_saltos": 8,
-        "latencia": 15.237
+        "latencia": 15.237,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725148917,
         "quantidade_saltos": 15,
-        "latencia": 76.862
+        "latencia": 76.862,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725148916,
         "quantidade_saltos": 24,
-        "latencia": 86.099
+        "latencia": 86.099,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725148923,
         "quantidade_saltos": 12,
-        "latencia": 13.826
+        "latencia": 13.826,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725148924,
         "quantidade_saltos": 6,
-        "latencia": 179.085
+        "latencia": 179.085,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725148925,
         "quantidade_saltos": 26,
-        "latencia": 179.599
+        "latencia": 179.599,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725148977,
         "quantidade_saltos": 23,
-        "latencia": 167.572
+        "latencia": 167.572,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725148976,
         "quantidade_saltos": 9,
-        "latencia": 12.669
+        "latencia": 12.669,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725148925,
         "quantidade_saltos": 10,
-        "latencia": 16.625
+        "latencia": 16.625,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725148921,
         "quantidade_saltos": 13,
-        "latencia": 17.795
+        "latencia": 17.795,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725148926,
         "quantidade_saltos": 6,
-        "latencia": 37.897
+        "latencia": 37.897,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725148921,
         "quantidade_saltos": 12,
-        "latencia": 20.089
+        "latencia": 20.089,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725148988,
         "quantidade_saltos": 13,
-        "latencia": 16.036
+        "latencia": 16.036,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725149080,
         "quantidade_saltos": 10,
-        "latencia": 4.779
+        "latencia": 4.779,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725149043,
         "quantidade_saltos": 10,
-        "latencia": 16.31
+        "latencia": 16.31,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725149046,
         "quantidade_saltos": 8,
-        "latencia": 7.043
+        "latencia": 7.043,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725149044,
         "quantidade_saltos": 6,
-        "latencia": 31.554
+        "latencia": 31.554,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725149075,
         "quantidade_saltos": 15,
-        "latencia": 121.398
+        "latencia": 121.398,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725149154,
         "quantidade_saltos": 6,
-        "latencia": 6.185
+        "latencia": 6.185,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725149167,
         "quantidade_saltos": 13,
-        "latencia": 73.614
+        "latencia": 73.614,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725149171,
         "quantidade_saltos": 10,
-        "latencia": 7.928
+        "latencia": 7.928,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725149167,
         "quantidade_saltos": 8,
-        "latencia": 8.26
+        "latencia": 8.26,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725149178,
         "quantidade_saltos": 9,
-        "latencia": 7
+        "latencia": 7,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725156017,
         "quantidade_saltos": 4,
-        "latencia": null
+        "latencia": null,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725156012,
         "quantidade_saltos": 9,
-        "latencia": 11.779
+        "latencia": 11.779,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725156008,
         "quantidade_saltos": 10,
-        "latencia": 24.594
+        "latencia": 24.594,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725156119,
         "quantidade_saltos": 12,
-        "latencia": 13.885
+        "latencia": 13.885,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725156111,
         "quantidade_saltos": 7,
-        "latencia": 0.728
+        "latencia": 0.728,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725156119,
         "quantidade_saltos": 22,
-        "latencia": 168.996
+        "latencia": 168.996,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725156115,
         "quantidade_saltos": 10,
-        "latencia": 16.844
+        "latencia": 16.844,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725156088,
         "quantidade_saltos": 15,
-        "latencia": 81.147
+        "latencia": 81.147,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725156116,
         "quantidade_saltos": 12,
-        "latencia": 17.41
+        "latencia": 17.41,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725156123,
         "quantidade_saltos": 6,
-        "latencia": 178.212
+        "latencia": 178.212,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725156172,
         "quantidade_saltos": 23,
-        "latencia": 174.387
+        "latencia": 174.387,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725156163,
         "quantidade_saltos": 9,
-        "latencia": 11.785
+        "latencia": 11.785,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725156122,
         "quantidade_saltos": 13,
-        "latencia": 17.699
+        "latencia": 17.699,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725156125,
         "quantidade_saltos": 8,
-        "latencia": 14.931
+        "latencia": 14.931,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725156121,
         "quantidade_saltos": 15,
-        "latencia": 76.668
+        "latencia": 76.668,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725156122,
         "quantidade_saltos": 6,
-        "latencia": 37.901
+        "latencia": 37.901,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725156123,
         "quantidade_saltos": 24,
-        "latencia": 86.157
+        "latencia": 86.157,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725156183,
         "quantidade_saltos": 13,
-        "latencia": 12.996
+        "latencia": 12.996,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725156286,
         "quantidade_saltos": 10,
-        "latencia": 4.76
+        "latencia": 4.76,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725156257,
         "quantidade_saltos": 16,
-        "latencia": 17.942
+        "latencia": 17.942,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725156240,
         "quantidade_saltos": 8,
-        "latencia": 6.478
+        "latencia": 6.478,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725156249,
         "quantidade_saltos": 6,
-        "latencia": 34.191
+        "latencia": 34.191,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725156280,
         "quantidade_saltos": 17,
-        "latencia": 227.486
+        "latencia": 227.486,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725156354,
         "quantidade_saltos": 6,
-        "latencia": 9.763
+        "latencia": 9.763,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725156363,
         "quantidade_saltos": 19,
-        "latencia": 179.878
+        "latencia": 179.878,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725156361,
         "quantidade_saltos": 10,
-        "latencia": 8.143
+        "latencia": 8.143,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725156360,
         "quantidade_saltos": 8,
-        "latencia": 11.551
+        "latencia": 11.551,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725156374,
         "quantidade_saltos": 9,
-        "latencia": 6.869
+        "latencia": 6.869,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725163210,
         "quantidade_saltos": 9,
-        "latencia": 23.597
+        "latencia": 23.597,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725163217,
         "quantidade_saltos": 9,
-        "latencia": 11.842
+        "latencia": 11.842,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725163211,
         "quantidade_saltos": 10,
-        "latencia": 20.532
+        "latencia": 20.532,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725163293,
         "quantidade_saltos": 15,
-        "latencia": 81.383
+        "latencia": 81.383,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725163318,
         "quantidade_saltos": 13,
-        "latencia": 17.666
+        "latencia": 17.666,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725163319,
         "quantidade_saltos": 12,
-        "latencia": 16.48
+        "latencia": 16.48,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725163320,
         "quantidade_saltos": 12,
-        "latencia": 13.869
+        "latencia": 13.869,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725163323,
         "quantidade_saltos": 7,
-        "latencia": 0.791
+        "latencia": 0.791,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725163320,
         "quantidade_saltos": 6,
-        "latencia": 176.094
+        "latencia": 176.094,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725163325,
         "quantidade_saltos": 22,
-        "latencia": 174.864
+        "latencia": 174.864,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725163372,
         "quantidade_saltos": 27,
-        "latencia": 173.462
+        "latencia": 173.462,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725163374,
         "quantidade_saltos": 9,
-        "latencia": 14.65
+        "latencia": 14.65,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725163322,
         "quantidade_saltos": 10,
-        "latencia": 17.722
+        "latencia": 17.722,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725163321,
         "quantidade_saltos": 8,
-        "latencia": 15.437
+        "latencia": 15.437,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725163323,
         "quantidade_saltos": 15,
-        "latencia": 76.73
+        "latencia": 76.73,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725163325,
         "quantidade_saltos": 6,
-        "latencia": 41.409
+        "latencia": 41.409,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725163326,
         "quantidade_saltos": 24,
-        "latencia": 86.179
+        "latencia": 86.179,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725163387,
         "quantidade_saltos": 12,
-        "latencia": 13.644
+        "latencia": 13.644,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725163494,
         "quantidade_saltos": 10,
-        "latencia": 4.892
+        "latencia": 4.892,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725163445,
         "quantidade_saltos": 10,
-        "latencia": 15.105
+        "latencia": 15.105,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725163446,
         "quantidade_saltos": 8,
-        "latencia": 6.386
+        "latencia": 6.386,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725163450,
         "quantidade_saltos": 5,
-        "latencia": 32.976
+        "latencia": 32.976,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725163476,
         "quantidade_saltos": 13,
-        "latencia": 230.362
+        "latencia": 230.362,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725163548,
         "quantidade_saltos": 14,
-        "latencia": 12.632
+        "latencia": 12.632,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725163566,
         "quantidade_saltos": 15,
-        "latencia": 73.186
+        "latencia": 73.186,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725163569,
         "quantidade_saltos": 10,
-        "latencia": 8.608
+        "latencia": 8.608,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725163571,
         "quantidade_saltos": 8,
-        "latencia": 8.25
+        "latencia": 8.25,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725163576,
         "quantidade_saltos": 9,
-        "latencia": 10.593
+        "latencia": 10.593,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725170410,
         "quantidade_saltos": 9,
-        "latencia": 23.873
+        "latencia": 23.873,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725170402,
         "quantidade_saltos": 7,
-        "latencia": 11.713
+        "latencia": 11.713,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725170404,
         "quantidade_saltos": 10,
-        "latencia": 20.932
+        "latencia": 20.932,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725170513,
         "quantidade_saltos": 12,
-        "latencia": 12.731
+        "latencia": 12.731,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725170511,
         "quantidade_saltos": 6,
-        "latencia": 179.416
+        "latencia": 179.416,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725170513,
         "quantidade_saltos": 10,
-        "latencia": 17.947
+        "latencia": 17.947,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725170490,
         "quantidade_saltos": 15,
-        "latencia": 83.205
+        "latencia": 83.205,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725170514,
         "quantidade_saltos": 13,
-        "latencia": 18.421
+        "latencia": 18.421,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725170512,
         "quantidade_saltos": 24,
-        "latencia": 86.417
+        "latencia": 86.417,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725170522,
         "quantidade_saltos": 7,
-        "latencia": 0.664
+        "latencia": 0.664,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725170521,
         "quantidade_saltos": 26,
-        "latencia": 170.57
+        "latencia": 170.57,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725170565,
         "quantidade_saltos": 17,
-        "latencia": 175.765
+        "latencia": 175.765,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725170568,
         "quantidade_saltos": 9,
-        "latencia": 10.728
+        "latencia": 10.728,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725170523,
         "quantidade_saltos": 8,
-        "latencia": 14.971
+        "latencia": 14.971,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725170523,
         "quantidade_saltos": 15,
-        "latencia": 76.724
+        "latencia": 76.724,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725170523,
         "quantidade_saltos": 6,
-        "latencia": 31.708
+        "latencia": 31.708,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725170524,
         "quantidade_saltos": 12,
-        "latencia": 15.034
+        "latencia": 15.034,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725170584,
         "quantidade_saltos": 13,
-        "latencia": 11.704
+        "latencia": 11.704,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725170681,
         "quantidade_saltos": 10,
-        "latencia": 5.221
+        "latencia": 5.221,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725170651,
         "quantidade_saltos": 16,
-        "latencia": 15.725
+        "latencia": 15.725,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725170643,
         "quantidade_saltos": 8,
-        "latencia": 6.571
+        "latencia": 6.571,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725170648,
         "quantidade_saltos": 10,
-        "latencia": 66.07
+        "latencia": 66.07,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725170686,
         "quantidade_saltos": 17,
-        "latencia": 224.614
+        "latencia": 224.614,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725170759,
         "quantidade_saltos": 10,
-        "latencia": 8.659
+        "latencia": 8.659,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725170760,
         "quantidade_saltos": 6,
-        "latencia": 6.541
+        "latencia": 6.541,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725170760,
         "quantidade_saltos": 13,
-        "latencia": 69.209
+        "latencia": 69.209,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725170760,
         "quantidade_saltos": 8,
-        "latencia": 8.25
+        "latencia": 8.25,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725170782,
         "quantidade_saltos": 9,
-        "latencia": 6.787
+        "latencia": 6.787,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725177607,
         "quantidade_saltos": 9,
-        "latencia": 23.293
+        "latencia": 23.293,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725177610,
         "quantidade_saltos": 7,
-        "latencia": 11.704
+        "latencia": 11.704,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725177611,
         "quantidade_saltos": 10,
-        "latencia": 19.662
+        "latencia": 19.662,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725177712,
         "quantidade_saltos": 12,
-        "latencia": 13.929
+        "latencia": 13.929,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725177716,
         "quantidade_saltos": 8,
-        "latencia": 9.801
+        "latencia": 9.801,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725177712,
         "quantidade_saltos": 6,
-        "latencia": 179.25
+        "latencia": 179.25,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725177694,
         "quantidade_saltos": 12,
-        "latencia": 76.044
+        "latencia": 76.044,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725177717,
         "quantidade_saltos": 13,
-        "latencia": 17.857
+        "latencia": 17.857,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725177712,
         "quantidade_saltos": 8,
-        "latencia": 14.427
+        "latencia": 14.427,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725177713,
         "quantidade_saltos": 15,
-        "latencia": 76.656
+        "latencia": 76.656,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725177717,
         "quantidade_saltos": 6,
-        "latencia": 32.156
+        "latencia": 32.156,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725177713,
         "quantidade_saltos": 24,
-        "latencia": 98.204
+        "latencia": 98.204,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725177724,
         "quantidade_saltos": 16,
-        "latencia": 193.472
+        "latencia": 193.472,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725177769,
         "quantidade_saltos": 27,
-        "latencia": 171.039
+        "latencia": 171.039,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725177771,
         "quantidade_saltos": 9,
-        "latencia": 40.717
+        "latencia": 40.717,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725177726,
         "quantidade_saltos": 10,
-        "latencia": 16.779
+        "latencia": 16.779,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725177723,
         "quantidade_saltos": 12,
-        "latencia": 15.903
+        "latencia": 15.903,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725177834,
         "quantidade_saltos": 8,
-        "latencia": 6.15
+        "latencia": 6.15,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725177795,
         "quantidade_saltos": 12,
-        "latencia": 14.233
+        "latencia": 14.233,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725177891,
         "quantidade_saltos": 10,
-        "latencia": 4.989
+        "latencia": 4.989,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725177855,
         "quantidade_saltos": 13,
-        "latencia": 15.563
+        "latencia": 15.563,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725177848,
         "quantidade_saltos": 6,
-        "latencia": 33.32
+        "latencia": 33.32,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725177878,
         "quantidade_saltos": 17,
-        "latencia": 233.193
+        "latencia": 233.193,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725177957,
         "quantidade_saltos": 14,
-        "latencia": 12.145
+        "latencia": 12.145,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725177963,
         "quantidade_saltos": 16,
-        "latencia": 73.399
+        "latencia": 73.399,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725177966,
         "quantidade_saltos": 10,
-        "latencia": 8.493
+        "latencia": 8.493,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725177963,
         "quantidade_saltos": 8,
-        "latencia": 12.034
+        "latencia": 12.034,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725177972,
         "quantidade_saltos": 9,
-        "latencia": 6.865
+        "latencia": 6.865,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725184817,
         "quantidade_saltos": 9,
-        "latencia": 23.312
+        "latencia": 23.312,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725184806,
         "quantidade_saltos": 7,
-        "latencia": 11.731
+        "latencia": 11.731,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725184817,
         "quantidade_saltos": 10,
-        "latencia": 20.042
+        "latencia": 20.042,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725184917,
         "quantidade_saltos": 6,
-        "latencia": 3.84
+        "latencia": 3.84,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725184912,
         "quantidade_saltos": 7,
-        "latencia": 0.806
+        "latencia": 0.806,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725184919,
         "quantidade_saltos": 6,
-        "latencia": 179.859
+        "latencia": 179.859,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725184917,
         "quantidade_saltos": 10,
-        "latencia": 17.99
+        "latencia": 17.99,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725184898,
         "quantidade_saltos": 12,
-        "latencia": 77.293
+        "latencia": 77.293,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725184917,
         "quantidade_saltos": 13,
-        "latencia": 17.791
+        "latencia": 17.791,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725184913,
         "quantidade_saltos": 8,
-        "latencia": 14.938
+        "latencia": 14.938,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725184918,
         "quantidade_saltos": 24,
-        "latencia": 94.526
+        "latencia": 94.526,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725184919,
         "quantidade_saltos": 12,
-        "latencia": 12.763
+        "latencia": 12.763,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725184924,
         "quantidade_saltos": 26,
-        "latencia": 175.356
+        "latencia": 175.356,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725184969,
         "quantidade_saltos": 27,
-        "latencia": 184.828
+        "latencia": 184.828,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725184976,
         "quantidade_saltos": 9,
-        "latencia": 10.53
+        "latencia": 10.53,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725184924,
         "quantidade_saltos": 15,
-        "latencia": 76.783
+        "latencia": 76.783,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725184925,
         "quantidade_saltos": 6,
-        "latencia": 23.871
+        "latencia": 23.871,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725185034,
         "quantidade_saltos": 8,
-        "latencia": 6.247
+        "latencia": 6.247,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725184998,
         "quantidade_saltos": 11,
-        "latencia": 23.04
+        "latencia": 23.04,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725185092,
         "quantidade_saltos": 10,
-        "latencia": 4.53
+        "latencia": 4.53,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725185050,
         "quantidade_saltos": 10,
-        "latencia": 14.364
+        "latencia": 14.364,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725185043,
         "quantidade_saltos": 5,
-        "latencia": 31.033
+        "latencia": 31.033,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725185072,
         "quantidade_saltos": 15,
-        "latencia": 121.359
+        "latencia": 121.359,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725185154,
         "quantidade_saltos": 14,
-        "latencia": 11.686
+        "latencia": 11.686,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725185157,
         "quantidade_saltos": 15,
-        "latencia": 73.219
+        "latencia": 73.219,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725185169,
         "quantidade_saltos": 10,
-        "latencia": 8.217
+        "latencia": 8.217,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725185160,
         "quantidade_saltos": 6,
-        "latencia": 11.488
+        "latencia": 11.488,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725185176,
         "quantidade_saltos": 9,
-        "latencia": 6.704
+        "latencia": 6.704,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725192013,
         "quantidade_saltos": 9,
-        "latencia": 21.101
+        "latencia": 21.101,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725192004,
         "quantidade_saltos": 9,
-        "latencia": 11.778
+        "latencia": 11.778,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725192015,
         "quantidade_saltos": 10,
-        "latencia": 21.416
+        "latencia": 21.416,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725192112,
         "quantidade_saltos": 12,
-        "latencia": 12.806
+        "latencia": 12.806,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725192117,
         "quantidade_saltos": 7,
-        "latencia": 0.509
+        "latencia": 0.509,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725192116,
         "quantidade_saltos": 26,
-        "latencia": 181.558
+        "latencia": 181.558,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725192088,
         "quantidade_saltos": 12,
-        "latencia": 76.776
+        "latencia": 76.776,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725192114,
         "quantidade_saltos": 13,
-        "latencia": 22.527
+        "latencia": 22.527,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725192113,
         "quantidade_saltos": 15,
-        "latencia": 76.766
+        "latencia": 76.766,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725192119,
         "quantidade_saltos": 24,
-        "latencia": 96.248
+        "latencia": 96.248,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725192119,
         "quantidade_saltos": 13,
-        "latencia": 25.656
+        "latencia": 25.656,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725192124,
         "quantidade_saltos": 6,
-        "latencia": 179.086
+        "latencia": 179.086,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725192171,
         "quantidade_saltos": 27,
-        "latencia": 178.194
+        "latencia": 178.194,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725192174,
         "quantidade_saltos": 9,
-        "latencia": 31.982
+        "latencia": 31.982,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725192123,
         "quantidade_saltos": 10,
-        "latencia": 17.747
+        "latencia": 17.747,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725192125,
         "quantidade_saltos": 8,
-        "latencia": 15.361
+        "latencia": 15.361,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725192121,
         "quantidade_saltos": 6,
-        "latencia": 29.053
+        "latencia": 29.053,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725192193,
         "quantidade_saltos": 13,
-        "latencia": 11.397
+        "latencia": 11.397,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725192282,
         "quantidade_saltos": 10,
-        "latencia": 5.11
+        "latencia": 5.11,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725192243,
         "quantidade_saltos": 10,
-        "latencia": 15.672
+        "latencia": 15.672,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725192243,
         "quantidade_saltos": 8,
-        "latencia": 6.154
+        "latencia": 6.154,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725192244,
         "quantidade_saltos": 10,
-        "latencia": 67.96
+        "latencia": 67.96,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725192275,
         "quantidade_saltos": 17,
-        "latencia": 231.534
+        "latencia": 231.534,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725192352,
         "quantidade_saltos": 14,
-        "latencia": 11.741
+        "latencia": 11.741,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725192357,
         "quantidade_saltos": 10,
-        "latencia": 8.017
+        "latencia": 8.017,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725192358,
         "quantidade_saltos": 8,
-        "latencia": 8.239
+        "latencia": 8.239,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725192361,
         "quantidade_saltos": 13,
-        "latencia": 184.368
+        "latencia": 184.368,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725192378,
         "quantidade_saltos": 12,
-        "latencia": 17.648
+        "latencia": 17.648,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725199204,
         "quantidade_saltos": 9,
-        "latencia": 25.714
+        "latencia": 25.714,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725199209,
         "quantidade_saltos": 7,
-        "latencia": 11.721
+        "latencia": 11.721,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725199210,
         "quantidade_saltos": 10,
-        "latencia": 21.801
+        "latencia": 21.801,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725199318,
         "quantidade_saltos": 6,
-        "latencia": 3.849
+        "latencia": 3.849,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725199316,
         "quantidade_saltos": 7,
-        "latencia": 0.609
+        "latencia": 0.609,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725199318,
         "quantidade_saltos": 6,
-        "latencia": 179.341
+        "latencia": 179.341,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725199317,
         "quantidade_saltos": 26,
-        "latencia": 179.611
+        "latencia": 179.611,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725199317,
         "quantidade_saltos": 10,
-        "latencia": 17.921
+        "latencia": 17.921,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725199285,
         "quantidade_saltos": 12,
-        "latencia": 76.608
+        "latencia": 76.608,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725199315,
         "quantidade_saltos": 13,
-        "latencia": 17.684
+        "latencia": 17.684,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725199318,
         "quantidade_saltos": 15,
-        "latencia": 76.732
+        "latencia": 76.732,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725199319,
         "quantidade_saltos": 6,
-        "latencia": 24.059
+        "latencia": 24.059,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725199318,
         "quantidade_saltos": 24,
-        "latencia": 98.928
+        "latencia": 98.928,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725199319,
         "quantidade_saltos": 13,
-        "latencia": 28.041
+        "latencia": 28.041,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725199373,
         "quantidade_saltos": 27,
-        "latencia": 182.92
+        "latencia": 182.92,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725199365,
         "quantidade_saltos": 9,
-        "latencia": 27.33
+        "latencia": 27.33,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725199320,
         "quantidade_saltos": 8,
-        "latencia": 16.288
+        "latencia": 16.288,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725199394,
         "quantidade_saltos": 11,
-        "latencia": 13.213
+        "latencia": 13.213,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725199483,
         "quantidade_saltos": 10,
-        "latencia": 4.678
+        "latencia": 4.678,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725199456,
         "quantidade_saltos": 13,
-        "latencia": 15.406
+        "latencia": 15.406,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725199445,
         "quantidade_saltos": 8,
-        "latencia": 6.727
+        "latencia": 6.727,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725199455,
         "quantidade_saltos": 5,
-        "latencia": 29.013
+        "latencia": 29.013,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725199482,
         "quantidade_saltos": 15,
-        "latencia": 120.352
+        "latencia": 120.352,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725199548,
         "quantidade_saltos": 6,
-        "latencia": 12.61
+        "latencia": 12.61,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725199558,
         "quantidade_saltos": 13,
-        "latencia": null
+        "latencia": null,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725199571,
         "quantidade_saltos": 10,
-        "latencia": 8.498
+        "latencia": 8.498,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725199569,
         "quantidade_saltos": 6,
-        "latencia": 11.636
+        "latencia": 11.636,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725199575,
         "quantidade_saltos": 9,
-        "latencia": 6.572
+        "latencia": 6.572,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725206410,
         "quantidade_saltos": 11,
-        "latencia": 27.176
+        "latencia": 27.176,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725206406,
         "quantidade_saltos": 7,
-        "latencia": 11.67
+        "latencia": 11.67,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725206411,
         "quantidade_saltos": 10,
-        "latencia": 18.11
+        "latencia": 18.11,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725206513,
         "quantidade_saltos": 12,
-        "latencia": 11.91
+        "latencia": 11.91,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725206519,
         "quantidade_saltos": 7,
-        "latencia": 0.787
+        "latencia": 0.787,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725206517,
         "quantidade_saltos": 6,
-        "latencia": 179.07
+        "latencia": 179.07,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725206511,
         "quantidade_saltos": 26,
-        "latencia": 184.928
+        "latencia": 184.928,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725206517,
         "quantidade_saltos": 10,
-        "latencia": 17.73
+        "latencia": 17.73,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725206486,
         "quantidade_saltos": 12,
-        "latencia": 76.383
+        "latencia": 76.383,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725206515,
         "quantidade_saltos": 12,
-        "latencia": 15.56
+        "latencia": 15.56,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725206572,
         "quantidade_saltos": 27,
-        "latencia": 178.395
+        "latencia": 178.395,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725206567,
         "quantidade_saltos": 9,
-        "latencia": 8.926
+        "latencia": 8.926,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725206523,
         "quantidade_saltos": 13,
-        "latencia": 17.476
+        "latencia": 17.476,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725206522,
         "quantidade_saltos": 8,
-        "latencia": 16.33
+        "latencia": 16.33,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725206527,
         "quantidade_saltos": 15,
-        "latencia": 77.249
+        "latencia": 77.249,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725206521,
         "quantidade_saltos": 6,
-        "latencia": 23.927
+        "latencia": 23.927,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725206522,
         "quantidade_saltos": 24,
-        "latencia": 98.498
+        "latencia": 98.498,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725206633,
         "quantidade_saltos": 8,
-        "latencia": 6.197
+        "latencia": 6.197,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725206589,
         "quantidade_saltos": 13,
-        "latencia": 11.639
+        "latencia": 11.639,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725206693,
         "quantidade_saltos": 10,
-        "latencia": 4.675
+        "latencia": 4.675,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725206644,
         "quantidade_saltos": 13,
-        "latencia": 15.865
+        "latencia": 15.865,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725206650,
         "quantidade_saltos": 10,
-        "latencia": 78.829
+        "latencia": 78.829,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725206673,
         "quantidade_saltos": 15,
-        "latencia": 122.006
+        "latencia": 122.006,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725206757,
         "quantidade_saltos": 6,
-        "latencia": 11.472
+        "latencia": 11.472,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725206761,
         "quantidade_saltos": 14,
-        "latencia": 12.414
+        "latencia": 12.414,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725206762,
         "quantidade_saltos": 18,
-        "latencia": 124.333
+        "latencia": 124.333,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725206760,
         "quantidade_saltos": 10,
-        "latencia": 8.77
+        "latencia": 8.77,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725206784,
         "quantidade_saltos": 9,
-        "latencia": 6.749
+        "latencia": 6.749,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725213615,
         "quantidade_saltos": 9,
-        "latencia": 22.057
+        "latencia": 22.057,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725213616,
         "quantidade_saltos": 7,
-        "latencia": 11.757
+        "latencia": 11.757,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725213606,
         "quantidade_saltos": 10,
-        "latencia": 21.196
+        "latencia": 21.196,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725213712,
         "quantidade_saltos": 12,
-        "latencia": 14.239
+        "latencia": 14.239,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725213715,
         "quantidade_saltos": 7,
-        "latencia": 0.705
+        "latencia": 0.705,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725213712,
         "quantidade_saltos": 26,
-        "latencia": 184.92
+        "latencia": 184.92,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725213715,
         "quantidade_saltos": 10,
-        "latencia": 17.967
+        "latencia": 17.967,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725213696,
         "quantidade_saltos": 12,
-        "latencia": 76.112
+        "latencia": 76.112,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725213716,
         "quantidade_saltos": 24,
-        "latencia": 86.364
+        "latencia": 86.364,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725213721,
         "quantidade_saltos": 6,
-        "latencia": 179.08
+        "latencia": 179.08,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725213769,
         "quantidade_saltos": 27,
-        "latencia": 177.876
+        "latencia": 177.876,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725213768,
         "quantidade_saltos": 9,
-        "latencia": 8.765
+        "latencia": 8.765,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725213721,
         "quantidade_saltos": 13,
-        "latencia": 17.475
+        "latencia": 17.475,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725213721,
         "quantidade_saltos": 8,
-        "latencia": 15.172
+        "latencia": 15.172,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725213720,
         "quantidade_saltos": 15,
-        "latencia": 76.698
+        "latencia": 76.698,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725213720,
         "quantidade_saltos": 6,
-        "latencia": 29.63
+        "latencia": 29.63,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725213723,
         "quantidade_saltos": 12,
-        "latencia": 15.174
+        "latencia": 15.174,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725213797,
         "quantidade_saltos": 11,
-        "latencia": 11.358
+        "latencia": 11.358,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725213893,
         "quantidade_saltos": 10,
-        "latencia": 5.084
+        "latencia": 5.084,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725213851,
         "quantidade_saltos": 10,
-        "latencia": 16.853
+        "latencia": 16.853,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725213843,
         "quantidade_saltos": 8,
-        "latencia": 6.124
+        "latencia": 6.124,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725213856,
         "quantidade_saltos": 6,
-        "latencia": 30.666
+        "latencia": 30.666,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725213873,
         "quantidade_saltos": 17,
-        "latencia": 225.904
+        "latencia": 225.904,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725213956,
         "quantidade_saltos": 11,
-        "latencia": 10.878
+        "latencia": 10.878,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725213962,
         "quantidade_saltos": 13,
-        "latencia": 162.68
+        "latencia": 162.68,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725213962,
         "quantidade_saltos": 10,
-        "latencia": 8.036
+        "latencia": 8.036,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725213960,
         "quantidade_saltos": 6,
-        "latencia": 11.445
+        "latencia": 11.445,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725213981,
         "quantidade_saltos": 9,
-        "latencia": 7.351
+        "latencia": 7.351,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725220816,
         "quantidade_saltos": 9,
-        "latencia": 25.502
+        "latencia": 25.502,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725220813,
         "quantidade_saltos": 7,
-        "latencia": 16.454
+        "latencia": 16.454,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725220808,
         "quantidade_saltos": 10,
-        "latencia": 20.316
+        "latencia": 20.316,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725220919,
         "quantidade_saltos": 7,
-        "latencia": 0.73
+        "latencia": 0.73,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725220919,
         "quantidade_saltos": 26,
-        "latencia": 167.996
+        "latencia": 167.996,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725220903,
         "quantidade_saltos": 15,
-        "latencia": 80.67
+        "latencia": 80.67,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725220922,
         "quantidade_saltos": 12,
-        "latencia": 12.954
+        "latencia": 12.954,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725220925,
         "quantidade_saltos": 6,
-        "latencia": 179.155
+        "latencia": 179.155,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725220962,
         "quantidade_saltos": 17,
-        "latencia": 127.718
+        "latencia": 127.718,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725220972,
         "quantidade_saltos": 9,
-        "latencia": 8.638
+        "latencia": 8.638,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725220926,
         "quantidade_saltos": 10,
-        "latencia": 17.066
+        "latencia": 17.066,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725220925,
         "quantidade_saltos": 11,
-        "latencia": 17.186
+        "latencia": 17.186,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725220920,
         "quantidade_saltos": 8,
-        "latencia": 14.824
+        "latencia": 14.824,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725220921,
         "quantidade_saltos": 15,
-        "latencia": 78.134
+        "latencia": 78.134,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725220926,
         "quantidade_saltos": 6,
-        "latencia": 29.088
+        "latencia": 29.088,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725220923,
         "quantidade_saltos": 24,
-        "latencia": 86.248
+        "latencia": 86.248,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725220923,
         "quantidade_saltos": 12,
-        "latencia": 18.233
+        "latencia": 18.233,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725221033,
         "quantidade_saltos": 8,
-        "latencia": 6.218
+        "latencia": 6.218,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725220993,
         "quantidade_saltos": 11,
-        "latencia": 10.854
+        "latencia": 10.854,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725221083,
         "quantidade_saltos": 10,
-        "latencia": 4.704
+        "latencia": 4.704,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725221055,
         "quantidade_saltos": 10,
-        "latencia": 17.207
+        "latencia": 17.207,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725221051,
         "quantidade_saltos": 5,
-        "latencia": 36.636
+        "latencia": 36.636,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725221075,
         "quantidade_saltos": 15,
-        "latencia": 126.452
+        "latencia": 126.452,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725221154,
         "quantidade_saltos": 14,
-        "latencia": 12.57
+        "latencia": 12.57,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725221158,
         "quantidade_saltos": 8,
-        "latencia": 12.017
+        "latencia": 12.017,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725221170,
         "quantidade_saltos": 14,
-        "latencia": 56.335
+        "latencia": 56.335,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725221171,
         "quantidade_saltos": 10,
-        "latencia": 7.986
+        "latencia": 7.986,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725221176,
         "quantidade_saltos": 9,
-        "latencia": 6.722
+        "latencia": 6.722,
+        "destino": "MAX"
     },
     {
         "probe_id": 243,
         "pais": "argentina",
         "timestamp": 1725228017,
         "quantidade_saltos": 9,
-        "latencia": 20.056
+        "latencia": 20.056,
+        "destino": "MAX"
     },
     {
         "probe_id": 31403,
         "pais": "argentina",
         "timestamp": 1725228018,
         "quantidade_saltos": 7,
-        "latencia": 16.411
+        "latencia": 16.411,
+        "destino": "MAX"
     },
     {
         "probe_id": 32670,
         "pais": "brasil",
         "timestamp": 1725228004,
         "quantidade_saltos": 10,
-        "latencia": 23.325
+        "latencia": 23.325,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005475,
         "pais": "china",
         "timestamp": 1725228117,
         "quantidade_saltos": 6,
-        "latencia": 179.18
+        "latencia": 179.18,
+        "destino": "MAX"
     },
     {
         "probe_id": 12234,
         "pais": "gra-bretanha",
         "timestamp": 1725228115,
         "quantidade_saltos": 10,
-        "latencia": 17.752
+        "latencia": 17.752,
+        "destino": "MAX"
     },
     {
         "probe_id": 18641,
         "pais": "russia",
         "timestamp": 1725228092,
         "quantidade_saltos": 15,
-        "latencia": 80.701
+        "latencia": 80.701,
+        "destino": "MAX"
     },
     {
         "probe_id": 21536,
         "pais": "franca",
         "timestamp": 1725228117,
         "quantidade_saltos": 13,
-        "latencia": 17.846
+        "latencia": 17.846,
+        "destino": "MAX"
     },
     {
         "probe_id": 51756,
         "pais": "gra-bretanha",
         "timestamp": 1725228112,
         "quantidade_saltos": 15,
-        "latencia": 76.676
+        "latencia": 76.676,
+        "destino": "MAX"
     },
     {
         "probe_id": 53099,
         "pais": "india",
         "timestamp": 1725228118,
         "quantidade_saltos": 6,
-        "latencia": 33.583
+        "latencia": 33.583,
+        "destino": "MAX"
     },
     {
         "probe_id": 55584,
         "pais": "russia",
         "timestamp": 1725228119,
         "quantidade_saltos": 24,
-        "latencia": 86.139
+        "latencia": 86.139,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004969,
         "pais": "uruguai",
         "timestamp": 1725228123,
         "quantidade_saltos": 12,
-        "latencia": 12.825
+        "latencia": 12.825,
+        "destino": "MAX"
     },
     {
         "probe_id": 1004982,
         "pais": "brasil",
         "timestamp": 1725228120,
         "quantidade_saltos": 7,
-        "latencia": 0.793
+        "latencia": 0.793,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005478,
         "pais": "china",
         "timestamp": 1725228122,
         "quantidade_saltos": 16,
-        "latencia": 180.049
+        "latencia": 180.049,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005738,
         "pais": "china",
         "timestamp": 1725228168,
         "quantidade_saltos": 17,
-        "latencia": 136.519
+        "latencia": 136.519,
+        "destino": "MAX"
     },
     {
         "probe_id": 1005800,
         "pais": "japao",
         "timestamp": 1725228174,
         "quantidade_saltos": 9,
-        "latencia": 8.744
+        "latencia": 8.744,
+        "destino": "MAX"
     },
     {
         "probe_id": 32052,
         "pais": "franca",
         "timestamp": 1725228125,
         "quantidade_saltos": 8,
-        "latencia": 14.715
+        "latencia": 14.715,
+        "destino": "MAX"
     },
     {
         "probe_id": 64718,
         "pais": "india",
         "timestamp": 1725228124,
         "quantidade_saltos": 12,
-        "latencia": 17.822
+        "latencia": 17.822,
+        "destino": "MAX"
     },
     {
         "probe_id": 28310,
         "pais": "franca",
         "timestamp": 1725228234,
         "quantidade_saltos": 8,
-        "latencia": 6.124
+        "latencia": 6.124,
+        "destino": "MAX"
     },
     {
         "probe_id": 7147,
         "pais": "uruguai",
         "timestamp": 1725228191,
         "quantidade_saltos": 13,
-        "latencia": 11.077
+        "latencia": 11.077,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008770,
         "pais": "brasil",
         "timestamp": 1725228283,
         "quantidade_saltos": 10,
-        "latencia": 4.857
+        "latencia": 4.857,
+        "destino": "MAX"
     },
     {
         "probe_id": 17958,
         "pais": "gra-bretanha",
         "timestamp": 1725228251,
         "quantidade_saltos": 13,
-        "latencia": 15.835
+        "latencia": 15.835,
+        "destino": "MAX"
     },
     {
         "probe_id": 51924,
         "pais": "india",
         "timestamp": 1725228257,
         "quantidade_saltos": 6,
-        "latencia": 37.023
+        "latencia": 37.023,
+        "destino": "MAX"
     },
     {
         "probe_id": 6349,
         "pais": "brasil",
         "timestamp": 1725228277,
         "quantidade_saltos": 15,
-        "latencia": 120.352
+        "latencia": 120.352,
+        "destino": "MAX"
     },
     {
         "probe_id": 1008493,
         "pais": "russia",
         "timestamp": 1725228352,
         "quantidade_saltos": 6,
-        "latencia": 6.432
+        "latencia": 6.432,
+        "destino": "MAX"
     },
     {
         "probe_id": 33508,
         "pais": "argentina",
         "timestamp": 1725228357,
         "quantidade_saltos": 8,
-        "latencia": 12.031
+        "latencia": 12.031,
+        "destino": "MAX"
     },
     {
         "probe_id": 14584,
         "pais": "china",
         "timestamp": 1725228363,
         "quantidade_saltos": 13,
-        "latencia": 159.784
+        "latencia": 159.784,
+        "destino": "MAX"
     },
     {
         "probe_id": 19503,
         "pais": "japao",
         "timestamp": 1725228369,
         "quantidade_saltos": 10,
-        "latencia": 8.512
+        "latencia": 8.512,
+        "destino": "MAX"
     },
     {
         "probe_id": 61985,
         "pais": "franca",
         "timestamp": 1725228372,
         "quantidade_saltos": 9,
-        "latencia": 6.519
+        "latencia": 6.519,
+        "destino": "MAX"
     }
 ]
