@@ -47,7 +47,7 @@ def grafico_comparar_destinos_saltos(df, salvar=False):
 # Função para gerar gráficos de correlação entre latência e saltos comparando destinos
 def grafico_comparar_destinos_correlacao(df, salvar=False):
     plt.figure(figsize=(12, 7))
-    sns.scatterplot(x='quantidade_saltos', y='latencia', hue='destino', data=df)
+    sns.lineplot(x='quantidade_saltos', y='latencia', hue='destino', data=df, marker='o')
     plt.title('Correlação entre Latência e Saltos Comparando Destinos')
     plt.xlabel('Quantidade de Saltos')
     plt.ylabel('Latência (ms)')

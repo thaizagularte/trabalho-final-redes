@@ -11,9 +11,8 @@ df_disney['destino'] = 'Disney'
 df_max['destino'] = 'Max'
 df_prime['destino'] = 'Prime'
 
-# Adicionar uma coluna de país em cada DataFrame (assumindo que você tem essa informação)
+# Adicionar uma coluna de país em cada DataFrame (preencha com o país correto para cada DataFrame)
 # Exemplo: df_disney['pais'] = 'Brasil'
-# Preencha com o país correto para cada DataFrame
 
 # Mapeamento de país para continente
 continentes = {
@@ -33,25 +32,23 @@ df_combined = pd.concat([df_disney, df_max, df_prime], ignore_index=True)
 df_combined['continente'] = df_combined['pais'].map(continentes)
 
 # Filtrar apenas as probes da América do Sul
-df_south_america = df_combined[df_combined['continente'] == 'América do Sul']
+df_south_america = df_combined[df_combined['continente'] == 'Ásia']
 
-# Agrupar por 'destino', 'timestamp' e calcular a média da latência
-latencia_media_south_america = df_south_america.groupby(['destino', 'timestamp'])['latencia'].mean().reset_index()
-
-# Gerar o gráfico comparativo para a latência média da América do Sul
+# Gerar o gráfico comparativo para a latência da América do Sul
 plt.figure(figsize=(14, 8))
 
 # Obter todos os destinos
-destinos = latencia_media_south_america['destino'].unique()
+destinos = df_south_america['destino'].unique()
 
+# Plotar os valores de latência diretamente sem fazer a média
 for destino in destinos:
-    df_destino = latencia_media_south_america[latencia_media_south_america['destino'] == destino]
+    df_destino = df_south_america[df_south_america['destino'] == destino]
     plt.plot(df_destino['timestamp'], df_destino['latencia'], marker='o', label=f'Destino: {destino}')
 
 # Configurações do gráfico
-plt.title('Comparação de Latência Média da América do Sul ao Longo do Tempo para Diferentes Destinos')
+plt.title('Comparação de Latência da América do Sul ao Longo do Tempo para Diferentes Destinos')
 plt.xlabel('Timestamp')
-plt.ylabel('Latência Média (ms)')
+plt.ylabel('Latência (ms)')
 plt.legend(title='Destinos', bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.grid(True)
 
@@ -59,8 +56,7 @@ plt.grid(True)
 plt.tight_layout()
 
 # Salvar o gráfico como um arquivo PNG
-plt.savefig('comparacao_latencia_south_america.png')
+plt.savefig('comparacao_latencia_asia.png')
 
 # Fechar a figura para liberar recursos
 plt.close()
-
