@@ -23,7 +23,7 @@ continentes = {
     'brasil': 'Ásia',
     'argentina': 'América do Sul',
     'uruguai': 'América do Sul',
-    'gra-bretania': 'Europa',
+    'gra-bretanha': 'Europa',
     'india': 'Ásia'
 }
 
