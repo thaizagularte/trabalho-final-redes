@@ -32,7 +32,7 @@ df_combined = pd.concat([df_disney, df_max, df_prime], ignore_index=True)
 df_combined['continente'] = df_combined['pais'].map(continentes)
 
 # Filtrar apenas as probes da América do Sul
-df_south_america = df_combined[df_combined['continente'] == 'América do Sul']
+df_south_america = df_combined[df_combined['continente'] == 'Europa']
 
 # Gerar o gráfico comparativo para a latência da América do Sul
 plt.figure(figsize=(14, 8))
@@ -43,12 +43,12 @@ destinos = df_south_america['destino'].unique()
 # Plotar os valores de latência diretamente sem fazer a média
 for destino in destinos:
     df_destino = df_south_america[df_south_america['destino'] == destino]
-    plt.plot(df_destino['timestamp'], df_destino['quantidade_saltos'], marker='o', label=f'Destino: {destino}')
+    plt.plot(df_destino['timestamp'], df_destino['latencia'], marker='o', label=f'Destino: {destino}')
 
 # Configurações do gráfico
-plt.title('Comparação de Quant. de saltos da América do Sul ao Longo do Tempo para Diferentes Destinos')
+plt.title('Latência dos destinos na Europa')
 plt.xlabel('Timestamp')
-plt.ylabel('Quant. de saltos')
+plt.ylabel('Latência (ms)')
 plt.legend(title='Destinos', bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.grid(True)
 
@@ -56,7 +56,7 @@ plt.grid(True)
 plt.tight_layout()
 
 # Salvar o gráfico como um arquivo PNG
-plt.savefig('comparacao_saltos_south_america.png')
+plt.savefig('latencia_europe.png')
 
 # Fechar a figura para liberar recursos
 plt.close()

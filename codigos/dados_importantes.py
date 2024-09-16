@@ -79,12 +79,16 @@ def gravar_resultados_em_json(resultados, caminho_arquivo_saida):
         json.dump(resultados, arquivo, indent=4)
 
 # Exemplo de uso:
-lista_arquivos_json = ['prime.json']  # Insira os arquivos aqui
-resultado = processar_arquivos_json(lista_arquivos_json)
+json_prime = ['prime.json'] 
+disney = processar_arquivos_json(json_prime)
+gravar_resultados_em_json(disney, 'prime_resultados.json')
 
-# Exibir os resultados
-for res in resultado:
-    print(res)
+# Exemplo de uso:
+json_disney = ['disney.json'] 
+disney = processar_arquivos_json(json_disney)
+gravar_resultados_em_json(disney, 'disney_resultados.json')
 
-# Gravar os resultados em um novo arquivo JSON
-gravar_resultados_em_json(resultado, 'prime_resultados.json')
+# Exemplo de uso:
+json_max = ['max.json'] 
+max = processar_arquivos_json(json_max)
+gravar_resultados_em_json(max, 'max_resultados.json')

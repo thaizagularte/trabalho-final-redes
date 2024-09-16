@@ -16,22 +16,17 @@ def ler_e_combinar_jsons(lista_arquivos_json):
         dfs.append(df)
     return pd.concat(dfs, ignore_index=True)
 
-# Função para ajustar os timestamps para horas
-def ajustar_timestamp_para_horas(df):
-    df['horas'] = df['timestamp'] / 3600  # Convertendo segundos para horas
-    return df
-
 # Função para gerar gráficos de latência ao longo do tempo por país e destino
 def grafico_latencia(df, salvar=False):
     plt.figure(figsize=(10, 6))
     sns.lineplot(x='horas', y='latencia', hue='pais', data=df, marker='o')
     plt.title('Variação da Latência ao Longo do Tempo por País')
-    plt.xlabel('Tempo (Horas)')
+    plt.xlabel('Timestamp')
     plt.ylabel('Latência (ms)')
     plt.xticks(rotation=45)
     plt.grid(True)
     if salvar:
-        plt.savefig('../graficos/max/grafico_latencia_max.png', dpi=300, bbox_inches='tight')
+        plt.savefig('grafico_latencia_max.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 # Função para gerar gráficos de quantidade de saltos ao longo do tempo por país e destino
@@ -39,12 +34,12 @@ def grafico_saltos(df, salvar=False):
     plt.figure(figsize=(10, 6))
     sns.lineplot(x='horas', y='quantidade_saltos', hue='pais', data=df, marker='o')
     plt.title('Variação da Quantidade de Saltos ao Longo do Tempo por País')
-    plt.xlabel('Tempo (Horas)')
+    plt.xlabel('Timestamp')
     plt.ylabel('Quantidade de Saltos')
     plt.xticks(rotation=45)
     plt.grid(True)
     if salvar:
-        plt.savefig('../graficos/max/grafico_saltos_max.png', dpi=300, bbox_inches='tight')
+        plt.savefig('grafico_saltos_max.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 # Função para gerar gráficos de correlação entre latência e quantidade de saltos para países
@@ -56,7 +51,7 @@ def grafico_correlacao_paises(df, salvar=False):
     plt.ylabel('Latência (ms)')
     plt.grid(True)
     if salvar:
-        plt.savefig('../graficos/max/grafico_correlacao_paises_max.png', dpi=300, bbox_inches='tight')  # Nome diferente para salvar
+        plt.savefig('grafico_correlacao_paises_max.png', dpi=300, bbox_inches='tight')  # Nome diferente para salvar
     plt.show()
 
 # Função para gerar gráficos de correlação entre latência e quantidade de saltos para continentes
@@ -70,7 +65,7 @@ def grafico_correlacao_continentes(df, salvar=False):
     plt.ylabel('Latência (ms)')
     plt.grid(True)
     if salvar:
-        plt.savefig('../graficos/max/grafico_correlacao_continentes_max.png', dpi=300, bbox_inches='tight')  # Nome diferente para salvar
+        plt.savefig('grafico_correlacao_continentes_max.png', dpi=300, bbox_inches='tight')  # Nome diferente para salvar
     plt.show()
 
 # Função para gerar gráficos por continente (necessita de um mapeamento de país -> continente)
@@ -81,32 +76,30 @@ def grafico_por_continente(df, continentes, salvar=False):
     plt.figure(figsize=(10, 6))
     sns.lineplot(x='horas', y='latencia', hue='continente', data=df, marker='o')
     plt.title('Variação da Latência ao Longo do Tempo por Continente')
-    plt.xlabel('Tempo (Horas)')
+    plt.xlabel('Timestamp')
     plt.ylabel('Latência (ms)')
     plt.xticks(rotation=45)
     plt.grid(True)
     if salvar:
-        plt.savefig('../graficos/max/grafico_latencia_continente_max.png', dpi=300, bbox_inches='tight')
+        plt.savefig('grafico_latencia_continente_max.png', dpi=300, bbox_inches='tight')
     plt.show()
 
     # Gráfico de saltos por continente
     plt.figure(figsize=(10, 6))
     sns.lineplot(x='horas', y='quantidade_saltos', hue='continente', data=df, marker='o')
     plt.title('Variação da Quantidade de Saltos ao Longo do Tempo por Continente')
-    plt.xlabel('Tempo (Horas)')
+    plt.xlabel('Timestamp')
     plt.ylabel('Quantidade de Saltos')
     plt.xticks(rotation=45)
     plt.grid(True)
     if salvar:
-        plt.savefig('../graficos/max/grafico_saltos_continente_max.png', dpi=300, bbox_inches='tight')
+        plt.savefig('grafico_saltos_continente_max.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 # Exemplo de uso:
-lista_arquivos_json = ['.json']  # Substituir pelos nomes dos seus arquivos
+lista_arquivos_json = ['max_resultados.json']  # Substituir pelos nomes dos seus arquivos
 dados = ler_e_combinar_jsons(lista_arquivos_json)
 
-# Ajustar timestamps para horas
-dados = ajustar_timestamp_para_horas(dados)
 
 # Mapeamento de país para continente
 continentes = {
