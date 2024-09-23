@@ -1,0 +1,34 @@
+- Na pasta codigos estão os códigos utilizados para refinar os resultados separando somente o que queriamos em novos json (_resultados)
+Assim como códigos usados para criar os gráficos de latência (separado por continentes e países) de cada destino
+Para o gráficos de quantidade de saltos (hops) (por continentes e países)
+E a correlação entre latência e quantidade de saltos
+
+
+- ID das medições
+    - MAX: 
+    - PRIME: 
+    - DISNEY:
+
+- Nas pasta graficos, estão separados os gráficos de cada um , assim  como gráficos de latência, saltos e correlação para cada destino 
+
+ -=-= Detalhes =-=- 
+ - Resutlados completos são os arquivos: disney.json, max.json e prime.json
+ - Resultados tratados: disney_resultados.json, rpime_resultados.json e max_resultados.json
+
+- Código usado para tratar os json's
+    - dados_importante.py
+
+-Código para gerar os gráficos gerais de cada destino
+    - gerar_graficos.py
+
+- Códigos usados para os gráficos das latência
+    - latencia_continente.py
+    - latencia_paises.py
+
+- Códigos usados para os gráficos dos saltos
+    - saltos_continente.py
+    - saltos_paises.py
+
+- Códigos usados para a correlação
+    - saltos_latencia_continente.py
+    - saltos_latencia_paises.py

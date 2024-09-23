@@ -1,3 +1,7 @@
+
+# Código que recebe um resultado da medição e gera o gráficos da latencia 
+# por timestamp para cada destino sendo separado por  continente
+
 import pandas as pd
 import matplotlib.pyplot as plt
 

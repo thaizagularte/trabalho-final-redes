@@ -1,3 +1,8 @@
+
+
+# Funções que leim o arquivo json dos resultados e separa
+# os dados id_probe, timestamp,latencia e saltos
+
 import json
 
 # Dicionário para mapear as probes aos seus países

@@ -1,3 +1,7 @@
+
+# Código que recebe um resultado da medição e gera o gráficos da quant de saltos
+#pelo timestamp separando por países
+
 import pandas as pd
 import matplotlib.pyplot as plt
 

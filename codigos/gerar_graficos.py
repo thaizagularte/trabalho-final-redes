@@ -1,3 +1,10 @@
+
+
+# Código responsável por receber um arquivo json e gerar os gráficos 
+# para os resultados
+# sendo os gráficos gerais, sem separar por continente ou país
+
+
 import json
 import pandas as pd
 import matplotlib.pyplot as plt

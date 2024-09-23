@@ -1,3 +1,8 @@
+
+
+# Código que recebe um resultado da medição e gera o gráficos da quant de saltos
+#pelo timestamp separando por continente
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -32,17 +37,21 @@ df_combined = pd.concat([df_disney, df_max, df_prime], ignore_index=True)
 df_combined['continente'] = df_combined['pais'].map(continentes)
 
 # Filtrar apenas as probes da América do Sul
-df_south_america = df_combined[df_combined['continente'] == 'Europa']
+
+#execute uma vez para cada continente
+continente_selecionado = df_combined[df_combined['continente'] == 'Europa']
+#continente_selecionado = df_combined[df_combined['continente'] == 'Ásia']
+#continente_selecionado = df_combined[df_combined['continente'] == 'América do Sul']
 
 # Gerar o gráfico comparativo para a latência da América do Sul
 plt.figure(figsize=(14, 8))
 
 # Obter todos os destinos
-destinos = df_south_america['destino'].unique()
+destinos = continente_selecionado['destino'].unique()
 
 # Plotar os valores de latência diretamente sem fazer a média
 for destino in destinos:
-    df_destino = df_south_america[df_south_america['destino'] == destino]
+    df_destino = continente_selecionado[continente_selecionado['destino'] == destino]
     plt.plot(df_destino['timestamp'], df_destino['quantidade_saltos'], marker='o', label=f'Destino: {destino}')
 
 # Configurações do gráfico
